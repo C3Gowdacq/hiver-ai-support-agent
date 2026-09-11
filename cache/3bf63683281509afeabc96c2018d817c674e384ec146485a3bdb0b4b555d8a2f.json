@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "3bf63683281509afeabc96c2018d817c674e384ec146485a3bdb0b4b555d8a2f",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|e1059e83ffc7daba",
+  "prompt_preview": "@SpotifyCares I deleted my facebook account which was linked to my Spotify account. I can't log anymore into Spotify :( Any help/tips ? Thanks",
+  "response": "{\"reply\": \"\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8752344846725464}"
+}

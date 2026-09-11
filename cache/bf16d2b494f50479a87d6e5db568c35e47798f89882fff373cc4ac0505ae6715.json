@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "bf16d2b494f50479a87d6e5db568c35e47798f89882fff373cc4ac0505ae6715",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 plz update \"Great Times Great Oldies\" it's me and my moms fav playlist and she keeps yelling at me for playing the same songs ❤️❤️",
+  "response": "{\"intent\": \"feature_request_howto\", \"confidence\": 0.75, \"reasoning\": \"The user is asking to update a playlist, which falls under playlist management and feature requests.\"}"
+}

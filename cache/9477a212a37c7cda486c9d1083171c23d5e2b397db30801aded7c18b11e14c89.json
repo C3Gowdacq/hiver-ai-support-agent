@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "9477a212a37c7cda486c9d1083171c23d5e2b397db30801aded7c18b11e14c89",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares  Keep getting the \"this song is not available. If u have the file on your computer you can import it\" message.  How 2 fix it?",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.93, \"reasoning\": \"User reports an error message preventing song playback and asks how to fix it, indicating a technical streaming issue.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "a7b26b3fe125362157c00d8aaf9f150b4eac82457e7750eb33790a7d0aa0afb4",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@SpotifyCares Now let's talk about lowering my payments 👀|@user We'd be happy to help with your billing! Please DM us your account details so we can take a closer look: https://t.co/ldFdZRiNAt /JM|jud",
+  "response": "{\"helpfulness\": 5, \"groundedness\": 4, \"brand_tone\": 5, \"correctness\": 5, \"critique\": \"The response is friendly and correctly directs the user to a private DM for billing help, but the generic short link is unnecessary and not an official Spotify URL.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "1b4dd4ba17574373f6db0f4900662b1272eb76db7123f2c29d2a39be978f617f",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|43fe9eb832eb5485",
+  "prompt_preview": "Someone hacked my Spotify account please help",
+  "response": "{\"reply\": \"Hey there. Sorry to hear about that! We suggest you follow the steps at https://t.co/QHn3ok8y2n. We hope that helps /CB\", \"grounding_note\": \"Grounded in Past Case 2, which addressed a hacked account with the same empathetic tone and directed the customer to the same recovery steps link.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.731147289276123}"
+}

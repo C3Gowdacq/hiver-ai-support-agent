@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "420e1a3a3f671555296a61d4e9ffd2ce9588eb2f7e5aa7e950bd2a72975e7ffa",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares I deleted my facebook account which was linked to my Spotify account. I can't log anymore into Spotify :( Any help/tips ? Thanks",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.96, \"reasoning\": \"The user reports being unable to log in after their linked Facebook account was deleted, which is a login/account access problem.\"}"
+}

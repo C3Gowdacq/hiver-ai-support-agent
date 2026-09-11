@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "3ff9b4943b15bd4de5e1e72ed29bb1d1834cd32ecb07c34943bbb3b8dd77d6d4",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 yo! What are the odds of Time Capsule getting updated every week like Discover Weekly? 🎧",
+  "response": "{\"intent\": \"feature_request_howto\", \"confidence\": 0.85, \"reasoning\": \"The user is asking about the possibility of a feature update (weekly updates for Time Capsule), which is a feature suggestion/request.\"}"
+}

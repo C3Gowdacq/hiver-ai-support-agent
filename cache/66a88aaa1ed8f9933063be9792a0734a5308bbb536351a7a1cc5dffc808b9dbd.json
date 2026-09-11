@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "66a88aaa1ed8f9933063be9792a0734a5308bbb536351a7a1cc5dffc808b9dbd",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@115888 why do you hate me ? https://t.co/AVAgzgcb5b|Hey! We've just sent you a DM. Check your inbox /RH|judge_v1",
+  "response": "{\"helpfulness\": 3, \"groundedness\": 5, \"brand_tone\": 3, \"correctness\": 5, \"critique\": \"The reply is safe and routes the user to a DM, but it lacks empathy for the venting tone and offers minimal guidance.\"}"
+}

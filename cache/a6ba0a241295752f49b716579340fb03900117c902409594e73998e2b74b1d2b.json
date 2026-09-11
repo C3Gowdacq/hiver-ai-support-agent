@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "a6ba0a241295752f49b716579340fb03900117c902409594e73998e2b74b1d2b",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|50f4bbfe2d7f8f8c",
+  "prompt_preview": "@115888 is there any way to stop specific bands/artists from being put onto your discover weekly/daily mix playlists????",
+  "response": "{\"reply\": \"\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8014513254165649}"
+}

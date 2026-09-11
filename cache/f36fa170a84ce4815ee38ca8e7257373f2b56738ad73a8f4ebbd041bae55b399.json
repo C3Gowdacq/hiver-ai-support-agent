@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "f36fa170a84ce4815ee38ca8e7257373f2b56738ad73a8f4ebbd041bae55b399",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|9b5b81213ac85bf6",
+  "prompt_preview": "@SpotifyCares hey guys! I've been using Spotify FOREVER and I've hit the 3333 mark for offline downloads. Will this ever be extended?",
+  "response": "{\"reply\": \"@user Hey there! Thanks for being with us for so long \\u2014 we'll make sure to pass your feedback about the offline download limit along to the right team. /ND\", \"grounding_note\": \"Grounded in Past Case 1, which handled a long-time power user's feedback by thanking them and confirming the feedback would be passed to the right people, using a warm tone and /ND initials.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6664944291114807}"
+}

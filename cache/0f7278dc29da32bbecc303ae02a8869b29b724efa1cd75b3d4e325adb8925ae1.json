@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "0f7278dc29da32bbecc303ae02a8869b29b724efa1cd75b3d4e325adb8925ae1",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@115888 plz update \"Great Times Great Oldies\" it's me and my moms fav playlist and she keeps yelling at me for playing the same songs ❤️❤️|Hey there! We love that you and your mom enjoy \"Great Times G",
+  "response": "{\"helpfulness\": 3, \"groundedness\": 4, \"brand_tone\": 5, \"correctness\": 5, \"critique\": \"The reply is warm and correctly routes the user, but it only points to the community forum rather than giving direct steps to edit the playlist, limiting its practical usefulness.\"}"
+}

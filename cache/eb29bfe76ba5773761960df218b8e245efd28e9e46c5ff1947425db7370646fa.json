@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "eb29bfe76ba5773761960df218b8e245efd28e9e46c5ff1947425db7370646fa",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "I hate that I cant call and tall to someone from @115888 directly to get my account fix.",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.8, \"reasoning\": \"The user is frustrated about not being able to reach a human agent to fix their account, indicating an underlying account issue.\"}"
+}

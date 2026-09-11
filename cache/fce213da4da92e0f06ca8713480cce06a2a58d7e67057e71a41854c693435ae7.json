@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "fce213da4da92e0f06ca8713480cce06a2a58d7e67057e71a41854c693435ae7",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "iOS 11(.1) has issues when using camera, then music,which (from Spotify) breaks.Not sure if it’s ios or the app?@AppleSupport @SpotifyCares",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.85, \"reasoning\": \"The user reports that Spotify music playback breaks after using the camera on iOS 11, which is a technical playback/device compatibility issue.\"}"
+}

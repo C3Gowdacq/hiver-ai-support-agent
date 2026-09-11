@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "e2c4c586897d8f8e74cada0acd8900ca1150265dac610015c1086e306187632e",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Trying to get in #Rapcavier",
+  "response": "{\"intent\": \"other\", \"confidence\": 0.75, \"reasoning\": \"The tweet is an incomplete fragment with unclear intent \\u2014 \\\"Trying to get in #Rapcavier\\\" doesn't specify whether it's about account access, content availability, or something else, making it ambiguous.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "e5cb34c600b9e80c0dda199d30d65be0034b1d87f3d19f471aa96d37f3679af7",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|098f6e86dd27be40",
+  "prompt_preview": "I want to be able to block an artist on @115888 so that even if their music is on a public playlist I follow, it automatically won't play.",
+  "response": "{\"reply\": \"Hey there! We'd love to hear your feedback on this feature request. Can you share a bit more about what you're looking for? /HR\", \"grounding_note\": \"Grounded in Past Case 3 (similarity 0.60) which asked the customer to share more details about their situation, and Past Case 1 (similarity 0.67) which directed feedback to a form. Since no specific feedback URL for artist-blocking was seen in the examples, I asked for more details instead of inventing a URL.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6691916584968567}"
+}

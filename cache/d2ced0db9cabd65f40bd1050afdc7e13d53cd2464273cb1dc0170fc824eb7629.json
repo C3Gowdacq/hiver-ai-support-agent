@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "d2ced0db9cabd65f40bd1050afdc7e13d53cd2464273cb1dc0170fc824eb7629",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|bebcf1e4c0a06846",
+  "prompt_preview": "@115888 I tried to re-install Spotify on my desktop comp and got this error. I have no idea what have happened. I suspect one of the latest windows updates could be responsible. Any suggestions? Thank",
+  "response": "{\"reply\": \"@115888 Sorry to hear that! Could you DM us (https://t.co/ldFdZRiNAt) with your device details and the exact error message so we can investigate? /AB\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.5643736124038696}"
+}

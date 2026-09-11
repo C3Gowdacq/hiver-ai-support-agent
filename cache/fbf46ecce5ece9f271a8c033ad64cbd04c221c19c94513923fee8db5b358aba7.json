@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "fbf46ecce5ece9f271a8c033ad64cbd04c221c19c94513923fee8db5b358aba7",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|4ead674192f0497e",
+  "prompt_preview": "@SpotifyCares singapore",
+  "response": "{\"reply\": \"@[user] Thanks for reaching out! Please DM us with more details so we can assist you with your Singapore question: https://t.co/ldFdZRiNAt /KM\", \"grounding_note\": \"Based on Past Case 3 where a brief thank\\u2011you reply with a DM link was used for a simple, non\\u2011specific request.\", \"grounding_cases_used\": 3, \"top_similarity\": 1.0}"
+}

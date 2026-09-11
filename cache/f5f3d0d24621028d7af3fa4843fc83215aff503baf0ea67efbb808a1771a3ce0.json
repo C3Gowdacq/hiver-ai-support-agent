@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "f5f3d0d24621028d7af3fa4843fc83215aff503baf0ea67efbb808a1771a3ce0",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares My account has been hacked and I'm locked out of both resetting my password and changing my email address. Any help you can offer?",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.95, \"reasoning\": \"The user explicitly states their account was hacked and they are locked out of password reset and email change, which are core account access issues.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "6c30f6994ae6c9d02198755ebdce258d0959e098ec1ed4d1ed493210940a2348",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|963d82fe9a7a4c38",
+  "prompt_preview": "@SpotifyCares Did you remove the 1986 The Fly soundtrack? =(",
+  "response": "{\"reply\": \"@[user] Thanks for reaching out! Could you DM us with more details so we can look into the soundtrack for you? https://t.co/ldFdZRiNAt /AB\", \"grounding_note\": \"Based on Past Case 3 (asking to continue in DM) and Past Case 2 (acknowledging feedback), we respond warmly, ask the user to DM for details, and include the DM link.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.9752537608146667}"
+}

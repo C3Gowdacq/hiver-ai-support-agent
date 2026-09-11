@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "0ae1bee9a17482ca8e658806d3d21c894d42b9121271103ed405bfa4d50096ad",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@SpotifyCares It sometimes appears a playback failed message, but not all the time|@user Hmm. Can you let us know your device, operating system and Spotify versions? We'll take a look under the hood /",
+  "response": "{\"helpfulness\": 3, \"groundedness\": 5, \"brand_tone\": 3, \"correctness\": 5, \"critique\": \"The reply asks for needed device details but offers no immediate troubleshooting steps and includes an unclear '/LS' tag, making tone slightly off\\u2011brand.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "51f0554a43e4ab13c892c9b2d3befe004415d295dfada0c0ce67a4271ffbbdae",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares I was listening to Spotify offline yesterday, no issues at all, today all my albums are no longer offline (playlists are fine). Why do this going missing? Running Android V8.4.26.770 - c",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.96, \"reasoning\": \"User reports offline albums disappearing and inability to play them, which is a technical playback/streaming issue.\"}"
+}

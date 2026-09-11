@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "b1a96edaa0513298773f8f16593c190ece2bd6e6ad49a2c32b727b4213fd2c8d",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@SpotifyCares Yeah I tried that too. The playlist shows up on my computer but it won't show up on my phone. On my phone it looks like there are no songs there but on my computer they are.|@SpotifyCare",
+  "response": "{\"helpfulness\": 3, \"groundedness\": 2, \"brand_tone\": 3, \"correctness\": 4, \"critique\": \"The reply asks for a DM without offering any immediate troubleshooting, includes an unclear URL, and its tone is only moderately friendly.\"}"
+}

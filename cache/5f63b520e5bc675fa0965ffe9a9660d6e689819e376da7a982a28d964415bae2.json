@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "5f63b520e5bc675fa0965ffe9a9660d6e689819e376da7a982a28d964415bae2",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|8c38e2442f38f8de",
+  "prompt_preview": "Soooooo why can't I find @118062 #Repuation on @115888 ?!?! I thought the album was out!!! #MusicNerd #NewMusic",
+  "response": "{\"reply\": \"\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.9637125134468079}"
+}

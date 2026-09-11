@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "73cbdf9a5201901fab5aa1b32e59ee581ac647da0be872b4216a8011a4ce8188",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "Hey @SpotifyCares, I'm trying to login to the web player and I'm getting this error message: \"Oops! Something went wrong, please try again or check out our help area.\" Any idea what's up? Thanks!",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.96, \"reasoning\": \"The user reports an error when trying to log in to the web player, which is a login/account access issue.\"}"
+}

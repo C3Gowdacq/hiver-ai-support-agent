@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "29ba97568cb9b142b2067ec089db857b43e6b782efb638e656ec35440a561858",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|44253e28889d4aba",
+  "prompt_preview": "@SpotifyCares Tested without Gramofon, works as expected. Tested again with Gramofon, works as expected.\n\n#NoFaultFound #StupidComputer #MostLikelyUserError",
+  "response": "{\"reply\": \"\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.9926588535308838}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "2f4e2f5ad3f7bd553484adfc2358025fe59f2103410c3d49f18344708f616d3a",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares I can’t log into my account it just keeps coming up with ‘something went wrong please try again’ please would you help me get back into my account?",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.96, \"reasoning\": \"The user reports being unable to log in and receiving an error, which is a classic account access problem.\"}"
+}

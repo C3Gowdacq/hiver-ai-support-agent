@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "7b9ee886e91cae10de0e5f25d108028f74fd4fb2575d58c76668e03fa80ed2ef",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|29b21dcc372213c6",
+  "prompt_preview": "@115888 can we get more @167274 added 🙏🏾🙏🏾",
+  "response": "{\"reply\": \"\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8656081557273865}"
+}

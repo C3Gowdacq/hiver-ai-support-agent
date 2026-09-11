@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "f26636f44899beb4e9e7a2719d5487f05eb2e68ce6de66d6f5d61fc58972a866",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Its been a month trying to get a response to fixing an error on my artist account. I need songs merged to my verified account.",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.85, \"reasoning\": \"The user is reporting an error on their artist account and requesting account-level fixes (merging songs to their verified account), which falls under account management issues.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "d116908ff068556522053950fe9f786c07bba4a760b506fb838e369c6b7bd8df",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 \"Discover\" is only going to be playlists?  Bad news. I want my album recs.",
+  "response": "{\"intent\": \"venting_feedback\", \"confidence\": 0.93, \"reasoning\": \"The user is expressing dissatisfaction with the Discover feature's limitation to playlists and wants album recommendations, which is a complaint about recommendations.\"}"
+}

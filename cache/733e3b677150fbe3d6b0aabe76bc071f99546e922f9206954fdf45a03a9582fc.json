@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "733e3b677150fbe3d6b0aabe76bc071f99546e922f9206954fdf45a03a9582fc",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares I also force closed the app, which stopped the download until I reopened the app again.",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.85, \"reasoning\": \"The user is describing a technical issue where force-closing the app interrupted a download, which is a playback/streaming-related technical problem.\"}"
+}

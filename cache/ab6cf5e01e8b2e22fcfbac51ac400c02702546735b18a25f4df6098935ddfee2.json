@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "ab6cf5e01e8b2e22fcfbac51ac400c02702546735b18a25f4df6098935ddfee2",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares singapore",
+  "response": "{\"intent\": \"other\", \"confidence\": 0.6, \"reasoning\": \"The tweet only mentions a location without a clear question or request, making the intent ambiguous.\"}"
+}

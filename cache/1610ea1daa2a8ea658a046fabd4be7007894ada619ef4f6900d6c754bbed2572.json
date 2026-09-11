@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "1610ea1daa2a8ea658a046fabd4be7007894ada619ef4f6900d6c754bbed2572",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "You think i give a shit if you cancel my shit, @115888? \nStreaming is like being fed through a tube, anyway. Doesn’t compliment the senses",
+  "response": "{\"intent\": \"venting_feedback\", \"confidence\": 0.85, \"reasoning\": \"The tweet is an emotional complaint about the streaming experience (\\\"fed through a tube,\\\" \\\"doesn't compliment the senses\\\") with no specific technical issue or actionable request, fitting the venting_feedback category.\"}"
+}

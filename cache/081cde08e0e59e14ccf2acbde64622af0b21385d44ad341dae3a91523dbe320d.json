@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "081cde08e0e59e14ccf2acbde64622af0b21385d44ad341dae3a91523dbe320d",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|f548c382fc8793ae",
+  "prompt_preview": "@SpotifyCares I open the app and most of my music is gone. I pay for your service. Can you fix it somehow? Please.",
+  "response": "{\"reply\": \"@user Hi! Sorry to hear that. Check out the steps under \\\"Downloads unexpectedly removed\\\" at https://t.co/38J7tFlIBF. They should help out /MC\", \"grounding_note\": \"Grounded in Past Case 1, which addressed a similar issue of missing/stored music with the same \\\"Downloads unexpectedly removed\\\" troubleshooting link and tone.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6791922450065613}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "09d2e1c200b97cbcaa1229d74d7c0bcb15b58d613e84db1be3175890d044a515",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "I want to be able to block an artist on @115888 so that even if their music is on a public playlist I follow, it automatically won't play.",
+  "response": "{\"intent\": \"feature_request_howto\", \"confidence\": 0.9, \"reasoning\": \"The user is requesting a feature (blocking an artist from playing in playlists) that doesn't currently exist, which falls under feature suggestions.\"}"
+}

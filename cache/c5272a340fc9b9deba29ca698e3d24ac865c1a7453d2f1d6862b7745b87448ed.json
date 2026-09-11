@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "c5272a340fc9b9deba29ca698e3d24ac865c1a7453d2f1d6862b7745b87448ed",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares hey my friend emailed 7 hours ago about his hijacked account. How can he expedite this a bit?",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.96, \"reasoning\": \"The user reports a hijacked account and asks for expedited assistance, which falls under login/security/account access issues.\"}"
+}

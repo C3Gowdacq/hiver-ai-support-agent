@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+twcs.csv
+data/twcs.csv
+data/golden_set_TOLABEL.csv
+*.log
+.env
+
+# Personal interview study materials (keep local, do not push)
+INTERVIEW_STUDY_GUIDE.md
+SpotifyCares_Interview_Master_Guide.pdf

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "06917a9b848466d5277000d29e4163e4794e6aa673031b5131163d4971d0edec",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares need to cancel my Spotify account but have access to my email address for the account. need help, thanks",
+  "response": "{\"intent\": \"billing_subscription\", \"confidence\": 0.9, \"reasoning\": \"The user explicitly states they need to cancel their Spotify account, which is a subscription management action.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "e4973b48ef1754adda7e5ffa3e820cc74bdc3aafb5c104c0f8b15ff4ee1600dc",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "I cant play my songs offline even though I have premium",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.95, \"reasoning\": \"The user is reporting a technical issue where offline playback is not working despite having a Premium subscription, which is a classic playback/streaming problem.\"}"
+}

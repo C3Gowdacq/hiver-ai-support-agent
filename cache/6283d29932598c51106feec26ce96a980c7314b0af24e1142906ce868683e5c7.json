@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "6283d29932598c51106feec26ce96a980c7314b0af24e1142906ce868683e5c7",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares I already did that. News websites in Romania said spotify will be available in Romania today 28th november, thats why i am asking.",
+  "response": "{\"intent\": \"content_availability\", \"confidence\": 0.94, \"reasoning\": \"User is asking about Spotify's availability in Romania, which concerns regional content availability.\"}"
+}

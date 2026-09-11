@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "7c79f3f1f228c55305e1ac2d425306ec018127cad8ada6ef9607a896c71acde5",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|e0dc05d3c79e7543",
+  "prompt_preview": "Spotify is down... I need to download Christmas songs to annoy the Christmas temps at work 😩😩😂😂 @115888 help me!",
+  "response": "{\"reply\": \"@115888 Hey there! Sorry you\\u2019re experiencing issues\\u2014please DM us so we can look into the outage and get those Christmas tunes back for you https://t.co/ldFdZRiNAt /JL\", \"grounding_note\": \"Based on Past Case 2 (asking how we can help) and Past Case 3 (moving conversation to DM).\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6468322277069092}"
+}

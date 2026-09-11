@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "38c600283a4f0355dae6c3dc5fa74dd2e030caa7db59919fc8e69b02465f2754",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "add Yung Lean to New Music Friday playlist or I'll unsub @115888",
+  "response": "{\"intent\": \"feature_request_howto\", \"confidence\": 0.93, \"reasoning\": \"The user is asking for a specific artist to be added to a curated playlist, which is a feature suggestion about playlist content.\"}"
+}

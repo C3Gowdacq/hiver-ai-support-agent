@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "d0ac57c74329945d35a2330f2f57ed78025c69fe36c581800a03957c3ca986c3",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 plz tell me why Velvet by Stoney LaRue suddenly got deleted. Guess I’m ending my subscription. Bye.",
+  "response": "{\"intent\": \"content_availability\", \"confidence\": 0.94, \"reasoning\": \"The user is asking why a specific song was removed, which is a request about missing content availability.\"}"
+}

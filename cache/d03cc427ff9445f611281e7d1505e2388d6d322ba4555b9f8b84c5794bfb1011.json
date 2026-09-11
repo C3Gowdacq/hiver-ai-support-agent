@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "d03cc427ff9445f611281e7d1505e2388d6d322ba4555b9f8b84c5794bfb1011",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@774377 @SpotifyCares I’m having a similar problem. I have an iPhone 7 that is on the newest update (iOS 11.1.2) that does not work with BMW connected drive, but I have an iPhone 6s Plus running iOS 1",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.96, \"reasoning\": \"User reports a device-specific connectivity issue where Spotify fails to work with BMW Connected Drive on a specific iPhone model, which is a playback/streaming problem.\"}"
+}

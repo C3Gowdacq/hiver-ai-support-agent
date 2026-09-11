@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "bb67874184ee2b5db7a180c228620ec1dc1d4b862e24be269f756fc9556d2fd8",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@SpotifyCares why do my playlists say \"by Spotify\" all of a sudden? I can't add/edit anymore. Don't want to re-make them. #spotify #help|Hey! That's not normal for your own playlists — could you DM us",
+  "response": "{\"helpfulness\": 3, \"groundedness\": 2, \"brand_tone\": 4, \"correctness\": 3, \"critique\": \"The reply is friendly but offers no concrete solution, includes an unverified link, and lacks clear guidance on fixing the playlist issue.\"}"
+}

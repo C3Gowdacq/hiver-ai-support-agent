@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "990763edf3d88e1d1157037ac057185c578d803e50fafd08e41e3e37f977022c",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|c28835247331d3bd",
+  "prompt_preview": "@spotifycares can't play any music in album page on Windows 7 64-bit version 1.0.68.407.g6864aaaf. all other music plays fine. attached image to show what it looks like when i try to play a song from ",
+  "response": "{\"reply\": \"@user Hi there! Sorry you\\u2019re seeing that on Windows\\u202f7 \\u2013 we don\\u2019t have a fix right now, but we\\u2019ll pass this along to the right team. Could you DM us more details? https://t.co/ldFdZRiNAt /XX\", \"grounding_note\": \"Based on Past Case 1 (content availability) and Past Case 2 (no info, forward to team) patterns, we acknowledge the issue, suggest we\\u2019ll forward it, and ask for DM for details.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7410502433776855}"
+}

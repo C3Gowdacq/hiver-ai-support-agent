@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "2fb3cab1cdc5bbf5090cfd91ef71c70efb287f6ddf197c189e3867f867fb92d9",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|fcf24c871ad3a35d",
+  "prompt_preview": "@SpotifyCares Why can I only pay with creditcard If instant student premium. I’m not Going to get a creditcard just for spotify.... (the netherlands)",
+  "response": "{\"reply\": \"Hi there! Could you DM us your username or email address so we can check why only credit cards are available for Student Premium in the Netherlands? /HR https://t.co/ldFdZRiNAt\", \"grounding_note\": \"Based on past cases where billing issues required account details, we ask the user to DM their username/email.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7141063213348389}"
+}

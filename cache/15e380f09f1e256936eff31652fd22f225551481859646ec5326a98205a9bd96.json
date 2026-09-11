@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "15e380f09f1e256936eff31652fd22f225551481859646ec5326a98205a9bd96",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@116130 Why is 20% of my discover weekly French?",
+  "response": "{\"intent\": \"venting_feedback\", \"confidence\": 0.96, \"reasoning\": \"The user is expressing dissatisfaction with the language mix in Discover Weekly, which is a complaint about recommendation algorithms.\"}"
+}

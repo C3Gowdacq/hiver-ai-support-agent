@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "8ef3f52a7c61f511ed24475a9b6f780bd9ddb0d0cafdc828268f0cd450093484",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares I’m pretty sure it just recently switched over. I’ve listened to that link for a while and never noticed it was like that before.",
+  "response": "{\"intent\": \"other\", \"confidence\": 0.85, \"reasoning\": \"This is a mid-conversation fragment that references a prior context (\\\"that link\\\") without providing enough information to determine the specific issue or intent.\"}"
+}

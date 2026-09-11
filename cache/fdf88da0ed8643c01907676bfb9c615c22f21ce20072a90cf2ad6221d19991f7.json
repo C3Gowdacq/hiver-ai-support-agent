@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "fdf88da0ed8643c01907676bfb9c615c22f21ce20072a90cf2ad6221d19991f7",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares \"Sorry. This radio station can't be started. Please try another station.\" warning in Weekly Playlist Radio https://t.co/JDdpD3PM9Y",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.92, \"reasoning\": \"The user is reporting a technical error where a radio station (Weekly Playlist Radio) fails to start, which is a playback/streaming issue.\"}"
+}

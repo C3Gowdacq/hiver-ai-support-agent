@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "31ffba4027b3b5fa4c12653edf4f34d9733a44e45019d98cc645850975e8d302",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@SpotifyCares I’ll try that next time it cuts out. It’s working at the moment after I logged out and reset the phone earlier. Thanks|Glad to hear it's working again! Just give us a shout if it cuts ou",
+  "response": "{\"helpfulness\": 5, \"groundedness\": 5, \"brand_tone\": 5, \"correctness\": 5, \"critique\": \"The reply is friendly, acknowledges the fix, offers future help without requesting private info, and contains no inaccurate claims.\"}"
+}

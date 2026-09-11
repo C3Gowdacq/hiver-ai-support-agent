@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "e9962b88c0b8d541565d1a235f0e582563b33d43b6106c506db3a35e9f499b0d",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|5c2981f3ba65bc7b",
+  "prompt_preview": "DAMMIT @115888 FIX YOURSELF MF I NEED MUSIC https://t.co/cem4WZyTJ4",
+  "response": "{\"reply\": \"@115888 Hey! Sorry you're having trouble \\u2013 could you DM us details about your device and app version so we can sort it out? https://t.co/ldFdZRiNAt /YM\", \"grounding_note\": \"Based on Past Cases 1-3, the reply asks for more info, offers help, and includes DM link, keeping tone friendly and concise.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7542921900749207}"
+}

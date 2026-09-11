@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "c1c92f18ed19771cc53b4f0bda40809d5a661269ee4a376c9d7a42db746b28e5",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares I heard it would be faster to get access to Spotify of Artists if I tweet at you, so I did that.",
+  "response": "{\"intent\": \"other\", \"confidence\": 0.85, \"reasoning\": \"The user is simply following a tip to reach Spotify for Artists support, without describing a specific technical issue, billing problem, or content question, making it an ambiguous mid-conversation fragment.\"}"
+}

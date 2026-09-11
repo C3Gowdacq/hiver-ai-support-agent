@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "c15d64c41032339bd0833274e61f59132e85d1eeccc3c172ce1042ba6fdb5d92",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|e52317bbe680466f",
+  "prompt_preview": "@115888 you guys need to add a setting to shut off all edited versions of song! Mood killer! #BitchDontKillMyVibe #DeadlyVenoms",
+  "response": "{\"reply\": \"@115888 Hey! We hear you on the edited versions \\u2013 we don\\u2019t have a setting for that yet, but we\\u2019ll pass your feedback along. /AR\", \"grounding_note\": \"Based on past cases, we acknowledge the request, note lack of current feature, and promise to pass feedback, using friendly tone and short format.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8067646026611328}"
+}

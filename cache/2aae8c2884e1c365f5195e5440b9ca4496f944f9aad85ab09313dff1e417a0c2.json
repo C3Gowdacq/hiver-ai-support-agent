@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "2aae8c2884e1c365f5195e5440b9ca4496f944f9aad85ab09313dff1e417a0c2",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|b9e2add8477ca2f9",
+  "prompt_preview": "@115888 why are there no Aaliyah songs on Spotify? Fix please",
+  "response": "{\"reply\": \"@115888 Hey! Could you let us know more details about the Aaliyah track(s) you\\u2019re looking for? We\\u2019ll see what we can do /NJ\", \"grounding_note\": \"Based on Past Case 1 where the user asked why a song isn\\u2019t on Spotify, we ask for more info and offer to look into it.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8170101642608643}"
+}

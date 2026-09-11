@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "f8b81563101a6fc63121201cf8ade0cad7e3bf24c825fcd50b91ac9b21c6720f",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares I’ll try that next time it cuts out. It’s working at the moment after I logged out and reset the phone earlier. Thanks",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.85, \"reasoning\": \"The tweet references a playback issue (\\\"cuts out\\\") that was resolved by logging out and resetting the phone, which is a technical streaming/playback problem.\"}"
+}

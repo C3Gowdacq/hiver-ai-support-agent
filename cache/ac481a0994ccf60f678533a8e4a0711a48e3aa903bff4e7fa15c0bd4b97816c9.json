@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "ac481a0994ccf60f678533a8e4a0711a48e3aa903bff4e7fa15c0bd4b97816c9",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "WTF @115888 does not have The Chronic and Compton by Dr. Dre. Having the largest collection does not mean quality #GrooveWasBetter",
+  "response": "{\"intent\": \"content_availability\", \"confidence\": 0.9, \"reasoning\": \"The customer is complaining about specific albums (The Chronic and Compton by Dr. Dre) not being available on the platform, which is a content availability issue.\"}"
+}

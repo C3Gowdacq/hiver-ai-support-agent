@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "22d5ff59b54d60de3e3de40490877effbe50dd4fde6f36fa79991142f955610b",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Thank you! Some of us spook easily!",
+  "response": "{\"intent\": \"other\", \"confidence\": 0.9, \"reasoning\": \"This is a brief, lighthearted thank-you message with no specific technical issue, question, or complaint, making it a general conversational fragment.\"}"
+}

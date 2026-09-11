@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "a764b25251c6f259d9a35080035a6eb09d99dae08edabc5c776e26c5d9d0a6ab",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Now let's talk about lowering my payments 👀",
+  "response": "{\"intent\": \"billing_subscription\", \"confidence\": 0.9, \"reasoning\": \"The user is asking about lowering their payments, which relates to pricing and subscription costs.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "c7da8b28b56072191b9e167fb544a426d9ca2e81754d7ec43cc670e6ab8c4b93",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|fa643f4f652d0ccb",
+  "prompt_preview": "@115888 \"Discover\" is only going to be playlists?  Bad news. I want my album recs.",
+  "response": "{\"reply\": \"@115888 Hi! Thanks for the feedback \\u2013 we\\u2019ll pass it to the team. In the meantime, you can tap \\u2764\\ufe0f or \\ud83d\\udeab on songs to shape your Discover recommendations. Let us know if you have other questions /DV\", \"grounding_note\": \"Based on Past Case 3, we acknowledge feedback, pass it to the team, and suggest using like/dislike to improve Discover recommendations.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6235426664352417}"
+}

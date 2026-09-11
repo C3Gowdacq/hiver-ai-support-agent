@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "50f29343ac3a18267709dfe4435ca28220df0515d670a667409ac4f3904c74d2",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "Come on @115888 get with the program... #iPhoneX https://t.co/28oFw8plc0",
+  "response": "{\"intent\": \"other\", \"confidence\": 0.92, \"reasoning\": \"The tweet lacks a clear Spotify-related request or issue, making its intent ambiguous.\"}"
+}

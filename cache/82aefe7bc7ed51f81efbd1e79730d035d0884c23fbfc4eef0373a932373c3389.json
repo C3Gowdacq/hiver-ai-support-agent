@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "82aefe7bc7ed51f81efbd1e79730d035d0884c23fbfc4eef0373a932373c3389",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|eca501545d5bbe98",
+  "prompt_preview": "@SpotifyCares Nevermind.  I cancelled my subscription.  I’ll renew it if you give it back.",
+  "response": "{\"reply\": \"Hey there! We're sorry to hear you've cancelled. If you'd like us to look into restoring your subscription, please DM us at https://t.co/ldFdZRiNAt so we can help you out \\ud83d\\ude42 /SF\", \"grounding_note\": \"Grounded in Past Case 1 (apologetic tone about subscription issues, /SF initials) and Past Case 3 (DM link pattern for private/billing matters, friendly emoji). Since this is a billing/subscription issue requiring private account info, asking for a DM follows the pattern from Case 3.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8423132300376892}"
+}

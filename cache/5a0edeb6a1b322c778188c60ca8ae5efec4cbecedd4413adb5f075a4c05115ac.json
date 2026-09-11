@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "5a0edeb6a1b322c778188c60ca8ae5efec4cbecedd4413adb5f075a4c05115ac",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|745d8a134bf392a7",
+  "prompt_preview": "@SpotifyCares Please do SA soon. My best friend has been waiting years to hear my playlists.",
+  "response": "{\"reply\": \"Hi there! It's currently not possible to share playlists in that way, but we'll pass your feedback on to the right folks so they can look into it \\ud83d\\ude09 /NY\", \"grounding_note\": \"Grounded in Past Case 1 (feature request about playlist visibility) \\u2014 same pattern: acknowledge the feature isn't currently available, pass feedback to the right team, warm tone with emoji and agent initials.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7490558624267578}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "c592a5c98c4b4ee1687542c2764af070307be629f136268c16eeac73bca629e7",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|487e720fb885a37b",
+  "prompt_preview": "Hey @SpotifyCares how do I make my muisc public",
+  "response": "{\"reply\": \"Hey there! Happy to help you get your music out there. Could you DM us your account's email address so we can take a look under the hood? /KB https://t.co/ldFdZRiNAt\", \"grounding_note\": \"Grounded in Past Case 1 (similarity 0.74), which used the same \\\"Hey there!\\\" greeting, \\\"take a look under the hood\\\" phrasing, and asked for the account email via DM with the t.co link and /KB initials. The tone and structure match the feature/how-to intent where private account info is needed.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7421756386756897}"
+}

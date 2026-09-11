@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "afd390399b3b662d21d640012d81c5f018f4297940ff12f87d120c6c309cca54",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|77b07de8e255aa49",
+  "prompt_preview": "@SpotifyCares \"Sorry. This radio station can't be started. Please try another station.\" warning in Weekly Playlist Radio https://t.co/JDdpD3PM9Y",
+  "response": "{\"reply\": \"Hey! Sorry you're running into that hiccup with your Weekly Playlist Radio. Could you DM us your account's email or username so we can take a look backstage? /AY https://t.co/ldFdZRiNAt\", \"grounding_note\": \"Grounded in Past Case 1 (playback/playlist issue requiring account info via DM) and Past Case 2 (friendly, concise tone about Discover Weekly features). Since this is a playback/streaming error that may need account-specific troubleshooting, asking for DM with account details follows the Case 1 pattern.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7841910123825073}"
+}

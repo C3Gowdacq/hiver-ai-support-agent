@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "4a3e8ace0787024c8db8fe864cdfbccabad33c225d419a1c4fa2849e0ba359a9",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|85ab2b13157b37e2",
+  "prompt_preview": "@SpotifyCares Turned this computer off for the night and relogged today to the same problem.  Song I click on plays the same wrong song",
+  "response": "{\"reply\": \"@user We're sorry to hear that's still happening! Could you DM us the name of the song you're trying to play and the one that's playing instead? https://t.co/ldFdZRiNAt /SJ\", \"grounding_note\": \"Grounded in Past Case 1 (asking for specific song details to troubleshoot) and Past Case 3 (asking for clarifying details about the song). The reply asks for private/specific info via DM per the rules, and uses the warm, helpful tone from the examples.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7984315156936646}"
+}

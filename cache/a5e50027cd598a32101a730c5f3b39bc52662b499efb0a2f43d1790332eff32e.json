@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "a5e50027cd598a32101a730c5f3b39bc52662b499efb0a2f43d1790332eff32e",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|ffb32277deb8fe9c",
+  "prompt_preview": "@115888 @2444 When will be Spotify available in India..??",
+  "response": "{\"reply\": \"Hi there! We're launching regularly in countries around the world. Sign up here to be first to hear: https://t.co/XDwWzj7cLP /AU\", \"grounding_note\": \"Grounded in Past Case 3 (similarity 0.75), which addressed a customer asking about Spotify availability in a specific country (Fiji) with a response about regular global launches and a sign-up link to be notified. The tone and structure are adapted for India.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7971272468566895}"
+}

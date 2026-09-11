@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "324dfa603463361db85db8d1e89e9d2f77ebae9170f7b6666d098effe59bb642",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "hey @115888 fix your app",
+  "response": "{\"intent\": \"other\", \"confidence\": 0.8, \"reasoning\": \"The tweet is a vague, incomplete complaint with no specific technical issue, feature, or context described, making it too ambiguous to classify into a specific intent.\"}"
+}

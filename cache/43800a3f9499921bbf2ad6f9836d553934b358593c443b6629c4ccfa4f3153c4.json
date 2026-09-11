@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "43800a3f9499921bbf2ad6f9836d553934b358593c443b6629c4ccfa4f3153c4",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares I can play it on my computer only. Using an iPhone 7 Plus with iOS 11, I believe. It’s grayed our on my mobile playlist even after download",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.9, \"reasoning\": \"The user reports a technical playback issue where a track is grayed out on their mobile device despite being downloaded, which is a streaming/offline playback failure.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "96762b533bdd10f95649feba65e488deb188541fb4f98891e7e6960dd2da6a1f",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|c22be958aa9f0f8f",
+  "prompt_preview": "@SpotifyCares why won’t my Spotify play on shuffle when connected through Bluetooth in my car?",
+  "response": "{\"reply\": \"@user Hey there, that doesn't sound right! Are you getting any error messages when you try to shuffle? If so, can you send us a screenshot? We'll take a look /JE\", \"grounding_note\": \"Grounded in Past Case 1, which addressed a shuffle playback issue with the same empathetic opener (\\\"that doesn't sound right!\\\"), asked about error messages, and requested a screenshot. The tone and structure are directly mirrored.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7324937582015991}"
+}

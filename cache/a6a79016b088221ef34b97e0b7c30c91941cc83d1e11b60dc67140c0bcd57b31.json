@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "a6a79016b088221ef34b97e0b7c30c91941cc83d1e11b60dc67140c0bcd57b31",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Yeah I tried that too. The playlist shows up on my computer but it won't show up on my phone. On my phone it looks like there are no songs there but on my computer they are.",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.96, \"reasoning\": \"User reports a technical issue where a playlist syncs on computer but not on phone, indicating a playback/streaming device problem.\"}"
+}

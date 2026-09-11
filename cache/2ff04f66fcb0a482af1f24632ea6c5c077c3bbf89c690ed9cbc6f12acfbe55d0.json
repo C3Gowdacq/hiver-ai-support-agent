@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "2ff04f66fcb0a482af1f24632ea6c5c077c3bbf89c690ed9cbc6f12acfbe55d0",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|a9781cf3b41850e4",
+  "prompt_preview": "@115888 hey when are you guys coming to Sri Lanka?",
+  "response": "{\"reply\": \"@115888 Hey! We love the enthusiasm\\u2014 we don\\u2019t have a set date yet, but we\\u2019ll keep you posted. Thanks for the support! /TC\", \"grounding_note\": \"Based on Past Case 1 tone (friendly, brief, no private info needed) and similar intent (general inquiry).\", \"grounding_cases_used\": 3, \"top_similarity\": 0.9540340900421143}"
+}

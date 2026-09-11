@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "ff78d9c2309672e9a481e502e5fe00b17d77c5cd637a9b77b778b2150ef4ecf7",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|0d0a8be866e58546",
+  "prompt_preview": "@SpotifyCares Hi, thanks for getting back so fast! I think it’s sorted itself! The message has gone and I can do more than shuffle! Thank you anyway! :)",
+  "response": "{\"reply\": \"@<your\\u2011handle> Glad to hear it\\u2019s all sorted! If anything else comes up, just give us a shout. /PL\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6858678460121155}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "d9f190c1b329e32672d2133219a097c94cccfd1518d91a42c6065f38f38ea766",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|e3c817732a073510",
+  "prompt_preview": "@115888 why can't we use app store cards to pay for premium?",
+  "response": "{\"reply\": \"@115888 Hey! App Store cards aren\\u2019t supported for Premium \\u2013 you\\u2019ll need a recurring payment method like a\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7925020456314087}"
+}

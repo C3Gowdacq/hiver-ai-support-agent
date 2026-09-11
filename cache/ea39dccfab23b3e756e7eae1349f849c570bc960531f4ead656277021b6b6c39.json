@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "ea39dccfab23b3e756e7eae1349f849c570bc960531f4ead656277021b6b6c39",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Hello my account got hacked by some random spanish peeps. But i managed to log out from all devices. What should i do?",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.95, \"reasoning\": \"The user explicitly states their account was hacked and is asking for guidance on securing it, which is a clear account access/security issue.\"}"
+}

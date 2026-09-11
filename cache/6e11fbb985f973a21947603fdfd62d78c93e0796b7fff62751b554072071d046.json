@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "6e11fbb985f973a21947603fdfd62d78c93e0796b7fff62751b554072071d046",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Tested without Gramofon, works as expected. Tested again with Gramofon, works as expected.\n\n#NoFaultFound #StupidComputer #MostLikelyUserError",
+  "response": "{\"intent\": \"venting_feedback\", \"confidence\": 0.78, \"reasoning\": \"The tweet expresses frustration about a technical issue without a clear request, fitting the venting_feedback category.\"}"
+}

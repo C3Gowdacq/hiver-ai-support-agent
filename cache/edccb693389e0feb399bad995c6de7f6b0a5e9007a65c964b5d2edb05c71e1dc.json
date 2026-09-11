@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "edccb693389e0feb399bad995c6de7f6b0a5e9007a65c964b5d2edb05c71e1dc",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares No, it was just playing normal ads, but instead of just playing audio while I navigate the app, it forced me to watch them.",
+  "response": "{\"intent\": \"venting_feedback\", \"confidence\": 0.85, \"reasoning\": \"The user is expressing frustration about the ad experience (forced video ads instead of audio-only) without asking a specific technical question or reporting a bug, which fits emotional venting/feedback.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "225ce9dcecd4dbd8f3212bf41f61afdeb584e499bc5e1890995e3597cf37f104",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|12d0fdbc23c15002",
+  "prompt_preview": "hey @115888 fix your app",
+  "response": "{\"reply\": \"Hey there! Can you tell us what's happening exactly? We'll take a look backstage /PB\", \"grounding_note\": \"Grounded in Past Case 1 (asking for details on what's happening) and Past Case 2 (offering to take a look backstage). The vague \\\"fix your app\\\" complaint requires more info, so asking what's happening exactly follows the pattern from Case 1.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7930951118469238}"
+}

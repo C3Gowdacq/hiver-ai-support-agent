@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "cb8759b5ffbae091a973109700bb42dc0fdf6443d62e1e567f2c57115ea3d188",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 PC app starts right up no problems. Mac app sucks all my power and still doesn't work.",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.85, \"reasoning\": \"The user is reporting a technical issue where the Mac app is not working (doesn't function properly) and is draining power, which falls under device/app technical problems.\"}"
+}

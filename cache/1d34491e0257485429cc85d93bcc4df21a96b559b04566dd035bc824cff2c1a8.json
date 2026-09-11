@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "1d34491e0257485429cc85d93bcc4df21a96b559b04566dd035bc824cff2c1a8",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares hi there I was trying to get my student discount but when i get to payment it says we can't confirm that you are student!\nHelp",
+  "response": "{\"intent\": \"billing_subscription\", \"confidence\": 0.96, \"reasoning\": \"The user is encountering an issue obtaining a student discount during payment, which relates to subscription billing and plan eligibility.\"}"
+}

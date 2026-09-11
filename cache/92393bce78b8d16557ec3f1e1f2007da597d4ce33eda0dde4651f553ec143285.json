@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "92393bce78b8d16557ec3f1e1f2007da597d4ce33eda0dde4651f553ec143285",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|3b7a25ef7c44068a",
+  "prompt_preview": "@115888 this is the worst song i’ve ever heard, and yet you insist on putting it in my discover weekly every other week, please explain https://t.co/OsFOvLFClW",
+  "response": "{\"reply\": \"@115888 Thanks for letting us know\\u2014sorry you\\u2019re not enjoying that track. We\\u2019ll pass your feedback along to the team. /SY\", \"grounding_note\": \"Based on Past Case 3 where a user complained about a song in Discover Weekly and the reply thanked them and said we\\u2019ll pass it on.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8498045206069946}"
+}

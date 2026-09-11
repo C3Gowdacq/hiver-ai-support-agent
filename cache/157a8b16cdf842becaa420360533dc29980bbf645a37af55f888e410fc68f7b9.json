@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "157a8b16cdf842becaa420360533dc29980bbf645a37af55f888e410fc68f7b9",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@117153 Hi Spotify. I made payment by atm transfer this morning (09:00AM) but I haven't got my premium account. Is there a any problem with Spotify?",
+  "response": "{\"intent\": \"billing_subscription\", \"confidence\": 0.95, \"reasoning\": \"The customer made a payment via ATM transfer and is asking why their Premium account hasn't been activated, which is a billing/subscription activation issue.\"}"
+}

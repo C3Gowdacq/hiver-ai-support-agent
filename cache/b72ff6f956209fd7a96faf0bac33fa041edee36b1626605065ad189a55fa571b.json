@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "b72ff6f956209fd7a96faf0bac33fa041edee36b1626605065ad189a55fa571b",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|1e9ac2abe88c2de1",
+  "prompt_preview": "@SpotifyCares  Keep getting the \"this song is not available. If u have the file on your computer you can import it\" message.  How 2 fix it?",
+  "response": "{\"reply\": \"@YourHandle Hey! Sorry you\\u2019re seeing that message. Could you DM us your device\\u2019s operating system and Spotify version so we can look into it? https://t.co/ldFdZRiNAt /KB\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8007148504257202}"
+}

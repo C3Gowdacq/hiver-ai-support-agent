@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "2e51830e6513faab0a141dc741133e4d4d7d9c699527e0b8adb5cfb52307d2f0",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|d2f87becb872cb36",
+  "prompt_preview": "@125633 our related artists on Spotify are death metal bands. Say whaaaa?",
+  "response": "{\"reply\": \"@125633 Sorry to hear the related artists aren't matching your taste. Please DM us with more details so we can look into it: https://t.co/ldFdZRiNAt /AB\", \"grounding_note\": \"Based on Past Case 1's brief, friendly tone and suggestion to DM for further help.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7349840402603149}"
+}

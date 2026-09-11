@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "98bab5baae1c8c8746b5ddf0c5a5fe620c1ffc1f4a1116e7f11dc323a402129a",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|d3f6150c7fcc33a9",
+  "prompt_preview": "@115888 i need you help",
+  "response": "{\"reply\": \"Hey! We're here to help. Could you DM us a bit more about what you need assistance with? https://t.co/ldFdZRiNAt /CB\", \"grounding_note\": \"Grounded in Past Case 2 (similarity 0.94) which handled a vague \\\"need help with my account\\\" request by asking the customer to DM with more details, using the same warm \\\"Hey!\\\" opener, the DM link, and /CB initials.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.9528703689575195}"
+}

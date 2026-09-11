@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "b7d4b335b7117424b684518bd0d917b457b107b51c25a2185dceeb6895f27771",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "Disappointed in @115888 today. Changed a playlist name, and I had to download my entire playlist b/c of just a name change. I discovered this 30 seconds before airplane mode for my six hour flight was",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.5, \"reasoning\": \"Fallback parse from raw output: Intent: playback_streaming | Confidence: 0.92 | Reasoning: The tweet reports a specific technical pr\"}"
+}

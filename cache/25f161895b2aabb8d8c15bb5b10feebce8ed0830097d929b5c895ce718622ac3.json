@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "25f161895b2aabb8d8c15bb5b10feebce8ed0830097d929b5c895ce718622ac3",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares  Who do I contact to change my subscription date? I would like the payment to come out on the 16th",
+  "response": "{\"intent\": \"billing_subscription\", \"confidence\": 0.96, \"reasoning\": \"The user asks how to change the subscription payment date, which is a billing/subscription management question.\"}"
+}

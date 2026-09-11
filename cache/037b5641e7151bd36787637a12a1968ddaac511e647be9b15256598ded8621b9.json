@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "037b5641e7151bd36787637a12a1968ddaac511e647be9b15256598ded8621b9",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|a529b43caa8f2393",
+  "prompt_preview": "@115888 IS THE ABSOLUTE WORST !!",
+  "response": "{\"reply\": \"@115888 We're sorry to hear that. Could you DM us your account email so we can investigate further? /AU https://t.co/ldFdZRiNAt\", \"grounding_note\": \"Based on Past Case 1 where a venting complaint was responded to with an apology and request for DM with account info.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.9886064529418945}"
+}

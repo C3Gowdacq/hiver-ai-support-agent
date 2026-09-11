@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "1c294597aeb2be6aa7b20b33afdc759acf1a7583d341f5b7e44f6671d0f2068f",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "C’mon @116130 this for real? Whatever happened to having your entire music collection online? 😕 https://t.co/thODgUlfok",
+  "response": "{\"intent\": \"content_availability\", \"confidence\": 0.88, \"reasoning\": \"The user complains that their entire music collection is not available online, indicating a missing content or catalog issue.\"}"
+}

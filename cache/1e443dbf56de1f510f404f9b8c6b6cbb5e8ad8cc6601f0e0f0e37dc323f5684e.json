@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "1e443dbf56de1f510f404f9b8c6b6cbb5e8ad8cc6601f0e0f0e37dc323f5684e",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@3493 Boards of Canada's, The Campfire Headphase on #Spotify is missing the track Macquarie Ridge, could you fix this please #BOC https://t.co/JeEB4VRLnE",
+  "response": "{\"intent\": \"content_availability\", \"confidence\": 0.95, \"reasoning\": \"The user is reporting a specific missing track from an album, which falls under content availability issues.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "182fb047237884402db7f5132e79a256b7cced4e1b61318996d086cf510523bf",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares I sent you all a direct message! Thanks in advance for the help! :)",
+  "response": "{\"intent\": \"other\", \"confidence\": 0.88, \"reasoning\": \"The message is a polite greeting and thanks without a specific request or issue, fitting the 'other' category.\"}"
+}

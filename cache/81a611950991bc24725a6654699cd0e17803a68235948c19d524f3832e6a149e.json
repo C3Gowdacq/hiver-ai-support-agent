@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "81a611950991bc24725a6654699cd0e17803a68235948c19d524f3832e6a149e",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@SpotifyCares #SuperSlimey|@customer Thanks for the tag! We're here if you need anything else. /DR|judge_v1",
+  "response": "{\"helpfulness\": 2, \"groundedness\": 5, \"brand_tone\": 4, \"correctness\": 5, \"critique\": \"The reply is friendly but offers no real assistance or next steps, making it minimally helpful.\"}"
+}

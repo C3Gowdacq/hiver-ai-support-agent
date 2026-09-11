@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "4ff419ace085c2907a9ea09e859a5a3361bbc8891b402ce55958e40ab316de57",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "Great to know with @115888 's latest update, you can no longer listen to music.",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.92, \"reasoning\": \"The user complains that a recent update prevents them from listening to music, indicating a playback/streaming problem.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "3a90ab925d8425a45009e92a5b8ff79299d4637605d4bcd20da5086b25d7adaf",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@SpotifyCares My account has been hacked and I'm locked out of both resetting my password and changing my email address. Any help you can offer?|Hey there, help's arrived! We're sorry to hear that. Ch",
+  "response": "{\"helpfulness\": 2, \"groundedness\": 2, \"brand_tone\": 4, \"correctness\": 5, \"critique\": \"The reply is friendly but only points to an ambiguous link and lacks concrete steps or private assistance, and the link appears non\\u2011official.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "53a5bcee05be0ea5f7d8f9e73052398e9fd256cca601948dd9da9c72b58cb75e",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 I need at least 3 to complete my playlist this is vital",
+  "response": "{\"intent\": \"other\", \"confidence\": 0.75, \"reasoning\": \"The tweet is vague and lacks a clear request or problem, making it ambiguous and best categorized as 'other'.\"}"
+}

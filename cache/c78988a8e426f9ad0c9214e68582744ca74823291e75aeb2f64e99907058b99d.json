@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "c78988a8e426f9ad0c9214e68582744ca74823291e75aeb2f64e99907058b99d",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|05a39f7ca2705f56",
+  "prompt_preview": "Great to know with @115888 's latest update, you can no longer listen to music.",
+  "response": "{\"reply\": \"@[user] Hey! Sorry you\\u2019re having trouble listening. Could you send us a DM with your account email or username so we can look into it? https://t.co/ldFdZRiNAt /FR\", \"grounding_note\": \"Based on Past Case 1 where a playback issue was addressed by asking for a DM with account details.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.5686091780662537}"
+}

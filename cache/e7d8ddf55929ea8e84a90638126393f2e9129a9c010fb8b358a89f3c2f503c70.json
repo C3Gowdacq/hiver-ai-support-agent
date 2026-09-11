@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "e7d8ddf55929ea8e84a90638126393f2e9129a9c010fb8b358a89f3c2f503c70",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "Hey @115888, can you make your web player a slightly smaller flaming pile of trash? Because the large flaming pile of trash that is your web player is getting a little unbearable to deal with...",
+  "response": "{\"intent\": \"venting_feedback\", \"confidence\": 0.93, \"reasoning\": \"The tweet expresses strong frustration with the web player UI size, venting about the interface rather than asking a specific technical or how\\u2011to question.\"}"
+}

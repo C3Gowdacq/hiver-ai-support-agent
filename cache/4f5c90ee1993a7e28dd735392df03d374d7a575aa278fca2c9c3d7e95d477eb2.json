@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "4f5c90ee1993a7e28dd735392df03d374d7a575aa278fca2c9c3d7e95d477eb2",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|c1dcbf927497dfce",
+  "prompt_preview": "Dear @115888 - pls don't tell me about shows that have been sold out for days! Getting my hopes up for #brucespringsteen :( https://t.co/n4v6GqygVK",
+  "response": "{\"reply\": \"Hey there! We're sorry to hear that \\u2014 we totally get the disappointment. We'll pass your feedback along to the right folks. Is there anything else going on with your Spotify experience we can help with? /MS\", \"grounding_note\": \"Grounded in Past Case 2 (feedback about a feature/experience, warm acknowledgment, passing feedback to the right team, checking if there's a broader issue) and Past Case 1 (friendly greeting, offering to help). The customer is expressing frustration about sold-out show notifications, which is a feedback/complaint rather than a technical issue, so the reply acknowledges the frustration, commits to passing feedback along, and offers further help \\u2014 matching the tone and structure of Case 2.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6356459259986877}"
+}

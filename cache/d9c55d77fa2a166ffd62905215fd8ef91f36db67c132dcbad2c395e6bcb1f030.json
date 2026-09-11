@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "d9c55d77fa2a166ffd62905215fd8ef91f36db67c132dcbad2c395e6bcb1f030",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 when you will fix the bug that doesn’t show any of your offline material when you are connected to a Wi-fi network that doesn’t have internet access?! So annoying https://t.co/qSzYkH1m1A",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.96, \"reasoning\": \"User reports a bug where offline songs are not accessible on a Wi\\u2011Fi network without internet, which is a playback/streaming technical issue.\"}"
+}

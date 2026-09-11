@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "6b5e993baf04ff19d2a465c412024947383adb0a1286371baf9b33976f942f6b",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares @144805 please and how can we compensate can you give me some playlist help",
+  "response": "{\"intent\": \"feature_request_howto\", \"confidence\": 0.72, \"reasoning\": \"The tweet asks for playlist help, which aligns with a how\\u2011to/feature request, despite the vague mention of compensation.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "8d999501ef49324e4cdf2352c7562ac12482023d3ae6d2ec575af8acaace12f6",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Hi, thanks for getting back so fast! I think it’s sorted itself! The message has gone and I can do more than shuffle! Thank you anyway! :)",
+  "response": "{\"intent\": \"other\", \"confidence\": 0.93, \"reasoning\": \"The message is a gratitude note confirming the issue resolved and contains no specific request or problem, fitting the 'other' category.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "1d5091946c77e76de53bfcfcb9c80ca58894009ee57ecee369070a51dc81b6ab",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "keep getting an error code 3 when trying to log in. password has been reset still wont work... @spotifycares",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.95, \"reasoning\": \"The user is experiencing login failures with an error code and password reset issues, which are classic account access problems.\"}"
+}

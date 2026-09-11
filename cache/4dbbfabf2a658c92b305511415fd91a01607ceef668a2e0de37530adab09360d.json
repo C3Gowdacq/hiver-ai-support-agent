@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "4dbbfabf2a658c92b305511415fd91a01607ceef668a2e0de37530adab09360d",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@115888 can we get more @167274 added 🙏🏾🙏🏾|nan|judge_v1",
+  "response": "{\"helpfulness\": 1, \"groundedness\": 1, \"brand_tone\": 1, \"correctness\": 1, \"critique\": \"The reply is just 'nan', providing no useful information, tone, or correct guidance for the content availability request.\"}"
+}

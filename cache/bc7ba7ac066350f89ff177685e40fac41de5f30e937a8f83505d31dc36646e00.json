@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "bc7ba7ac066350f89ff177685e40fac41de5f30e937a8f83505d31dc36646e00",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|a8f873c6052b767b",
+  "prompt_preview": "@SpotifyCares My account has been hacked and I'm locked out of both resetting my password and changing my email address. Any help you can offer?",
+  "response": "{\"reply\": \"Hey there, help's arrived! We're sorry to hear that. Check out https://t.co/QHn3ok8y2n for what to do next /JQ\", \"grounding_note\": \"Grounded in Past Case 1 (similarity 0.86) and Past Case 2 (similarity 0.84), both of which addressed hacked accounts with changed email/password by directing the customer to the same help article (https://t.co/QHn3ok8y2n) with a warm, empathetic tone and agent initials.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8625328540802002}"
+}

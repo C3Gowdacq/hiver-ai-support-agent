@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "e10fe94968fabedefc227e245ee99507306487edeb937a22f1b22ca29bc96a1a",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|35615604fb89777a",
+  "prompt_preview": "@SpotifyCares Why do you have a 3,333 song download limit on premium? @115948 doesn’t for their plan.",
+  "response": "{\"reply\": \"@SpotifyCares The 3,333 offline\\u2011track limit on Premium is in place to balance device storage and licensing requirements, which can differ across plans. If you\\u2019d like more details, please DM us here: https://t.co/ldFdZRiNAt /AR\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6580203771591187}"
+}

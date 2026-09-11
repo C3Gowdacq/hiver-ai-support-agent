@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "33e59568fdc45f3c0974e87cd4e234b36e3434f92d7f6b68c6b07ee64386d27c",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@115888 could you please stop putting Ocean Avenue in all of my daily mixes|nan|judge_v1",
+  "response": "{\"helpfulness\": 1, \"groundedness\": 1, \"brand_tone\": 1, \"correctness\": 1, \"critique\": \"The reply is just 'nan', which provides no assistance, contains no factual information, lacks any brand-appropriate tone, and fails to address or route the customer's request.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "f04a11791e10c705bec1b1c5f1189da97373f1c2a8c4b023c475987c9e55bdd5",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|d09cf69939c00ffb",
+  "prompt_preview": "@SpotifyCares Yeah I tried that too. The playlist shows up on my computer but it won't show up on my phone. On my phone it looks like there are no songs there but on my computer they are.",
+  "response": "{\"reply\": \"@SpotifyCares Sorry to hear your playlist isn\\u2019t showing up on your phone. Could you DM us your account email or username so we can look into it? https://t.co/ldFdZRiNAt /JA\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6280696988105774}"
+}

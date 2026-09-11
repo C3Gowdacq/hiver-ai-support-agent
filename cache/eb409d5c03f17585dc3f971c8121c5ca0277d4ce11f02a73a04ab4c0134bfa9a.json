@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "eb409d5c03f17585dc3f971c8121c5ca0277d4ce11f02a73a04ab4c0134bfa9a",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Where can I see my family's profiles and playlists? Should be easy but doesn't seem to be. (We have family premium a/c)",
+  "response": "{\"intent\": \"feature_request_howto\", \"confidence\": 0.94, \"reasoning\": \"The user asks how to locate family members' profiles and playlists, a usage/how\\u2011to question about a feature.\"}"
+}

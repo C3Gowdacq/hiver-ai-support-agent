@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "6c13630b8ec6675612f5c16ae3cf300f426de116264d7014ddbf3f82deb25435",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|76899508742834ec",
+  "prompt_preview": "@SpotifyCares There was a mix in the Daily Mix 6 slot a couple of weeks ago that I was listening to non-stop and it just vanished on Monday morning.",
+  "response": "{\"reply\": \"@SpotifyCares Hey! Daily Mixes refresh regularly, so tracks can sometimes disappear. If you think something\\u2019s off, please DM us your account email or username and we\\u2019ll take a look backstage /AB https://t.co/ldFdZRiNAt\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.592194676399231}"
+}

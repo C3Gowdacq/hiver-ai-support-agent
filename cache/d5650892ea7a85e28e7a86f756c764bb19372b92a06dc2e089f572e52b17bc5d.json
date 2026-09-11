@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "d5650892ea7a85e28e7a86f756c764bb19372b92a06dc2e089f572e52b17bc5d",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@SpotifyCares hey guys, need help pls 1. i’d like to get my profile verified as an artist on spotify  2. my new ep has already been linked to another artist profile|Hi there! For both your artist veri",
+  "response": "{\"helpfulness\": 4, \"groundedness\": 5, \"brand_tone\": 5, \"correctness\": 5, \"critique\": \"The reply is friendly and routes the user privately, but could include a brief note on the verification process for extra clarity.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "12bd126f96988e73fddc1a450d145309e66a73dac67b4f3c148934c5a90835dd",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares I have a problem with my spotify family, 3 of my members where kicked out today and they cannot connect. Other 1, cannot connect from the begining. I'm the host, Daniel Beliavskij\nHope f",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.86, \"reasoning\": \"The user reports family members being removed and unable to connect, indicating login/account access problems rather than playback or billing issues.\"}"
+}

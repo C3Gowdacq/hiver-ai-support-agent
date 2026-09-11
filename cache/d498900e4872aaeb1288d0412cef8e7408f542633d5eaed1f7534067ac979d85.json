@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "d498900e4872aaeb1288d0412cef8e7408f542633d5eaed1f7534067ac979d85",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 i need you help",
+  "response": "{\"intent\": \"other\", \"confidence\": 0.9, \"reasoning\": \"The tweet is a vague, incomplete request for help with no specific issue or context mentioned, making it impossible to classify into a specific intent category.\"}"
+}

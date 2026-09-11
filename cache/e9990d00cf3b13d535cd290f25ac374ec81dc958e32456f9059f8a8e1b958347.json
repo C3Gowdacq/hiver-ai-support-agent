@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "e9990d00cf3b13d535cd290f25ac374ec81dc958e32456f9059f8a8e1b958347",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|bf6b814b498dd65d",
+  "prompt_preview": "@SpotifyCares Why do my Discover Weekly no longer update Monday morning? Still on last week’s :(",
+  "response": "{\"reply\": \"Hey! Sorry to hear your Discover Weekly hasn't refreshed yet. It should update by Monday morning \\u2014 keep listening to your favourite tunes to help it get back on track \\ud83d\\ude42 /MC\", \"grounding_note\": \"Grounded in Past Case 1 and 3: both acknowledge the Discover Weekly frustration, apologize, and suggest keeping listening to favourite tracks to improve the playlist. Tone is warm, concise, and ends with agent initials.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8830918073654175}"
+}

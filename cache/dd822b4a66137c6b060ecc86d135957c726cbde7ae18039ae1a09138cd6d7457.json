@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "dd822b4a66137c6b060ecc86d135957c726cbde7ae18039ae1a09138cd6d7457",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Why can I only pay with creditcard If instant student premium. I’m not Going to get a creditcard just for spotify.... (the netherlands)",
+  "response": "{\"intent\": \"billing_subscription\", \"confidence\": 0.96, \"reasoning\": \"The user is asking why only credit cards are accepted for instant student premium and wants alternative payment methods, which is a billing/subscription payment question.\"}"
+}

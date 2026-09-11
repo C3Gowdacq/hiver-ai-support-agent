@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "4368fdbee1ada608f18fea7ba3d01c43f1e462da17f65611ffab7bf4879426ce",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Hi - I want to stop logging in with Facebook and login with my email instead but the system won't let me do it. Any thoughts?",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.96, \"reasoning\": \"The user is trying to change their login method from Facebook to email, which is a login/account access problem.\"}"
+}

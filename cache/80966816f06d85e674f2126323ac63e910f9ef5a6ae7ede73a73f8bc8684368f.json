@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "80966816f06d85e674f2126323ac63e910f9ef5a6ae7ede73a73f8bc8684368f",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares I've created an account using gmail address, with \"__email__\". I can't log in, I can't reset password.",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.95, \"reasoning\": \"The user is reporting login and password reset issues with their account, which are core account access problems.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "77bff093b6a2502fc166818cdff4e200262eaffdfd3d96c4015562fb2a3dc32e",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|b400466d72461edf",
+  "prompt_preview": "What is the thought process behind the spotlight thing on @115888 it confuses me for a half second every time I go back to the window",
+  "response": "{\"reply\": \"@{username} The spotlight is a brief visual cue that highlights new or updated content when you return to the window, so you don\\u2019t miss anything \\u2013 it\\u2019s meant\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8443155884742737}"
+}

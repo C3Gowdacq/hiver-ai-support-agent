@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "ad99cc7f21a0dfa5d3087184546ba72788b8e0fcb55d522b47438c2f0a9b491e",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|3f826a50dc3f0f93",
+  "prompt_preview": "@SpotifyCares I can’t log into my account it just keeps coming up with ‘something went wrong please try again’ please would you help me get back into my account?",
+  "response": "{\"reply\": \"@SpotifyCares Hi there, help's here! Can you DM us your account's email address? We'll take a look backstage /DV https://t.co/ldFdZRiNAt\", \"grounding_note\": \"Based on Past Cases 1 and 2 where login/payment errors were handled by asking the user to DM their account email for backstage assistance.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6314212083816528}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "ef26f66f0b321d055bec51df322c147511ebe2b8e57e28cdc28df04687ad19ff",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|2d87fdc123277cad",
+  "prompt_preview": "@115888 how can I get a premium account discount for a high school student?",
+  "response": "{\"reply\": \"Hey there, we hear you! Can you DM us your account's email address and username? We'll see what we can do /MX https://t.co/ldFdZRiNAt\", \"grounding_note\": \"Grounded in Past Case 1 (similarity 0.85), which addressed a similar discount inquiry by asking the customer to DM their account email and username, using the same warm tone, structure, and /MX initials.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8479435443878174}"
+}

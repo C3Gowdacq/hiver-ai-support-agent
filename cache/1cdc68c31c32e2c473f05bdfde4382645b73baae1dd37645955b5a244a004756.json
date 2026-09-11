@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "1cdc68c31c32e2c473f05bdfde4382645b73baae1dd37645955b5a244a004756",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "iOS 11(.1) has issues when using camera, then music,which (from Spotify) breaks.Not sure if it’s ios or the app?@AppleSupport @SpotifyCares|Hey there, help's here! Could you try logging out > restarti",
+  "response": "{\"helpfulness\": 3, \"groundedness\": 5, \"brand_tone\": 5, \"correctness\": 5, \"critique\": \"The reply is friendly and accurate but offers only generic troubleshooting steps, lacking specific guidance for the iOS camera\\u2011related playback issue.\"}"
+}

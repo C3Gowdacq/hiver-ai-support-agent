@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "76bffae5e9a626a128fbcef4264874155adf7533b44a15ed0dffd59b35e76b27",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@SpotifyCares Tested without Gramofon, works as expected. Tested again with Gramofon, works as expected.\n\n#NoFaultFound #StupidComputer #MostLikelyUserError|nan|judge_v1",
+  "response": "{\"helpfulness\": 1, \"groundedness\": 1, \"brand_tone\": 1, \"correctness\": 1, \"critique\": \"The reply is just 'nan', which provides no assistance, contains no factual information, lacks any brand-appropriate tone, and fails to address or route the customer's venting feedback.\"}"
+}

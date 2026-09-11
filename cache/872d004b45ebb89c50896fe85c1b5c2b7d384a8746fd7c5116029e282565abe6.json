@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "872d004b45ebb89c50896fe85c1b5c2b7d384a8746fd7c5116029e282565abe6",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@147836 could you pleeeaaaase make a playlist/s composed of massive amounts of 90 second random hit songs? I just want to listen to every 90 seconds of the main part in particular songs :(",
+  "response": "{\"intent\": \"feature_request_howto\", \"confidence\": 0.93, \"reasoning\": \"The user is requesting a new type of playlist with 90\\u2011second song snippets, which is a feature suggestion rather than a technical or account issue.\"}"
+}

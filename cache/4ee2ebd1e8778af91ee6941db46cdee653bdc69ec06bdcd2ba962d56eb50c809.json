@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "4ee2ebd1e8778af91ee6941db46cdee653bdc69ec06bdcd2ba962d56eb50c809",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|fee72ec5ab269a45",
+  "prompt_preview": "@SpotifyCares okay thanks for your help, how to you set a display name?",
+  "response": "{\"reply\": \"You're welcome! To set your display name, head to your Profile page and tap \\\"Edit profile\\\" to update it. Let us know if you need any more help! https://t.co/ldFdZRiNAt /LP\", \"grounding_note\": \"Based on Past Cases 1-3 which show a warm, concise tone with a closing offer of further help and agent initials. The how-to guidance for setting a display name (Profile > Edit profile) is standard Spotify functionality. DM link included per rules.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.9161478877067566}"
+}

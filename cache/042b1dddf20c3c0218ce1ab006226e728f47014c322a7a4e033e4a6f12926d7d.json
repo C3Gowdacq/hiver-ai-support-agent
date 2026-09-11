@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "042b1dddf20c3c0218ce1ab006226e728f47014c322a7a4e033e4a6f12926d7d",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares I can't login to my account on my Gear S2 to stream while I run. Keeps telling me to upgrade. Must have before my marathon.",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.85, \"reasoning\": \"The user is unable to log in to their account on a specific device (Gear S2), which is a login/access issue, even though the \\\"upgrade\\\" prompt hints at a possible billing component.\"}"
+}

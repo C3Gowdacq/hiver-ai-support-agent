@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "7147ff9a68ee4680e61e28f114297124f31630f4480e4e8bd9fd990184bd2508",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|c753362ac36a96e8",
+  "prompt_preview": "Spotify not showing up in my control center, my volume in my control center wont turn up when i press the buttons wtf",
+  "response": "{\"reply\": \"Hey there! Thanks for the report \\u2014 that sounds frustrating. Could you DM us a few details so we can take a closer look? https://t.co/ldFdZRiNAt \\ud83d\\udc9a /JS\", \"grounding_note\": \"Grounded in Past Case 2 (service hiccup acknowledgment + warm tone) and Past Case 3 (asking customer to follow/DM for private follow-up). Since this is a device-specific playback issue requiring private info, I asked for a DM with the link per the rules.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7892052531242371}"
+}

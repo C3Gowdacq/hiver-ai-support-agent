@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "4e72b196447d94a030c39bc303d9ff4e47e70006965a985e28e510eead05f0f6",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|5ec5016650e105a8",
+  "prompt_preview": "@115888 I need at least 3 to complete my playlist this is vital",
+  "response": "{\"reply\": \"@115888 Hi there! We hope to get those tracks added soon\\u2014check out info about Spotify content here: https://t.co/0i8GpimuDa /LO\", \"grounding_note\": \"Based on past cases where users request specific tracks, we respond by acknowledging the request, noting we hope to add them, and providing the content info link.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8208690881729126}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "f766c544ee54806e7c62fdcb8180c071c5de7cb20fd84a6d3a19c982fc90590b",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|88dbe119517d7cdd",
+  "prompt_preview": "@115888 hi, I’m currently having problems downloading albums. I’ve got 3gbs of storage left on my phone but it’s still not downloading? https://t.co/yNsQSWA4sg",
+  "response": "{\"reply\": \"Hey, help's here! Can you DM us your account's email address so we can take a look at the download issue? /RB https://t.co/ldFdZRiNAt\", \"grounding_note\": \"Based on Past Cases 1-3, the pattern for account/technical issues is to greet warmly, ask for the account's email via DM, and include the DM link with agent initials.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.5747998952865601}"
+}

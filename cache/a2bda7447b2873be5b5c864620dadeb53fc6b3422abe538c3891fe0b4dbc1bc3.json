@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "a2bda7447b2873be5b5c864620dadeb53fc6b3422abe538c3891fe0b4dbc1bc3",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares I need a pending fee of 10, done without my permission stopped immediately. How do I resolve this?",
+  "response": "{\"intent\": \"billing_subscription\", \"confidence\": 0.95, \"reasoning\": \"The customer is reporting an unauthorized charge (\\\"pending fee of 10, done without my permission\\\") and asking how to resolve it, which is a clear billing issue.\"}"
+}

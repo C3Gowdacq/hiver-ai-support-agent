@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "e3cdcb1b6aba17ac941eb57e90bb9eba2f11cb5aa05ed8e919443eb4da085148",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "Dear @115888 - pls don't tell me about shows that have been sold out for days! Getting my hopes up for #brucespringsteen :( https://t.co/n4v6GqygVK|Hey there! We're sorry to hear that — we totally get",
+  "response": "{\"helpfulness\": 2, \"groundedness\": 5, \"brand_tone\": 5, \"correctness\": 5, \"critique\": \"The reply is friendly but offers no concrete assistance or next steps for the user's concern about sold\\u2011out shows.\"}"
+}

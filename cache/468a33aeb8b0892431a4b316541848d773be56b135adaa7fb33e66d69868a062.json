@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "468a33aeb8b0892431a4b316541848d773be56b135adaa7fb33e66d69868a062",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|d2ea37772e324567",
+  "prompt_preview": "@SpotifyCares I'm getting an extended delay (~30 secs) when auth'ing my third-party app. Known issue?",
+  "response": "{\"reply\": \"Thanks for the heads-up! We'll pass this along to the right folks to look into. If there's anything else, just give us a shout /LP\", \"grounding_note\": \"Grounded in Past Case 3, which handled a similar \\\"known issue\\\" report by acknowledging the heads-up, promising to escalate to the right team, and inviting further contact.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.758600115776062}"
+}

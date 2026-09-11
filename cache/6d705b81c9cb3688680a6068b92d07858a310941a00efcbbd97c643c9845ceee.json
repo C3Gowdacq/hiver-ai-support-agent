@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "6d705b81c9cb3688680a6068b92d07858a310941a00efcbbd97c643c9845ceee",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 @SpotifyCares Alexa, Google, etc are out of the question since they're not enabled in Norway yet.",
+  "response": "{\"intent\": \"other\", \"confidence\": 0.75, \"reasoning\": \"The tweet is a mid-conversation fragment referencing a previous discussion about smart speaker support in Norway, without a clear standalone request or technical issue to classify.\"}"
+}

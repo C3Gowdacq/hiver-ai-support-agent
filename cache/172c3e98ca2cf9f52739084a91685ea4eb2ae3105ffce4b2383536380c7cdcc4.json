@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "172c3e98ca2cf9f52739084a91685ea4eb2ae3105ffce4b2383536380c7cdcc4",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "just discovered that your daily mixes repeat if you listen for more than like... 40 minutes. fix it @115888 @SpotifyCares",
+  "response": "{\"intent\": \"venting_feedback\", \"confidence\": 0.94, \"reasoning\": \"The user is expressing frustration about the Daily Mix feature's repetition, which fits the venting_feedback category.\"}"
+}

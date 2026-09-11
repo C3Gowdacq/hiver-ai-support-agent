@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "30f3d40468265d5b31c59afdd14a92f1d5e633615b6a0a97b384618eda10da97",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|cd72b4b262b94432",
+  "prompt_preview": "@115888 wtf you doing to me? 😰 https://t.co/BbCSzQsC0H",
+  "response": "{\"reply\": \"Hey there! Can you let us know what's happening exactly? We'll help out /AR\", \"grounding_note\": \"Grounded in Past Case 2 (similarity 0.90), which addressed a similar vague complaint (\\\"what is y'all doing?\\\") with a friendly request for more details. The tone and structure match the \\\"other\\\" intent classification where the issue is unclear.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.9848887920379639}"
+}

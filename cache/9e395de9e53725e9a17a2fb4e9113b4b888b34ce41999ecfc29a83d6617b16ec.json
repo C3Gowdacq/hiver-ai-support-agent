@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "9e395de9e53725e9a17a2fb4e9113b4b888b34ce41999ecfc29a83d6617b16ec",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "well since i can't use my spotify or my hulu i guess i'm gonna have to settle for netflix thx 4 the support",
+  "response": "{\"intent\": \"venting_feedback\", \"confidence\": 0.8, \"reasoning\": \"The user is expressing frustration and sarcasm about being unable to use their Spotify (and Hulu) service, venting their dissatisfaction without asking a specific technical question.\"}"
+}

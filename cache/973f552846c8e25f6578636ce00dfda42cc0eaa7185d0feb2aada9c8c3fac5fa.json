@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "973f552846c8e25f6578636ce00dfda42cc0eaa7185d0feb2aada9c8c3fac5fa",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|c095157274c0a6b6",
+  "prompt_preview": "@147836 could you pleeeaaaase make a playlist/s composed of massive amounts of 90 second random hit songs? I just want to listen to every 90 seconds of the main part in particular songs :(",
+  "response": "{\"reply\": \"@147836 Hey there, great suggestion! You can share your idea and vote for it here: https://t.co/hlXvRg5Zog so the team can see it /XX\", \"grounding_note\": \"Based on Past Case 2, feature requests are answered by directing the user to vote on the official idea page.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8086352944374084}"
+}

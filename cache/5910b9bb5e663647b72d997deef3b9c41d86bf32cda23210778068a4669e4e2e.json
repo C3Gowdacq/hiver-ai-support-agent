@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "5910b9bb5e663647b72d997deef3b9c41d86bf32cda23210778068a4669e4e2e",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 you should really consider offering the student discount for high school kids. i’m trynna graduate and bump beats at the same time.",
+  "response": "{\"intent\": \"feature_request_howto\", \"confidence\": 0.93, \"reasoning\": \"The tweet suggests a new discount offering for high school students, which is a feature suggestion rather than a technical or billing issue.\"}"
+}

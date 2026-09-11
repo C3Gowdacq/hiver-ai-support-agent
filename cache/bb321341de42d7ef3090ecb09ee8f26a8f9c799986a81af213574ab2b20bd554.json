@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "bb321341de42d7ef3090ecb09ee8f26a8f9c799986a81af213574ab2b20bd554",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 wtf you doing to me? 😰 https://t.co/BbCSzQsC0H",
+  "response": "{\"intent\": \"other\", \"confidence\": 0.75, \"reasoning\": \"The tweet is an emotional outburst with no specific technical issue, feature request, or actionable detail, making it an ambiguous vent without a clear intent.\"}"
+}

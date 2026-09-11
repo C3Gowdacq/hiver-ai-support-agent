@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "b4cb6938959caa24196c1d5e835df6bfb944f8f9e04bd4ad68584554c4ae15ec",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares I’ve had a persistent problem for years with random devices connecting to my account and unknown people playing music on it, changed my password multiple times, and this has happened acr",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.96, \"reasoning\": \"The user reports unauthorized device access and multiple password changes, indicating a hacked or compromised account.\"}"
+}

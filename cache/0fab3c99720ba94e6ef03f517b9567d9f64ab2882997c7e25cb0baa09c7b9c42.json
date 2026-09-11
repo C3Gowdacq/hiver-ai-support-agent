@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "0fab3c99720ba94e6ef03f517b9567d9f64ab2882997c7e25cb0baa09c7b9c42",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 hi, how can I get help w issues on on getting a password reset email",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.96, \"reasoning\": \"The user asks how to get help with a password reset email, which is a login/account access issue.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "f3e05d185ee66cb1f0ab163e8c7e3b7d56a9c28c315aaa987dc6b14bfc79ba0e",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 Hey, how come your version of the Beatles White Album has demo versions of Piggies and Revolution 1?",
+  "response": "{\"intent\": \"content_availability\", \"confidence\": 0.93, \"reasoning\": \"The user is questioning why the album contains demo versions, which is a query about the content provided on Spotify.\"}"
+}

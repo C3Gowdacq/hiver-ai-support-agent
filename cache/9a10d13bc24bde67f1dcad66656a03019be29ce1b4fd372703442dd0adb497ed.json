@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "9a10d13bc24bde67f1dcad66656a03019be29ce1b4fd372703442dd0adb497ed",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 @Spotifycares, When, if ever, will we be able to use spoitfy on appl watch w/o a phone.",
+  "response": "{\"intent\": \"feature_request_howto\", \"confidence\": 0.85, \"reasoning\": \"The user is asking about the availability of a specific feature (using Spotify on Apple Watch without a phone), which is a feature request/inquiry.\"}"
+}

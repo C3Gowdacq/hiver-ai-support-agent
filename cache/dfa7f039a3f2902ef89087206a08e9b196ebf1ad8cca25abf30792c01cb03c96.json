@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "dfa7f039a3f2902ef89087206a08e9b196ebf1ad8cca25abf30792c01cb03c96",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "Wow @115888 all my playlists were deleted and my password was changed and it says my email doesnt exist. I've had my account for years!! what is going on?!",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.96, \"reasoning\": \"The user reports password changes, email issues, and deleted playlists, indicating a compromised or inaccessible account.\"}"
+}

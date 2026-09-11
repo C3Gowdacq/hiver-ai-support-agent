@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "e60164bb432d19255147301b627b125c223c9315eb61a12992789473e4a52d55",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|15c2606f0473cb8f",
+  "prompt_preview": "iOS 11(.1) has issues when using camera, then music,which (from Spotify) breaks.Not sure if it’s ios or the app?@AppleSupport @SpotifyCares",
+  "response": "{\"reply\": \"Hey there, help's here! Could you try logging out > restarting your device > logging back in to see if it helps? Keep us posted /AR\", \"grounding_note\": \"Grounded in Past Cases 1 and 2, which both addressed iOS-related playback issues by suggesting the log out > restart > log back in troubleshooting step with a warm, concise tone.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8540548086166382}"
+}

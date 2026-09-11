@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "85563cbd1a39859d2371e54c82792be0471a3928ebe90b796c192907eb2aae39",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|1541faadd1a560f6",
+  "prompt_preview": "@405274 please add lyric a every song🙌🏽🤞🏽🙏🏽",
+  "response": "{\"reply\": \"@405274 We hear you! Your feedback has been noted and passed onto the team \\ud83d\\udc4a\\ud83c\\udffc /MX\", \"grounding_note\": \"Grounded in Past Case 3 (lyrics feature request) which acknowledged the request and pointed to a support link, and Past Case 1/2 which used warm acknowledgment + \\\"feedback noted\\\" pattern.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7104506492614746}"
+}

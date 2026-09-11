@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "4e16524a55f09c66669391deeeae9055f9e841bea874df65ce484e63e4fa886e",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares hey can you please send me the promo code for the majid jordan spotify presale i love majid and i have a spotify account THX",
+  "response": "{\"intent\": \"other\", \"confidence\": 0.75, \"reasoning\": \"The user is requesting a specific external promo code for a concert presale, which is not a Spotify product issue, feature, or support topic covered by the defined intents.\"}"
+}

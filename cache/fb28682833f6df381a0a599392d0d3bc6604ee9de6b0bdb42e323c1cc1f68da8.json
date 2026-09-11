@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "fb28682833f6df381a0a599392d0d3bc6604ee9de6b0bdb42e323c1cc1f68da8",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares I don't have account with you but money is going out my bank? Who can help?",
+  "response": "{\"intent\": \"billing_subscription\", \"confidence\": 0.9, \"reasoning\": \"The customer is reporting unauthorized bank charges from Spotify, which is a billing issue.\"}"
+}

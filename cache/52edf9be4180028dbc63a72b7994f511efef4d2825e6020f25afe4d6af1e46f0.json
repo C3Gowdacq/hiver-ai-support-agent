@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "52edf9be4180028dbc63a72b7994f511efef4d2825e6020f25afe4d6af1e46f0",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Keep getting the message \"song not available\" for ALL songs in my playlists and also yours. Premium is paid. Whats wrong?",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.85, \"reasoning\": \"The user is reporting a technical playback issue where songs are unavailable despite having a paid Premium subscription, which is a streaming/playback failure rather than a content licensing or billing question.\"}"
+}

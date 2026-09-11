@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "8ea04ebf5b79261ed65a517cb9c75e23afa8f600f42588a2b838dd574e5da13c",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares dear admin.... can you please fix this artist name? -- https://t.co/jY3MCmFeRv the name should \"d'Masiv\" Thx so much!",
+  "response": "{\"intent\": \"content_availability\", \"confidence\": 0.92, \"reasoning\": \"The user is requesting a correction to an artist's name, which pertains to content metadata availability rather than playback, account, billing, or feature questions.\"}"
+}

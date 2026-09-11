@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "ef15f95f1132c5c14915942a1ec508990ec187da098848b59e74d8597b826e1b",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares \nI have been having trouble getting my daughter signed up in our family account.  After several live chats, they think the problem is that I am not entering our address just exactly corr",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.93, \"reasoning\": \"The user reports difficulty adding a family member to their account due to address entry problems, which is an account access/management issue.\"}"
+}

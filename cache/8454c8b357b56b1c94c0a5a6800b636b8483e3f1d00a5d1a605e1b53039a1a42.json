@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "8454c8b357b56b1c94c0a5a6800b636b8483e3f1d00a5d1a605e1b53039a1a42",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares I’ve yet to hear from anyone at Spotify.   That’s another reason why I switched my streaming to another source.  Terrible service",
+  "response": "{\"intent\": \"venting_feedback\", \"confidence\": 0.85, \"reasoning\": \"The user is expressing frustration about poor customer service and has already switched to another platform, which is emotional venting without a specific technical or actionable request.\"}"
+}

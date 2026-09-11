@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "8910c8724e07d227ef7b40041fb2a06cd7b740c36c4dfde710e096b4e178ea01",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 I tried to re-install Spotify on my desktop comp and got this error. I have no idea what have happened. I suspect one of the latest windows updates could be responsible. Any suggestions? Thank",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.94, \"reasoning\": \"User reports an error after reinstalling the desktop app and seeks troubleshooting, which fits technical playback/streaming issues.\"}"
+}

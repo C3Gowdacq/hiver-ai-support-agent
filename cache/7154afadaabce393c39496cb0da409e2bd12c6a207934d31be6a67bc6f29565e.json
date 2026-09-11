@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "7154afadaabce393c39496cb0da409e2bd12c6a207934d31be6a67bc6f29565e",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "Soooooo why can't I find @118062 #Repuation on @115888 ?!?! I thought the album was out!!! #MusicNerd #NewMusic",
+  "response": "{\"intent\": \"content_availability\", \"confidence\": 0.93, \"reasoning\": \"The user is asking why a specific album cannot be found, indicating a missing or unavailable content issue.\"}"
+}

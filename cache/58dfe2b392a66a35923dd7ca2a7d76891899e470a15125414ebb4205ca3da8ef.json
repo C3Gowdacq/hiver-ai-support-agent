@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "58dfe2b392a66a35923dd7ca2a7d76891899e470a15125414ebb4205ca3da8ef",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares It sometimes appears a playback failed message, but not all the time",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.95, \"reasoning\": \"The user is reporting an intermittent \\\"playback failed\\\" error, which is a technical playback/streaming issue.\"}"
+}

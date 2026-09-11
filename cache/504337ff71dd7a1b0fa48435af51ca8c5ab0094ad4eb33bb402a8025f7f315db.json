@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "504337ff71dd7a1b0fa48435af51ca8c5ab0094ad4eb33bb402a8025f7f315db",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 If I already pay for both how can I get it for the student price?",
+  "response": "{\"intent\": \"billing_subscription\", \"confidence\": 0.9, \"reasoning\": \"The customer is asking about pricing and how to obtain the student discount, which falls under billing and subscription plans.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "39cb34fd0e3291b8d9a292b198f4d4102e2e437f9ce7b3785013e4c53e48a388",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares okay thanks for your help, how to you set a display name?",
+  "response": "{\"intent\": \"feature_request_howto\", \"confidence\": 0.9, \"reasoning\": \"The user is asking a how-to question about setting a display name, which falls under settings/UI navigation.\"}"
+}

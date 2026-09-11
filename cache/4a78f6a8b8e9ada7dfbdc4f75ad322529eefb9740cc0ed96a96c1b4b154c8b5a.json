@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "4a78f6a8b8e9ada7dfbdc4f75ad322529eefb9740cc0ed96a96c1b4b154c8b5a",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|fa0d771636c00586",
+  "prompt_preview": "@SpotifyCares Please help me. How do i change my name on Spotify? I made this when I was like 11 and I need help. https://t.co/FdSLsT1RFl",
+  "response": "{\"reply\": \"Hey there! We've just sent a DM your way. Let's carry on chatting there /AC\", \"grounding_note\": \"Grounded in Past Case 3, which handled a vague \\\"HELP!\\\" request by directing the customer to DM for further assistance. Since changing a name involves private account info, a DM is appropriate.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.716860294342041}"
+}

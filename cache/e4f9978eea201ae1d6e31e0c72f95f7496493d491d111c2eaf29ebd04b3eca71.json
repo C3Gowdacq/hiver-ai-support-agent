@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "e4f9978eea201ae1d6e31e0c72f95f7496493d491d111c2eaf29ebd04b3eca71",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|89fbff34ac36994a",
+  "prompt_preview": "@3493 Boards of Canada's, The Campfire Headphase on #Spotify is missing the track Macquarie Ridge, could you fix this please #BOC https://t.co/JeEB4VRLnE",
+  "response": "{\"reply\": \"@3493 Hi there! Thanks for flagging the missing track on The Campfire Headphase. We'll pass this on to the right folks to look into. /NQ\", \"grounding_note\": \"Grounded in Past Case 1 (missing/incorrect album content reported by user \\u2192 \\\"Thanks for reporting. We'll pass this on to the right folks.\\\") and Past Case 2 (missing content \\u2192 asking for more info). The new case is a specific missing track, so the Case 1 pattern of acknowledging and escalating fits best.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7902657985687256}"
+}

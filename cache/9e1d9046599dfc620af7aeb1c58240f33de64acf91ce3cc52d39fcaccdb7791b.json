@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "9e1d9046599dfc620af7aeb1c58240f33de64acf91ce3cc52d39fcaccdb7791b",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares There was a mix in the Daily Mix 6 slot a couple of weeks ago that I was listening to non-stop and it just vanished on Monday morning.",
+  "response": "{\"intent\": \"content_availability\", \"confidence\": 0.92, \"reasoning\": \"The user reports a Daily Mix playlist item that disappeared, indicating missing content rather than a technical playback or account issue.\"}"
+}

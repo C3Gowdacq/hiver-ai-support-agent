@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "7ea596d9cf8bc492416569cc6aceb83c1b6e2bd360d16eba3e2611ff89cd66c7",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@SpotifyCares Why do you have a 3,333 song download limit on premium? @115948 doesn’t for their plan.|@SpotifyCares The 3,333 offline‑track limit on Premium is in place to balance device storage and l",
+  "response": "{\"helpfulness\": 4, \"groundedness\": 1, \"brand_tone\": 3, \"correctness\": 2, \"critique\": \"The response offers a vague, likely inaccurate explanation of the download limit and includes a suspicious DM link, which hurts its accuracy and overall usefulness.\"}"
+}

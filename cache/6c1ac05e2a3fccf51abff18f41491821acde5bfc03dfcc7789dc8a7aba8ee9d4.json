@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "6c1ac05e2a3fccf51abff18f41491821acde5bfc03dfcc7789dc8a7aba8ee9d4",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "Really, @115888. You continue to taunt me with podcasts on my iPad, but won't allow me to listen. I don't know if we can continue to be friends.|@115888 Sorry you’re having trouble with podcasts on yo",
+  "response": "{\"helpfulness\": 3, \"groundedness\": 5, \"brand_tone\": 5, \"correctness\": 5, \"critique\": \"The reply asks for device/app details and a DM, which is appropriate but doesn\\u2019t offer an immediate fix, making it only moderately helpful.\"}"
+}

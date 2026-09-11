@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "7bbc68ea916d59d78203dc8775c52392c2017c1001fd52d560e607822358899e",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Thank you very much for your time!! I'll do it and see if it starts to run smoothly again now",
+  "response": "{\"intent\": \"other\", \"confidence\": 0.93, \"reasoning\": \"The message is a thank\\u2011you note without a specific request or problem, fitting the 'other' category.\"}"
+}

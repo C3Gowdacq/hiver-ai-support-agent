@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "8f411332cb40f3d7320f82820c8079335f87b2797b39d930d2a5dbaf64df2fae",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|bfb772cf15059a4e",
+  "prompt_preview": "Spotify has a Follow button, but where is the Never Play This Trash Again button? @115888 @33326",
+  "response": "{\"reply\": \"Hey! We hear you \\u2014 that's a fun one! Your feedback has been noted and passed onto the team /NQ\", \"grounding_note\": \"Grounded in Past Case 2 (similarity 0.75), which handled a feature request with a warm \\\"We hear you\\\" acknowledgment and confirmed the feedback was passed to the team. The tone and structure match the playful feature-request nature of this tweet.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7654649019241333}"
+}

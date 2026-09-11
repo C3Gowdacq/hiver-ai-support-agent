@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "5618af2a079a1234c85ef027dc5c830f98d3a788d6011a33f4222788c44d7090",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares I open the app and most of my music is gone. I pay for your service. Can you fix it somehow? Please.",
+  "response": "{\"intent\": \"content_availability\", \"confidence\": 0.75, \"reasoning\": \"The user reports that most of their music is missing from the app, which aligns with content availability issues (missing songs/albums), though the mention of paying for the service introduces a slight billing element.\"}"
+}

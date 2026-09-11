@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "da7dd31c908f2d542e272c42038fe47eb0707732041fdae21133ae7a5f5425fd",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@SpotifyCares The 3,333 download limit is not why I subscribed to Spotify premium.|Hi there! Sorry to hear you're running into issues with your downloads. Can you DM us your account's email address so",
+  "response": "{\"helpfulness\": 5, \"groundedness\": 5, \"brand_tone\": 5, \"correctness\": 5, \"critique\": \"The response is friendly, asks the user to DM for private verification, and correctly routes the billing-related concern without revealing sensitive info.\"}"
+}

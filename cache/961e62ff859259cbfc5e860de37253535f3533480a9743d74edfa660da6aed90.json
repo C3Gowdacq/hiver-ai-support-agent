@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "961e62ff859259cbfc5e860de37253535f3533480a9743d74edfa660da6aed90",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|0258bca1e972daf4",
+  "prompt_preview": "WHat my @115888 looks like right now 😑. Luckily I can still control it from my phone. https://t.co/AbH9meCwEV",
+  "response": "{\"reply\": \"@115888 Hey there! We're sorry to hear you're having some trouble. Could you let us know your device make/model and the iOS and Spotify versions you're on? We'll see what we can suggest /AY\", \"grounding_note\": \"Grounded in Past Case 1 (similarity 0.72), which addressed a device-related issue by asking for the iPhone's make/model and iOS/Spotify versions. The tone, structure, and /AY initials match that pattern.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7235702276229858}"
+}

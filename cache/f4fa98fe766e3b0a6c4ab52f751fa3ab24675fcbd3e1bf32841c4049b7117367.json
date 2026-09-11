@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "f4fa98fe766e3b0a6c4ab52f751fa3ab24675fcbd3e1bf32841c4049b7117367",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares For my friends it shows I got 2 exact same accounts, with the same share codes and mail but with different playlists?????",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.85, \"reasoning\": \"The user is reporting a duplicate account issue where two accounts share the same email and share codes, which is an account management/access problem.\"}"
+}

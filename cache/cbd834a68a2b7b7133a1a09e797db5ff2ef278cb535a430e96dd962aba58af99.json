@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "cbd834a68a2b7b7133a1a09e797db5ff2ef278cb535a430e96dd962aba58af99",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares having issues getting my account onto my new device dose not recognise email or password",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.95, \"reasoning\": \"The user is reporting that their email and password are not being recognized when trying to log into their account on a new device, which is a classic login/authentication issue.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "04e682c029597c2d07385c59e410e84e5aa3aa315ce136556cc6f6cfecd14001",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "Is @118062 ‘s reputation album coming to @115888 soon?",
+  "response": "{\"intent\": \"content_availability\", \"confidence\": 0.94, \"reasoning\": \"The user asks whether a specific album will be available in a certain location, which matches the content availability intent.\"}"
+}

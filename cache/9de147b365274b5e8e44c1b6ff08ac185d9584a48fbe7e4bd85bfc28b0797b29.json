@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "9de147b365274b5e8e44c1b6ff08ac185d9584a48fbe7e4bd85bfc28b0797b29",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "Spotify not showing up in my control center, my volume in my control center wont turn up when i press the buttons wtf",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.85, \"reasoning\": \"The user is reporting a device connectivity issue where Spotify isn't appearing in the control center and volume controls aren't working, which falls under technical playback/device connection problems.\"}"
+}

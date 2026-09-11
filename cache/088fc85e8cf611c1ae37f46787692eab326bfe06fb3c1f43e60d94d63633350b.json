@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "088fc85e8cf611c1ae37f46787692eab326bfe06fb3c1f43e60d94d63633350b",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Thank you!!",
+  "response": "{\"intent\": \"other\", \"confidence\": 0.95, \"reasoning\": \"This is a simple thank-you message with no specific technical issue, question, or complaint, making it a general greeting/acknowledgment.\"}"
+}

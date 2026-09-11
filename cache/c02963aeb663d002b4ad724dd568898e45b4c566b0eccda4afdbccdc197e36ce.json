@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "c02963aeb663d002b4ad724dd568898e45b4c566b0eccda4afdbccdc197e36ce",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@115888 plz tell me why Velvet by Stoney LaRue suddenly got deleted. Guess I’m ending my subscription. Bye.|nan|judge_v1",
+  "response": "{\"helpfulness\": 1, \"groundedness\": 1, \"brand_tone\": 1, \"correctness\": 1, \"critique\": \"The reply is just 'nan', which provides no answer, guidance, or empathy, fails to address the content removal issue, and does not follow any Spotify support policies.\"}"
+}

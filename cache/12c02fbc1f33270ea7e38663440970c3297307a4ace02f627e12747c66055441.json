@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "12c02fbc1f33270ea7e38663440970c3297307a4ace02f627e12747c66055441",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Hi, I currently have a premium account with student discount, but I want to switch to a Family account. Would I be able to keep all my playlists and downloaded songs?",
+  "response": "{\"intent\": \"billing_subscription\", \"confidence\": 0.96, \"reasoning\": \"The user asks about changing their subscription plan (student to Family) and whether their playlists and downloads will be retained, which is a billing/subscription inquiry.\"}"
+}

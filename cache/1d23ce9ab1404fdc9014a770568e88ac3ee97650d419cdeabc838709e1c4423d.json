@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "1d23ce9ab1404fdc9014a770568e88ac3ee97650d419cdeabc838709e1c4423d",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "Hey @115888 do you know what alphabetical order is? Quit suggesting russ liquid before russ issa hassle (no hate,mad love to russ liquid🙏🏽)",
+  "response": "{\"intent\": \"venting_feedback\", \"confidence\": 0.85, \"reasoning\": \"The user is complaining about the ordering of artist suggestions in the UI (alphabetical sorting), expressing frustration about the recommendation/suggestion system without asking a specific technical question.\"}"
+}

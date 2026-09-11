@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "4277cc315e169e734098948be14c6bb765bc33afa9e30372c898eaa8c8edfc82",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@spotifycares now i cant even login spotify 🙃🙃🙃",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.95, \"reasoning\": \"The user explicitly states they cannot log in to Spotify, which is a clear account access issue.\"}"
+}

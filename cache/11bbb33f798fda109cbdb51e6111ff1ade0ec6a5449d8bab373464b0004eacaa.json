@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "11bbb33f798fda109cbdb51e6111ff1ade0ec6a5449d8bab373464b0004eacaa",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares @389450 I’ve logged out in all devices already hoping this can be resolved.",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.85, \"reasoning\": \"The user mentions logging out of all devices, which is a typical action taken when dealing with account security or access issues.\"}"
+}

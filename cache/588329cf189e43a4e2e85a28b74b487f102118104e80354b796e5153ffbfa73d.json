@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "588329cf189e43a4e2e85a28b74b487f102118104e80354b796e5153ffbfa73d",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|a3d6d33e760e4362",
+  "prompt_preview": "@SpotifyCares I also force closed the app, which stopped the download until I reopened the app again.",
+  "response": "{\"reply\": \"Hey! Sorry about the download hiccup. Can you DM us your account's email address and your device's make/model? We'll take a look under the hood /AY https://t.co/ldFdZRiNAt\", \"grounding_note\": \"Grounded in Past Case 3 (similarity 0.90) which handled an app malfunction by asking for account email and device make/model via DM with the same /AY initials and DM link. Also drew on Past Case 2's warm \\\"hiccup\\\" phrasing for the download interruption.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.9269729256629944}"
+}

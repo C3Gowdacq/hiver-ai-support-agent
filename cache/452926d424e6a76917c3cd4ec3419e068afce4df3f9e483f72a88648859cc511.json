@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "452926d424e6a76917c3cd4ec3419e068afce4df3f9e483f72a88648859cc511",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|c1e941ef0761623d",
+  "prompt_preview": "@SpotifyCares I have a problem with my spotify family, 3 of my members where kicked out today and they cannot connect. Other 1, cannot connect from the begining. I'm the host, Daniel Beliavskij\nHope f",
+  "response": "{\"reply\": \"Hi Daniel! Could you DM us the email addresses or usernames for your account and the members who were removed? We'll take a look backstage https://t.co/ldFdZRiNAt /FR\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7565101385116577}"
+}

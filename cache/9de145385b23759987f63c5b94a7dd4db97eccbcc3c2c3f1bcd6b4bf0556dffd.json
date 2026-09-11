@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "9de145385b23759987f63c5b94a7dd4db97eccbcc3c2c3f1bcd6b4bf0556dffd",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 I cannot access music through my app!!",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.85, \"reasoning\": \"The user reports being unable to access music through the app, which is a technical playback/streaming issue.\"}"
+}

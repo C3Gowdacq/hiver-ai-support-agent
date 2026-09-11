@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "2b7b26ee8540b989e088d9929f80d330e005fe12c1456cf86291d11119bd6a18",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|c02ac820f0adfe87",
+  "prompt_preview": "why doesn't spotify have any of garth brooks albums????!?!?)! @115888 😠",
+  "response": "{\"reply\": \"Hey there! We'd love to have all of Garth Brooks' albums available, but sometimes content gets temporarily removed due to licensing changes. Here's some info about Spotify content: https://t.co/0i8GpimuDa /KB\", \"grounding_note\": \"Based on Past Cases 1-3, which all addressed missing content/albums by explaining licensing changes or directing users to content info links, with a warm, empathetic tone and agent initials.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7642468810081482}"
+}

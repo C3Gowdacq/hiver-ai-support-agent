@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "de5e3147da495bc8acd25880552f5cca70f077cd8e5a7eeb3a1655f12e9d0d15",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|cea204bd82611b72",
+  "prompt_preview": "Yeah.. I've been demanding for it for so long. Come on, @SpotifyCares. Please get 2NE1's first mini album available on Spotify. https://t.co/UNRVe8hwGm",
+  "response": "{\"reply\": \"@[user] Hey! Fingers crossed we'll be able to have it soon, but there's info about Spotify content here: https://t.co/0i8GpimuDa /RK\", \"grounding_note\": \"Based on past cases where users asked for missing albums, we use the same friendly tone, 'Fingers crossed we'll be able to have it soon' and provide the content info link.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6988763213157654}"
+}

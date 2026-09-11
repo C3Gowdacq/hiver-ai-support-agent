@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "826b59ff8b16105dc9dc8b2a54be26d116b9ef9c0fb6bc07f86271d27d34773b",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "Nå har jeg fått «Rune Rudberg - Ut mot havet» på hjernen. Takk til @SpotifyCares for ukens «Discover weekly» der altså 😭",
+  "response": "{\"intent\": \"venting_feedback\", \"confidence\": 0.75, \"reasoning\": \"The tweet is a Norwegian-language emotional reaction (with a crying emoji) about a song stuck in their head from Discover Weekly, expressing frustration/venting about the recommendation algorithm without a specific technical ask.\"}"
+}

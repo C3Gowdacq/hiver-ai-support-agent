@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "bb24893c5166498d21c25f11e9854746cf4f8110055bb05bc2e3814465f0e996",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "WHat my @115888 looks like right now 😑. Luckily I can still control it from my phone. https://t.co/AbH9meCwEV",
+  "response": "{\"intent\": \"other\", \"confidence\": 0.75, \"reasoning\": \"The tweet is a mid-conversation fragment referencing a previous issue (\\\"what my [device] looks like\\\") with a link, lacking enough context to determine a specific technical problem or intent.\"}"
+}

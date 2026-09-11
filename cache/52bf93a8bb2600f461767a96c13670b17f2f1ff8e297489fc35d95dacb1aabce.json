@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "52bf93a8bb2600f461767a96c13670b17f2f1ff8e297489fc35d95dacb1aabce",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|8c3022cd6aa32f56",
+  "prompt_preview": "@SpotifyCares Play/next/prev keys don't work on desktop app on macOS 10.13. Any ETA on a fix? Not just me, it seems. https://t.co/LNNXsbYstO",
+  "response": "{\"reply\": \"@SpotifyCares Sorry to hear about the play/next/prev keys on macOS 10.13. Could you let us know which Spotify desktop version you\\u2019re on and share any error details or a screenshot? We'll dig in /RA\", \"grounding_note\": \"Based on Past Case 1 (asking for device, OS, version) and Past Case 2 (requesting error details/screenshots) to gather info for playback key issues.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.5778802037239075}"
+}

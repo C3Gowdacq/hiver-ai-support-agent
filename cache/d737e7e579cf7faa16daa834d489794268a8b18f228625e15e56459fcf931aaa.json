@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "d737e7e579cf7faa16daa834d489794268a8b18f228625e15e56459fcf931aaa",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares my username is thabend0r",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.75, \"reasoning\": \"The user is providing their username, which is typically done in the context of account-related issues like login problems or account verification.\"}"
+}

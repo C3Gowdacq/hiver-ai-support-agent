@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "e78464dc71c2d9f756bb72eb93ad307733988aa810c5bd32f26d75be0b5c7a45",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares hey guys! I've been using Spotify FOREVER and I've hit the 3333 mark for offline downloads. Will this ever be extended?",
+  "response": "{\"intent\": \"feature_request_howto\", \"confidence\": 0.85, \"reasoning\": \"The user is asking about the offline download limit (3333 songs) and requesting an extension, which is a feature request about a product limitation.\"}"
+}

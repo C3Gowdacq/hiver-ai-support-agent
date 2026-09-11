@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "7f51a0799723f44c1283bf9bca130ef6a99ce3fb8d1b508aa95d76cbc2eb5dba",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|1c8902ab6af8210c",
+  "prompt_preview": "@SpotifyCares if my mom is already on my premium account and I have a family share plan, How do I get her account to premium?",
+  "response": "{\"reply\": \"Hey there! Could you DM us your account's email address or username? We'll take a look backstage and see what we can suggest /MT https://t.co/ldFdZRiNAt\", \"grounding_note\": \"Grounded in Past Case 2 (similarity 0.82) and Past Case 3 (similarity 0.78), both of which asked the customer to DM their account email/username for a backstage look at a premium/family account question, using the same warm tone, /XX initials, and DM link.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8460850119590759}"
+}

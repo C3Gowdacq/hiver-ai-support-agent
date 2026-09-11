@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "bebb3b79650df21b225600954b7a1533a30054f1b03cad1fdc03335d08f1ce1c",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Why do you have a 3,333 song download limit on premium? @115948 doesn’t for their plan.",
+  "response": "{\"intent\": \"feature_request_howto\", \"confidence\": 0.92, \"reasoning\": \"The user asks why a specific download limit exists on Premium, seeking clarification or a possible change, which fits the feature request/how\\u2011to category.\"}"
+}

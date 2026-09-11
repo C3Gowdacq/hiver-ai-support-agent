@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "1b381044966a5592b160260fc3ce461d87433e2ec3a7c6ba6e86482b4b7e9ace",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "Hey @117168 whatever happened to getting those lyrics \"fixed\"....im still waiting... #neverforget",
+  "response": "{\"intent\": \"venting_feedback\", \"confidence\": 0.8, \"reasoning\": \"The user is expressing frustration and impatience about a previously reported lyrics issue that hasn't been resolved, which is emotional venting without a specific new technical ask.\"}"
+}

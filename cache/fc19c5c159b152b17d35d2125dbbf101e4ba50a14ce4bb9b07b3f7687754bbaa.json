@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "fc19c5c159b152b17d35d2125dbbf101e4ba50a14ce4bb9b07b3f7687754bbaa",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 @2444 When will be Spotify available in India..??",
+  "response": "{\"intent\": \"content_availability\", \"confidence\": 0.85, \"reasoning\": \"The user is asking about the regional availability of Spotify in India, which falls under regional licensing/availability concerns.\"}"
+}

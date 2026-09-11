@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "24aa20460da75d287f64cf20a4a2777a31dca88018a892ecc84bbef0b6d9a0d7",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|f2763f9e11df0631",
+  "prompt_preview": "Guys wtf why frank ocean's endless is not on spotify? @SpotifyCares",
+  "response": "{\"reply\": \"Hey there! We're sorry to hear that Frank Ocean's \\\"Endless\\\" isn't available on Spotify. We've already let the right team know. In the meantime, let us know if you have other questions /JN\", \"grounding_note\": \"Based on Past Case 3 (similarity 0.78), which addressed a similar content availability issue by acknowledging the problem, informing the customer that the right team has been notified, and offering further assistance. The tone and structure were adapted to match the customer's frustration while maintaining a helpful and on-brand response.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.795801043510437}"
+}

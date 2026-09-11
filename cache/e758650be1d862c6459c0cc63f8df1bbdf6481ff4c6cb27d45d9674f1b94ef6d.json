@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "e758650be1d862c6459c0cc63f8df1bbdf6481ff4c6cb27d45d9674f1b94ef6d",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares I've been trying to get in contact with you guys and no one is returning my emails. I would like to change my username. Help.",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.9, \"reasoning\": \"The user is asking to change their username, which is an account management issue, and expressing frustration about not being able to reach support.\"}"
+}

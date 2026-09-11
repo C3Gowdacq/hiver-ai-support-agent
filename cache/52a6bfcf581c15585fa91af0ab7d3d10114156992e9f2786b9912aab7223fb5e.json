@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "52a6bfcf581c15585fa91af0ab7d3d10114156992e9f2786b9912aab7223fb5e",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Why does the android interface suck? There's no \"play now\" button, or a \"play next\" button, and the queue function is terrible.",
+  "response": "{\"intent\": \"venting_feedback\", \"confidence\": 0.94, \"reasoning\": \"The tweet expresses frustration with the Android UI and missing features, which matches venting_feedback rather than a specific how\\u2011to or technical issue.\"}"
+}

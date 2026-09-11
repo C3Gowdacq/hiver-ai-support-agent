@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "e7a8aa7a89c35350d5978b2912e74a7ace4c4bc1a97076d055634117f66444ec",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|f73cfa15f289df79",
+  "prompt_preview": "When will fifth harmony’s feels cover be released? @115888",
+  "response": "{\"reply\": \"Hey there! Fingers crossed it'll be available soon \\u2014 licensing agreements can affect when new tracks land on Spotify. You can check out more info about content availability here: https://t.co/0i8GpimuDa /NS\", \"grounding_note\": \"Based on Past Case 1 (asking about a specific song's availability) and Past Case 2 (licensing affecting availability). Both used a friendly greeting, acknowledged the content question, and pointed to a general info link about Spotify content availability.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.9315451383590698}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "b00aaa7ca8719b964a3acb66dba80fa9163f0299f98a7eb73f04841e280edda4",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|925ea44aed2fb95f",
+  "prompt_preview": "@SpotifyCares hey guys, need help pls 1. i’d like to get my profile verified as an artist on spotify  2. my new ep has already been linked to another artist profile",
+  "response": "{\"reply\": \"Hi there! For both your artist verification and the EP linking issue, you can reach our Artist team here: https://t.co/p1wbtdELHu. If you've already reached out, DM us your email address and we'll chase it up /QI https://t.co/ldFdZRiNAt\", \"grounding_note\": \"Grounded in Past Cases 1 and 2, which both directed artist profile issues to the Artist team contact link (https://t.co/p1wbtdELHu) and offered to chase it up via DM if the customer had already reached out. The reply combines both issues (verification + EP on wrong profile) under the same Artist team routing pattern.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6764035224914551}"
+}

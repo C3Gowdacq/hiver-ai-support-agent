@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "0f404d41edf7733bbf881020a2b6ef5e4a9e970da649a26c4974b34f4f5bc057",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|62e3564f16fe0dad",
+  "prompt_preview": "@SpotifyCares I was listening to Spotify offline yesterday, no issues at all, today all my albums are no longer offline (playlists are fine). Why do this going missing? Running Android V8.4.26.770 - c",
+  "response": "{\"reply\": \"@SpotifyCares Sorry to hear that! Please try the steps under \\u201cDownloads unexpectedly removed\\u201d here: https://t.co/38J7tFlIBF. Let us know if it helps /DR\", \"grounding_note\": \"Based on Past Case 1 which addressed albums being unexpectedly removed and provided the 'Downloads unexpectedly removed' guide.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6195205450057983}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "2b20d527d216d45e6f3edd68ceef852a485adaeae207af7f853e6186bd504814",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "Yeah.. I've been demanding for it for so long. Come on, @SpotifyCares. Please get 2NE1's first mini album available on Spotify. https://t.co/UNRVe8hwGm",
+  "response": "{\"intent\": \"content_availability\", \"confidence\": 0.96, \"reasoning\": \"The user is requesting that a specific album be made available on Spotify, indicating a missing or unavailable content issue.\"}"
+}

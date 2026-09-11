@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "4102dceb32d3443f4ade22383584555f756890370ba60aaaa6f8d8cb1be5601d",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|9b16db4a73986b49",
+  "prompt_preview": "@SpotifyCares I’m pretty sure it just recently switched over. I’ve listened to that link for a while and never noticed it was like that before.",
+  "response": "{\"reply\": \"Thanks for letting us know! We'll keep an eye on that for you. If you need anything else, just give us a shout /AK\", \"grounding_note\": \"Grounded in Past Case 3's pattern of acknowledging the customer's report, offering a brief reassurance, and closing with \\\"just give us a shout\\\" and agent initials.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6625401973724365}"
+}

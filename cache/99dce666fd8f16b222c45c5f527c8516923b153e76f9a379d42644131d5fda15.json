@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "99dce666fd8f16b222c45c5f527c8516923b153e76f9a379d42644131d5fda15",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|8946ccd2f839b579",
+  "prompt_preview": "@SpotifyCares How do I play an album, one piece after another? I've got a paid-for account, I go into the Android app, press the first movement of Shostakovitch 10.... and at the end it goes into U2 i",
+  "response": "{\"reply\": \"\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.5557135343551636}"
+}

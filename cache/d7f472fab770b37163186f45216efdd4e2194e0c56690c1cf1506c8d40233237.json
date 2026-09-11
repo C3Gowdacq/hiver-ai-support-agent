@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "d7f472fab770b37163186f45216efdd4e2194e0c56690c1cf1506c8d40233237",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|cc31e511cd96c779",
+  "prompt_preview": "@SpotifyCares Why does the android interface suck? There's no \"play now\" button, or a \"play next\" button, and the queue function is terrible.",
+  "response": "{\"reply\": \"@YourHandle Hey there! Sorry the Android UI isn\\u2019t working for you\\u2014could you DM us your device model and app version so we can pass this along to the product\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7653527855873108}"
+}

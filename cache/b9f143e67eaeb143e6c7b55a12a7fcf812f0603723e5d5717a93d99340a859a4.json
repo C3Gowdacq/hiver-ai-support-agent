@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "b9f143e67eaeb143e6c7b55a12a7fcf812f0603723e5d5717a93d99340a859a4",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "I'm quite fed up with this response @115888 \"the language of the emails we send is based on your account's country\". You've had YEARS.",
+  "response": "{\"intent\": \"venting_feedback\", \"confidence\": 0.85, \"reasoning\": \"The user is expressing frustration and venting about a previous support response regarding account country settings, without making a specific technical request.\"}"
+}

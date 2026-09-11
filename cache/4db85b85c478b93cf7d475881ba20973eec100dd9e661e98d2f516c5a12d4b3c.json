@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "4db85b85c478b93cf7d475881ba20973eec100dd9e661e98d2f516c5a12d4b3c",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Ios 11.1.2 and the latest spotify whatever that is",
+  "response": "{\"intent\": \"other\", \"confidence\": 0.78, \"reasoning\": \"The tweet only mentions iOS version and Spotify version without a clear request or problem, making the intent ambiguous.\"}"
+}

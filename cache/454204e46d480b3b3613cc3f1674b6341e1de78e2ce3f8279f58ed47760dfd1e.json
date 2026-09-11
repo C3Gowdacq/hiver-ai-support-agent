@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "454204e46d480b3b3613cc3f1674b6341e1de78e2ce3f8279f58ed47760dfd1e",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|a61eab4f5375229d",
+  "prompt_preview": "@SpotifyCares Hi, I currently have a premium account with student discount, but I want to switch to a Family account. Would I be able to keep all my playlists and downloaded songs?",
+  "response": "{\"reply\": \"@SpotifyCares Hi! You can keep all your playlists when you switch to a Family plan, though you\\u2019ll need to re\\u2011download songs on each device. Happy listening! /JL\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6858514547348022}"
+}

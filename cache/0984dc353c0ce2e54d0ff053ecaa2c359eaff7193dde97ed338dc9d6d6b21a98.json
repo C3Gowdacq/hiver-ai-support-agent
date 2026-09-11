@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "0984dc353c0ce2e54d0ff053ecaa2c359eaff7193dde97ed338dc9d6d6b21a98",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|fc93bbcc3d17826a",
+  "prompt_preview": "@SpotifyCares Hi - I want to stop logging in with Facebook and login with my email instead but the system won't let me do it. Any thoughts?",
+  "response": "{\"reply\": \"@[user] Hey there! We'd love to help you switch from Facebook to email login. Could you DM us your account email address so we can look into it? https://t.co/ldFdZRiNAt /GN\", \"grounding_note\": \"Based on Past Case 3 where the user needed help changing login method and we asked them to DM us for more info.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.5681692957878113}"
+}

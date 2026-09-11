@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "7e6bb06ae55105b9a1848e687a826b34a447a61ef9b73e631e3f9825c0fe169d",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Thanks but Emmanuel Y already helped me .",
+  "response": "{\"intent\": \"other\", \"confidence\": 0.9, \"reasoning\": \"The tweet is a brief thank-you message indicating the issue was already resolved by another agent, with no specific technical or service request.\"}"
+}

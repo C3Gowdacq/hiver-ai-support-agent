@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "ea2cb7184c953085f9cc15ddb5fa57658bdbd22e9a64ec4ba3a2ec5aa9bf77f6",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Ok sorry. The question was if you plan to release \"A triumph for Man\" with Mew. Best regards, Per",
+  "response": "{\"intent\": \"content_availability\", \"confidence\": 0.85, \"reasoning\": \"The customer is asking about the availability/release of a specific song (\\\"A triumph for Man\\\" by Mew) on Spotify, which falls under content availability.\"}"
+}

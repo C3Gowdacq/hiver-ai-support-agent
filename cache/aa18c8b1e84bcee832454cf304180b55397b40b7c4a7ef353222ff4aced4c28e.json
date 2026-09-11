@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "aa18c8b1e84bcee832454cf304180b55397b40b7c4a7ef353222ff4aced4c28e",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "Spotify is down... I need to download Christmas songs to annoy the Christmas temps at work 😩😩😂😂 @115888 help me!",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.96, \"reasoning\": \"The user reports Spotify being down and inability to download songs, which is a technical playback/streaming issue.\"}"
+}

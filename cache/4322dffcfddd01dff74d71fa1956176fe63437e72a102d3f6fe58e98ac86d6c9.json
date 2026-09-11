@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "4322dffcfddd01dff74d71fa1956176fe63437e72a102d3f6fe58e98ac86d6c9",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|51dfed0206b0e994",
+  "prompt_preview": "Hey @115888, can you make your web player a slightly smaller flaming pile of trash? Because the large flaming pile of trash that is your web player is getting a little unbearable to deal with...",
+  "response": "{\"reply\": \"@115888 We hear you\\u2014thanks for sharing your thoughts on the web player. We\\u2019ll pass your feedback along to the right team. Let us know if you have any other questions /JU\", \"grounding_note\": \"Based on Past Case 3, we acknowledge feedback and note we\\u2019ll pass it to the team, ending with a friendly sign\\u2011off.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8933665156364441}"
+}

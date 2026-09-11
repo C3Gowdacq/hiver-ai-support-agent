@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "9cc0be3be85b50629413d7cee84d7dbdd0f57dfa8326d6e48e3c393befb1b82e",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|076089b433a9d6d1",
+  "prompt_preview": "@SpotifyCares I’m still getting charged for my premium account even though I am signed up through starbucks??",
+  "response": "{\"reply\": \"Hey, help's here! Can you DM us your account's email address? We'll check backstage /GK https://t.co/ldFdZRiNAt\", \"grounding_note\": \"Grounded in Past Case 3 (similarity 0.73) which handled a similar billing/subscription issue where the customer was charged for premium unexpectedly. The reply pattern asks for the account email via DM to investigate backstage, using the same warm tone and structure.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8547580242156982}"
+}

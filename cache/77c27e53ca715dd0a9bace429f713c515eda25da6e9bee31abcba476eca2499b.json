@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "77c27e53ca715dd0a9bace429f713c515eda25da6e9bee31abcba476eca2499b",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|155fc1fc1c7823c0",
+  "prompt_preview": "@SpotifyCares I've been trying to get in contact with you guys and no one is returning my emails. I would like to change my username. Help.",
+  "response": "{\"reply\": \"Hey there! Sorry you've been having trouble reaching us. Can you DM us your account's email address or username? We'll check backstage and help you with that username change /AR https://t.co/ldFdZRiNAt\", \"grounding_note\": \"Grounded in Past Case 3 (similarity 0.60), which handled an account-related issue by asking the customer to DM their account email/username with the DM link, using a warm greeting and /AR initials. The tone and structure (apology + DM request + link) matches the pattern for account_access issues requiring private info.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6422982811927795}"
+}

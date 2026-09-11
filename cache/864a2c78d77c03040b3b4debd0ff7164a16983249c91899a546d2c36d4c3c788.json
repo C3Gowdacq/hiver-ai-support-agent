@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "864a2c78d77c03040b3b4debd0ff7164a16983249c91899a546d2c36d4c3c788",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares why do my playlists say \"by Spotify\" all of a sudden? I can't add/edit anymore. Don't want to re-make them. #spotify #help",
+  "response": "{\"intent\": \"feature_request_howto\", \"confidence\": 0.85, \"reasoning\": \"The user is asking about a playlist management issue (playlists showing \\\"by Spotify\\\" and inability to edit), which falls under playlist management and settings.\"}"
+}

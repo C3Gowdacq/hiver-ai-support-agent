@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "30787fa2cd5cad1770c87805c91b85a38a64c8ed558f25cb15c6671f69b80622",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@SpotifyCares Trying to reset my password and I’m getting a CSRF token is invalid. Can you help?|nan|judge_v1",
+  "response": "{\"helpfulness\": 1, \"groundedness\": 1, \"brand_tone\": 1, \"correctness\": 1, \"critique\": \"The reply is just 'nan', offering no assistance, guidance, or appropriate tone, and fails to address the user's password reset issue.\"}"
+}

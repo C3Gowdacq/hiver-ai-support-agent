@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "2e83d0c7dae3ff78badd5e321e7136ae8c729ea4375b953b96a5fa92710c8e65",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|a0cb544f6f2f895a",
+  "prompt_preview": "@SpotifyCares my username is thabend0r",
+  "response": "{\"reply\": \"Hey there! We'd recommend deleting your previous tweet as it contains private info. Could you DM it to us instead? /MT https://t.co/ldFdZRiNAt\", \"grounding_note\": \"Grounded in Past Case 1, which handled a customer sharing their username publicly by advising them to delete the tweet and DM the info instead, using the same /MT initials and DM link.\", \"grounding_cases_used\": 3, \"top_similarity\": 1.0}"
+}

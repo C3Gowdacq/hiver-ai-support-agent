@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "71a61fefcb88f89ccc25831246b7f64e2162675a16d6490222123ee5fc101d20",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares How do I play an album, one piece after another? I've got a paid-for account, I go into the Android app, press the first movement of Shostakovitch 10.... and at the end it goes into U2 i",
+  "response": "{\"intent\": \"feature_request_howto\", \"confidence\": 0.93, \"reasoning\": \"The user asks how to play an album sequentially without it jumping to another artist, which is a how\\u2011to question about playback settings rather than a technical failure.\"}"
+}

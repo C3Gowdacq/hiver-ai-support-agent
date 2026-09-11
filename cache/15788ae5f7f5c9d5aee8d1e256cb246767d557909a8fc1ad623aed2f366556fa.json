@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "15788ae5f7f5c9d5aee8d1e256cb246767d557909a8fc1ad623aed2f366556fa",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": ".@SpotifyCares, I am a longtime paid sub. &amp; can't play any album on iPhone, Mac continuously but 'Your Time Capsule.' Did Restarts. How fix?|@user Can you let us know the iOS and macOS versions, p",
+  "response": "{\"helpfulness\": 3, \"groundedness\": 5, \"brand_tone\": 3, \"correctness\": 3, \"critique\": \"The reply politely asks for device and app versions, which is safe and accurate, but it lacks empathy, immediate troubleshooting steps, and a warm brand tone.\"}"
+}

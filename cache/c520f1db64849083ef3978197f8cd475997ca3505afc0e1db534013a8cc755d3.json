@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "c520f1db64849083ef3978197f8cd475997ca3505afc0e1db534013a8cc755d3",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 If I want to buy a gift card to someone in the US but live in Sweden. How do I do?",
+  "response": "{\"intent\": \"feature_request_howto\", \"confidence\": 0.92, \"reasoning\": \"The tweet asks for instructions on how to purchase a gift card, which is a how\\u2011to question about using a Spotify feature.\"}"
+}

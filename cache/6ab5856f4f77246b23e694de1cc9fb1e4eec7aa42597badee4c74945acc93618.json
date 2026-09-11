@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "6ab5856f4f77246b23e694de1cc9fb1e4eec7aa42597badee4c74945acc93618",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@SpotifyCares I already did that. News websites in Romania said spotify will be available in Romania today 28th november, thats why i am asking.|@YourHandle Hi! Thanks for letting us know. We’ll DM yo",
+  "response": "{\"helpfulness\": 4, \"groundedness\": 3, \"brand_tone\": 5, \"correctness\": 4, \"critique\": \"The reply is friendly and offers a clear next step (DM), but it doesn\\u2019t provide the requested availability info directly and includes a generic short\\u2011link that isn\\u2019t a verifiable Spotify resource.\"}"
+}

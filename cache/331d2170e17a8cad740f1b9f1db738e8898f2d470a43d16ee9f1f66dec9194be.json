@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "331d2170e17a8cad740f1b9f1db738e8898f2d470a43d16ee9f1f66dec9194be",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|9ba8f43be8296efe",
+  "prompt_preview": "You think i give a shit if you cancel my shit, @115888? \nStreaming is like being fed through a tube, anyway. Doesn’t compliment the senses",
+  "response": "{\"reply\": \"@115888 We hear you! Your feedback on the streaming experience is important to us. If you'd like to share more details, feel free to DM us: https://t.co/ldFdZRiNAt /MT\", \"grounding_note\": \"Grounded in Past Case 1's warm, empathetic tone (\\\"Don't worry, we're here to help\\\") and Past Case 3's acknowledgment of feedback (\\\"We hear you\\\"). The reply validates the customer's venting without inventing solutions, and includes the DM link for further private discussion as per the rules.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7040523290634155}"
+}

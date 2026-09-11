@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "adde58cf0fb5016154740c354625e32a9b48619f31e5151b42aec057e094a02b",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "When will fifth harmony’s feels cover be released? @115888",
+  "response": "{\"intent\": \"content_availability\", \"confidence\": 0.85, \"reasoning\": \"The customer is asking about the release timing of a specific song (Fifth Harmony's \\\"Feels\\\" cover), which falls under new release availability.\"}"
+}

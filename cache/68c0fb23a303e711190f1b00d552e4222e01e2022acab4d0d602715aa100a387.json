@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "68c0fb23a303e711190f1b00d552e4222e01e2022acab4d0d602715aa100a387",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "Really, @115888. You continue to taunt me with podcasts on my iPad, but won't allow me to listen. I don't know if we can continue to be friends.",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.96, \"reasoning\": \"The user reports being unable to listen to podcasts on their iPad, indicating a playback/streaming technical issue.\"}"
+}

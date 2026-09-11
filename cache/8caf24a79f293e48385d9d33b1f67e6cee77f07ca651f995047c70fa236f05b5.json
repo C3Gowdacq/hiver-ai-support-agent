@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "8caf24a79f293e48385d9d33b1f67e6cee77f07ca651f995047c70fa236f05b5",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@Spotifycares I've started getting this popup on iPhone in my car. whatever I'm playing stops and something random starts.  What's this? https://t.co/SQMkXI8CLe",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.92, \"reasoning\": \"The user is reporting a technical playback issue where their music stops and random content starts playing on their iPhone in the car, which is a device-specific streaming/playback bug.\"}"
+}

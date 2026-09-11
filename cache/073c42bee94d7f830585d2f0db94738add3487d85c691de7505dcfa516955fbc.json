@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "073c42bee94d7f830585d2f0db94738add3487d85c691de7505dcfa516955fbc",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "https://t.co/z99SxKAf1r|@[user] Hey! We can help out here on Twitter—if it’s about your account or billing, please DM us: https://t.co/ldFdZRiNAt /CH|judge_v1",
+  "response": "{\"helpfulness\": 3, \"groundedness\": 5, \"brand_tone\": 5, \"correctness\": 5, \"critique\": \"The reply is friendly and correctly routes the user to a private DM for account or billing issues, but it offers no concrete help for the vague 'other' request.\"}"
+}

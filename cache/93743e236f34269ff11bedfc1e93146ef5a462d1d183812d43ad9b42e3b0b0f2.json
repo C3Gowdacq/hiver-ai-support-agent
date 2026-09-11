@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "93743e236f34269ff11bedfc1e93146ef5a462d1d183812d43ad9b42e3b0b0f2",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "Dear @115888,\nDon't you only play commercials on the free version of the app? Why are you advertising @1731 on the free app? If I had enough money to own a Cadillac I'd have no problem paying to liste",
+  "response": "{\"intent\": \"venting_feedback\", \"confidence\": 0.92, \"reasoning\": \"The tweet expresses frustration about ads on the free version and the desire to pay, which is a complaint without a specific technical request.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "9e1d4b555799908be884ee7f223b8ed058240680c93cb437878fd56effa9092b",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "When will fifth harmony’s feels cover be released? @115888|Hey there! Fingers crossed it'll be available soon — licensing agreements can affect when new tracks land on Spotify. You can check out more ",
+  "response": "{\"helpfulness\": 4, \"groundedness\": 4, \"brand_tone\": 5, \"correctness\": 5, \"critique\": \"The reply is friendly and accurate but lacks a concrete timeline and the provided link is vague.\"}"
+}

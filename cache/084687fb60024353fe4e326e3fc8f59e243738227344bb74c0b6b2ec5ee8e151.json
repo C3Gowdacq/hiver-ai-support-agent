@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "084687fb60024353fe4e326e3fc8f59e243738227344bb74c0b6b2ec5ee8e151",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|27deb76e14556b3d",
+  "prompt_preview": "add Yung Lean to New Music Friday playlist or I'll unsub @115888",
+  "response": "{\"reply\": \"@115888 Hey! Thanks for the suggestion \\u2013 we\\u2019ve noted your request to add Yung Lean to New Music Friday. You can also support it by voting here: https://t.co/9x0iGXxLD1 \\ud83d\\udcdd /WW\", \"grounding_note\": \"Based on Past Cases 1-3, we acknowledge the feature request, thank the user, and suggest voting for the idea without promising changes.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6421502828598022}"
+}

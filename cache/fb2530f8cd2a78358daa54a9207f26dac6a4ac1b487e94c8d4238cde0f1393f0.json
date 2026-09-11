@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "fb2530f8cd2a78358daa54a9207f26dac6a4ac1b487e94c8d4238cde0f1393f0",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares hey i’m trying to cancel my account but it won’t let me. please help",
+  "response": "{\"intent\": \"billing_subscription\", \"confidence\": 0.96, \"reasoning\": \"The user explicitly states they are trying to cancel their account but are unable to, which is a subscription/cancellation issue.\"}"
+}

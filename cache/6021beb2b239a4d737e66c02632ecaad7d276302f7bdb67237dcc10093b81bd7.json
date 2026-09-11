@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "6021beb2b239a4d737e66c02632ecaad7d276302f7bdb67237dcc10093b81bd7",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 this is the worst song i’ve ever heard, and yet you insist on putting it in my discover weekly every other week, please explain https://t.co/OsFOvLFClW",
+  "response": "{\"intent\": \"venting_feedback\", \"confidence\": 0.96, \"reasoning\": \"The user is complaining about the Discover Weekly algorithm repeatedly recommending a disliked song, which matches venting_feedback.\"}"
+}

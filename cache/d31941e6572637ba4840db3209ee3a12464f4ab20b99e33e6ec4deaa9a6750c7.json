@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "d31941e6572637ba4840db3209ee3a12464f4ab20b99e33e6ec4deaa9a6750c7",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|52474335eac69727",
+  "prompt_preview": "Hey @117168 whatever happened to getting those lyrics \"fixed\"....im still waiting... #neverforget",
+  "response": "{\"reply\": \"Hey there! We hear you on the lyrics frustration. Can you DM us your account's email address so we can take a look backstage? /K https://t.co/ldFdZRiNAt\", \"grounding_note\": \"Grounded in Past Case 1 (security/account issue) and Past Case 3 (billing issue) \\u2014 both use the pattern of acknowledging the issue, asking for the account's email via DM, and offering to \\\"take a look backstage\\\" with the DM link. The tone is warm and concise, matching the venting/feedback intent.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.5559594035148621}"
+}

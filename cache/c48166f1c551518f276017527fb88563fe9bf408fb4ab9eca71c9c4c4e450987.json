@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "c48166f1c551518f276017527fb88563fe9bf408fb4ab9eca71c9c4c4e450987",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|cf73ee2a19a2d4b6",
+  "prompt_preview": "@115888 could you please stop putting Ocean Avenue in all of my daily mixes",
+  "response": "{\"reply\": \"\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.9219035506248474}"
+}

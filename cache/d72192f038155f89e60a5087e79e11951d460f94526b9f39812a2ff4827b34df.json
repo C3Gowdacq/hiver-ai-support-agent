@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "d72192f038155f89e60a5087e79e11951d460f94526b9f39812a2ff4827b34df",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@SpotifyCares I heard it would be faster to get access to Spotify of Artists if I tweet at you, so I did that.|Hey there! We're here to help. Could you let us know a bit more about what you're looking",
+  "response": "{\"helpfulness\": 3, \"groundedness\": 5, \"brand_tone\": 5, \"correctness\": 5, \"critique\": \"The reply is friendly and safe but only asks for clarification without offering any concrete next steps for accessing Spotify for Artists.\"}"
+}

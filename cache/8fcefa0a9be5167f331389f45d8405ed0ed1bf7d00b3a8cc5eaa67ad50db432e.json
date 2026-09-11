@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "8fcefa0a9be5167f331389f45d8405ed0ed1bf7d00b3a8cc5eaa67ad50db432e",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 you feelin strong? Auto play that Andy Grammar song that’s on 0 of my playlists one more time",
+  "response": "{\"intent\": \"other\", \"confidence\": 0.85, \"reasoning\": \"The tweet is a casual, playful request to a specific user (not Spotify support) to play a song, lacking any clear technical issue, how-to question, or complaint that would fit the defined support intents.\"}"
+}

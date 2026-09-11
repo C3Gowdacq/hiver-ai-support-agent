@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "1cd32fe4ad7d7ff96d19f144e44ed6ec5186fcdf200c71a5db3e523266e7e410",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|b6686dd89f0599c6",
+  "prompt_preview": "@SpotifyCares What name am I supposed to give other people then so they can find me?",
+  "response": "{\"reply\": \"@SpotifyCares Hey! Others can find you by searching your Spotify username (the part after\\u202fspotify.com/user/) or by sharing your profile link. If you need a hand locating it, just DM us\\u202fhttps://t.co/ldFdZRiNAt \\ud83d\\ude42 /AB\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8945310115814209}"
+}

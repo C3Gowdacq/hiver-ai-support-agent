@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "6455b774ea7072be50e0cd19bef86e87585033d1b2a337296fda9a761b58de19",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|a5733f326a3437ed",
+  "prompt_preview": "@SpotifyCares why did the app take €15 off me for premium (both regular premium and student premium) when my college is not on the list so I am not eligible for the student one?????? If I’ve paid for ",
+  "response": "{\"reply\": \"@[user] Hey there! Could you DM us your account's email address and username? We'll look into the charge and get this sorted /FR https://t.co/ldFdZRiNAt\", \"grounding_note\": \"Based on past cases where customers asked about student discount eligibility and billing, we ask for a DM with account email to investigate.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7132558822631836}"
+}

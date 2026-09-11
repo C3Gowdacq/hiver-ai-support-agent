@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "5e18b8c2eb313835f506cbf0fe831fb813370f40b1cdb2aab09e46bd2c1d0b17",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "https://t.co/z99SxKAf1r",
+  "response": "{\"intent\": \"other\", \"confidence\": 0.85, \"reasoning\": \"The tweet contains only a link with no textual context, making the intent ambiguous and unidentifiable.\"}"
+}

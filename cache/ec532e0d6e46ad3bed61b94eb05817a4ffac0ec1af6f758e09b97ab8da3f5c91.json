@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "ec532e0d6e46ad3bed61b94eb05817a4ffac0ec1af6f758e09b97ab8da3f5c91",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Nevermind.  I cancelled my subscription.  I’ll renew it if you give it back.",
+  "response": "{\"intent\": \"billing_subscription\", \"confidence\": 0.9, \"reasoning\": \"The customer explicitly mentions cancelling their subscription and renewing it, which falls under billing and subscription management.\"}"
+}

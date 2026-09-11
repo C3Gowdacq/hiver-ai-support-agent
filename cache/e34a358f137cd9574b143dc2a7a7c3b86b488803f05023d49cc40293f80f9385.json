@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "e34a358f137cd9574b143dc2a7a7c3b86b488803f05023d49cc40293f80f9385",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@117153 hey someone else has been in my account but i changed the PW so np but i was already premium but not anymore whats going on?",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.85, \"reasoning\": \"The user reports unauthorized access to their account and a loss of Premium status, which points to an account security/access issue rather than a billing dispute.\"}"
+}

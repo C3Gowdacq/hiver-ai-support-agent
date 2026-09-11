@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "b3c5c5f2c3fb26f36ec5048710bcb39d63470e74b8ddfb00ad8aecef9cc375ec",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Having problems with my student account. It's charging me 10 dollars instead of 5 every month.",
+  "response": "{\"intent\": \"billing_subscription\", \"confidence\": 0.95, \"reasoning\": \"The user is reporting an incorrect charge amount on their student plan, which is a billing/pricing issue.\"}"
+}

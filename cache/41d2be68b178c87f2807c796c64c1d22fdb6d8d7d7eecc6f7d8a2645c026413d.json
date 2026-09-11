@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "41d2be68b178c87f2807c796c64c1d22fdb6d8d7d7eecc6f7d8a2645c026413d",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares iPhone 6s 11.0.3 playing Spotify unable to access in lock screen/from headphone play/pause button",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.92, \"reasoning\": \"The user is reporting a technical playback issue where Spotify cannot be accessed or controlled from the lock screen or headphone buttons on their iPhone.\"}"
+}

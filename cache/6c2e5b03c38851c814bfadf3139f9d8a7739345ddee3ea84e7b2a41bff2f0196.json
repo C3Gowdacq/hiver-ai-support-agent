@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "6c2e5b03c38851c814bfadf3139f9d8a7739345ddee3ea84e7b2a41bff2f0196",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|8504919a5e22b98d",
+  "prompt_preview": "https://t.co/z99SxKAf1r",
+  "response": "{\"reply\": \"@[user] Hey! We can help out here on Twitter\\u2014if it\\u2019s about your account or billing, please DM us: https://t.co/ldFdZRiNAt /CH\", \"grounding_note\": \"Based on past cases where the reply acknowledges the tweet, offers help in English, and asks for a DM with the support link.\", \"grounding_cases_used\": 3, \"top_similarity\": 1.0}"
+}

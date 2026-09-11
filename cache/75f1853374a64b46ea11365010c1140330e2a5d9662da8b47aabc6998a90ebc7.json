@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "75f1853374a64b46ea11365010c1140330e2a5d9662da8b47aabc6998a90ebc7",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|5ddcc17355b074b2",
+  "prompt_preview": "C’mon @116130 this for real? Whatever happened to having your entire music collection online? 😕 https://t.co/thODgUlfok",
+  "response": "{\"reply\": \"@{\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6086423397064209}"
+}

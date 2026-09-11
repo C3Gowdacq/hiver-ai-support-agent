@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "693aacc5dd8150deb2277fc6847906a8f8252633504948d1d117997a9ccd5792",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "Spotify not showing up in my control center, my volume in my control center wont turn up when i press the buttons wtf|Hey there! Thanks for the report — that sounds frustrating. Could you DM us a few ",
+  "response": "{\"helpfulness\": 3, \"groundedness\": 5, \"brand_tone\": 5, \"correctness\": 5, \"critique\": \"The reply is friendly and safe but lacks concrete troubleshooting steps, making it only vaguely helpful.\"}"
+}

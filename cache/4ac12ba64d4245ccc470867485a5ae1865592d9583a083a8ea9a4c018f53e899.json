@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "4ac12ba64d4245ccc470867485a5ae1865592d9583a083a8ea9a4c018f53e899",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Please help me. How do i change my name on Spotify? I made this when I was like 11 and I need help. https://t.co/FdSLsT1RFl",
+  "response": "{\"intent\": \"feature_request_howto\", \"confidence\": 0.95, \"reasoning\": \"The user is asking how to change their display name on Spotify, which is a straightforward how-to/settings question.\"}"
+}

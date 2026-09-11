@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "56b0a4fa0cecff1085b68059332af1a4754a57bd217ad239967d076929a9bb37",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 hey when are you guys coming to Sri Lanka?",
+  "response": "{\"intent\": \"other\", \"confidence\": 0.92, \"reasoning\": \"The message is a casual inquiry about a visit to Sri Lanka and does not relate to any Spotify service or issue.\"}"
+}

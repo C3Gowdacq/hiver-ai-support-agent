@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "28a056801936cc40b2e2ee93d27b005d2af2653e55f3ea85db2b49997e153c2b",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares why won’t my Spotify play on shuffle when connected through Bluetooth in my car?",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.95, \"reasoning\": \"The user is reporting a technical playback issue where shuffle mode isn't working when connected via Bluetooth in their car, which falls under device connection and playback bugs.\"}"
+}

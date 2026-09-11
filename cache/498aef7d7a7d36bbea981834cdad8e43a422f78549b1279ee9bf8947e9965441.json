@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "498aef7d7a7d36bbea981834cdad8e43a422f78549b1279ee9bf8947e9965441",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|940c6b25f7569d9c",
+  "prompt_preview": "Why is Taylor Swift reputation not on Spotify yet??",
+  "response": "{\"reply\": \"Hey there! Taylor Swift's 'Reputation' isn't available to stream just yet \\u2013 stay tuned! For now, check out the singles: https://t.co/3h0TnPFdBC /GS\", \"grounding_note\": \"Grounded in Past Case 3 (similarity 0.89), which addressed the exact same question about Taylor Swift's 'Reputation' not being on Spotify yet, using the same tone, structure, and link to singles.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.9303306937217712}"
+}

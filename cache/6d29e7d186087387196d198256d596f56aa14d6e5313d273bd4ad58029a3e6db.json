@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "6d29e7d186087387196d198256d596f56aa14d6e5313d273bd4ad58029a3e6db",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "Why is Taylor Swift reputation not on Spotify yet??",
+  "response": "{\"intent\": \"content_availability\", \"confidence\": 0.95, \"reasoning\": \"The user is asking why a specific album (Taylor Swift's \\\"Reputation\\\") is not available on Spotify, which is a content availability issue.\"}"
+}

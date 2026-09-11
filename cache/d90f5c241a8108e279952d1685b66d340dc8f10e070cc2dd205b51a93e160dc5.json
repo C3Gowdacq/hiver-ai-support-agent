@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "d90f5c241a8108e279952d1685b66d340dc8f10e070cc2dd205b51a93e160dc5",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|e6173772f25fd211",
+  "prompt_preview": "@SpotifyCares Hello my account got hacked by some random spanish peeps. But i managed to log out from all devices. What should i do?",
+  "response": "{\"reply\": \"Hey there, that doesn't sound good. Can you DM us your account's email address or username? We'll take a look backstage /PB https://t.co/ldFdZRiNAt\", \"grounding_note\": \"Grounded in Past Case 2 (similarity 0.81), which addressed a hacked/suspended account by empathizing, asking for account email/username via DM, and offering to check backstage. The tone, structure, and resolution pattern are directly mirrored here.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8387700319290161}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "c3354d46053065189cae9ce605a96c59a0f7913358c144060704c81467326541",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|4894e1573582134c",
+  "prompt_preview": "@SpotifyCares I sent you all a direct message! Thanks in advance for the help! :)",
+  "response": "{\"reply\": \"@SpotifyCares Hey! We've just replied to your DM. Let's continue chatting there \\ud83d\\ude0a /AB\", \"grounding_note\": \"Based on Past Cases 2 and 3 where the customer had already DM'd and the reply confirmed a DM response.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8734133243560791}"
+}

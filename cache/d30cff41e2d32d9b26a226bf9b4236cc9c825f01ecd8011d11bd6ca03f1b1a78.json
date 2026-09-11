@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "d30cff41e2d32d9b26a226bf9b4236cc9c825f01ecd8011d11bd6ca03f1b1a78",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|47e34775f781ad88",
+  "prompt_preview": "@SpotifyCares I’ve yet to hear from anyone at Spotify.   That’s another reason why I switched my streaming to another source.  Terrible service",
+  "response": "{\"reply\": \"Hey there! We're sorry to hear you haven't heard back from us \\u2014 that's not the experience we want for you. Can you DM us the email address you used to reach out? We'll take a look backstage and make sure your feedback is passed to the right team /LM https://t.co/ldFdZRiNAt\", \"grounding_note\": \"Grounded in Past Case 3 (venting/feedback acknowledgment with \\\"We understand how you might feel\\\" and \\\"pass on your feedback to the right team\\\") and Past Case 2 (offering to look backstage via DM with the DM link). The customer is venting about lack of response, so I acknowledge their frustration, offer to look into it, and ask for their email via DM.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.777249276638031}"
+}

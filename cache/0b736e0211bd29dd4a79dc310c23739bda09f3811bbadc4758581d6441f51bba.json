@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "0b736e0211bd29dd4a79dc310c23739bda09f3811bbadc4758581d6441f51bba",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|41c738349ee60eb1",
+  "prompt_preview": "@SpotifyCares  Who do I contact to change my subscription date? I would like the payment to come out on the 16th",
+  "response": "{\"reply\": \"@[user] Hey, help's here! Can you DM us your account's email address or username? We'll take a look backstage /AB https://t.co/ldFdZRiNAt\", \"grounding_note\": \"Based on past cases where billing/subscription changes required private info, we ask the user to DM their account details using the standard template.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.5335443019866943}"
+}

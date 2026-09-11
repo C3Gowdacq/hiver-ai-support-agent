@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "928b4f22561dfc92f246f78ae0d9b43cb4bb099e9f19f39ade0956cae9643226",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "Someone hacked my Spotify account please help",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.95, \"reasoning\": \"The user explicitly states their account was hacked and is asking for help, which directly matches the account_access intent covering hacked accounts.\"}"
+}

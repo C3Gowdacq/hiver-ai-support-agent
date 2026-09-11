@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "4c2a833d9186765ee2fea1820509660c2fe144e7d0701ed6db3cf931bac32c76",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|6e1a05aee1857701",
+  "prompt_preview": "@SpotifyCares No, it was just playing normal ads, but instead of just playing audio while I navigate the app, it forced me to watch them.",
+  "response": "{\"reply\": \"@user We hear you! We can't make any promises, but we'll pass your comments on to the relevant folks. Let us know if you have other questions /AK\", \"grounding_note\": \"Grounded in Past Case 3, which handled a similar venting/feedback scenario where the customer expressed frustration about a feature. The reply acknowledges the feedback, passes it along to the relevant team without making promises, and offers further assistance.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6958366632461548}"
+}

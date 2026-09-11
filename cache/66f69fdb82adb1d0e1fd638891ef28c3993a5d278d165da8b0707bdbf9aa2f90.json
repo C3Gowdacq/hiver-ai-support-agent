@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "66f69fdb82adb1d0e1fd638891ef28c3993a5d278d165da8b0707bdbf9aa2f90",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@774377 @SpotifyCares I’m having a similar problem. I have an iPhone 7 that is on the newest update (iOS 11.1.2) that does not work with BMW connected drive, but I have an iPhone 6s Plus running iOS 1",
+  "response": "{\"helpfulness\": 4, \"groundedness\": 5, \"brand_tone\": 5, \"correctness\": 5, \"critique\": \"The reply offers a practical troubleshooting step and maintains a friendly tone, but could be more comprehensive by suggesting additional checks.\"}"
+}

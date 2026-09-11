@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "6f0d5b70682838bf71abaf94f1bc8950a1b310874ddad78f3ded5e3b14e0b0c5",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Why did I just loose all my songs, playlist, and radio stations and get replaced by all Rap Music?",
+  "response": "{\"intent\": \"venting_feedback\", \"confidence\": 0.93, \"reasoning\": \"The user is expressing frustration about their music library being replaced with rap, which is a complaint about content recommendations rather than a technical or account issue.\"}"
+}

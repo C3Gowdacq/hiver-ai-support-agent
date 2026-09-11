@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "80f261e693a46035ea8a5dcdb33d76f5f828542c907fc0247eaaf66067e18958",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 🚨🚨SEND HELP🚨🚨 my friends songs wont play not all but an exceptional few and they’re absolute bops we tweet this to you with high concerns but with high hopes of an answer 😁👍🏽",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.94, \"reasoning\": \"The user reports that a few specific songs won't play, indicating a technical playback problem.\"}"
+}

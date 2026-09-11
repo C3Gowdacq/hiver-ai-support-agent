@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "4d35e8a7912f74333d9f4429cdf4e0ab0f79e55184812928af8f7f012f0bd865",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares if my mom is already on my premium account and I have a family share plan, How do I get her account to premium?",
+  "response": "{\"intent\": \"billing_subscription\", \"confidence\": 0.85, \"reasoning\": \"The user is asking how to upgrade their mom's account to Premium as part of a family plan, which is a billing/subscription management question.\"}"
+}

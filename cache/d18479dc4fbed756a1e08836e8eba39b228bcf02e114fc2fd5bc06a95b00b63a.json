@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "d18479dc4fbed756a1e08836e8eba39b228bcf02e114fc2fd5bc06a95b00b63a",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|454898e829484458",
+  "prompt_preview": "@115888 plz tell me why Velvet by Stoney LaRue suddenly got deleted. Guess I’m ending my subscription. Bye.",
+  "response": "{\"reply\": \"\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6824568510055542}"
+}

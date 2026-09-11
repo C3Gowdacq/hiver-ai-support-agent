@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "ba74f77313f5db08e03a83a6388bfec0c54e4dd4c973edef1abcba1625af939f",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@AppleSupport @SpotifyCares the volume buttons on my iPhone/earphones don’t work on Spotify anymore if the phone is locked 😫😫|Hey there! Could you let us know which iOS version and Spotify app version",
+  "response": "{\"helpfulness\": 3, \"groundedness\": 5, \"brand_tone\": 5, \"correctness\": 5, \"critique\": \"The response is friendly and safe, but it only asks for device and app versions without offering any immediate troubleshooting guidance, making it only moderately helpful.\"}"
+}

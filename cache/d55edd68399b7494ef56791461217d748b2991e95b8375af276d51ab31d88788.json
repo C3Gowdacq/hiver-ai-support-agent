@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "d55edd68399b7494ef56791461217d748b2991e95b8375af276d51ab31d88788",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "Hey @115888 your ap keeps crashing when I try to use it. either won't play the next song when one ends or says upgrade to listen anywhere",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.95, \"reasoning\": \"The user reports app crashes and playback failures (won't play next song), which are technical playback/streaming issues.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "5e5f8b8927ac3d92477248c9f1024ad2a0adeeda225999b621375a4d8aa5bdce",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@115888 do you not accept NUS student discount anymore?|Hi there, help's here! Can you DM us your account's username and email address so we can look into your NUS student discount? /TR https://t.co/l",
+  "response": "{\"helpfulness\": 5, \"groundedness\": 5, \"brand_tone\": 5, \"correctness\": 5, \"critique\": \"The reply is friendly, asks for private info via DM which is appropriate for billing issues, and makes no inaccurate claims.\"}"
+}

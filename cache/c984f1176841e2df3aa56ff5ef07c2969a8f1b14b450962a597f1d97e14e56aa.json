@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "c984f1176841e2df3aa56ff5ef07c2969a8f1b14b450962a597f1d97e14e56aa",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 can we get more @167274 added 🙏🏾🙏🏾",
+  "response": "{\"intent\": \"content_availability\", \"confidence\": 0.92, \"reasoning\": \"The user is requesting that more of a specific artist or content be added, which matches the content availability intent.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "bccaff405bb906c95e3014c364e2094e5ea07678b5b0dea02c9dd68035b284e7",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|aff2e6bfcf207c88",
+  "prompt_preview": "@115888 If I want to buy a gift card to someone in the US but live in Sweden. How do I do?",
+  "response": "{\"reply\": \"Hey! Gift cards are region\\u2011locked, so we\\u2019ll need to check the country your account is set to and the payment method you\\u2019d like to use. Could you DM us the details so we can help you out? https://t.co/ldFdZRiNAt /MT\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8313612937927246}"
+}

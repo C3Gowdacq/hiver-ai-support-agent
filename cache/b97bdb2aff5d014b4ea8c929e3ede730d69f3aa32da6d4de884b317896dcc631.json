@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "b97bdb2aff5d014b4ea8c929e3ede730d69f3aa32da6d4de884b317896dcc631",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|54bc3ec512de2ebf",
+  "prompt_preview": "@spotifycares now i cant even login spotify 🙃🙃🙃",
+  "response": "{\"reply\": \"@user Hey there, sorry to hear you're having trouble logging in! Could you DM us at https://t.co/ldFdZRiNAt with your account details so we can take a closer look? /JU\", \"grounding_note\": \"Grounded in Past Case 1's troubleshooting approach (acknowledging the issue and guiding to next steps) and the rule to ask for DMs when private account info is needed. Used /JU initials from Past Case 2's pattern.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.924521267414093}"
+}

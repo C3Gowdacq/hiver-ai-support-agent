@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "7dde8d20ede10b40987b50cdedb87df8b6c56b947add58fd4d7bb24096431b60",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares hi, i paid with doku and the payment is succes but i still have free account, help",
+  "response": "{\"intent\": \"billing_subscription\", \"confidence\": 0.95, \"reasoning\": \"The customer reports a successful payment via Doku but their account remains on the free tier, which is a Premium activation/billing issue.\"}"
+}

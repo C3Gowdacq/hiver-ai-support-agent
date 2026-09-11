@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "415ff819409978601e2c8960ab0128f991a15acbc5dc3fc4a2b24e40971bd700",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Play/next/prev keys don't work on desktop app on macOS 10.13. Any ETA on a fix? Not just me, it seems. https://t.co/LNNXsbYstO",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.96, \"reasoning\": \"The user reports that playback control keys (play/next/prev) are not working in the desktop app, which is a technical playback/streaming issue.\"}"
+}

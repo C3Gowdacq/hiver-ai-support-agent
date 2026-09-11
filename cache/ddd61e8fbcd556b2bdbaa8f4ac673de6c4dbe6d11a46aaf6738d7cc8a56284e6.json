@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "ddd61e8fbcd556b2bdbaa8f4ac673de6c4dbe6d11a46aaf6738d7cc8a56284e6",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "May I know why @115888 is playing “suggested tracks” instead of my own playlist ? And it only happens when I’m playing one specific playlist.",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.94, \"reasoning\": \"The user reports unexpected playback behavior where suggested tracks play instead of their selected playlist, indicating a technical playback issue.\"}"
+}

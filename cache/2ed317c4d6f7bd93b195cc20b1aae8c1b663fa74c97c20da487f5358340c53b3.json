@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "2ed317c4d6f7bd93b195cc20b1aae8c1b663fa74c97c20da487f5358340c53b3",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "Why am I still paying for @115888 I thought i cancelled 😥😥😣",
+  "response": "{\"intent\": \"billing_subscription\", \"confidence\": 0.96, \"reasoning\": \"The user is asking why they are still being charged after they believed they cancelled, which is a billing/subscription issue.\"}"
+}

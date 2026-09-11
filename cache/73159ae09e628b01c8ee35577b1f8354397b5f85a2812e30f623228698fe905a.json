@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "73159ae09e628b01c8ee35577b1f8354397b5f85a2812e30f623228698fe905a",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|74ffe93f2f3e7ffb",
+  "prompt_preview": "Come on @115888 get with the program... #iPhoneX https://t.co/28oFw8plc0",
+  "response": "{\"reply\": \"\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7924655675888062}"
+}

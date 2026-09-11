@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "05190907f28c4e5c630c8ce972f68a60ca5e09d0ba06a7714dfd434133bfc5f9",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "Security is important, @spotifycares. We'd like it if you supported two factor auth. https://t.co/dFe7f0NAmS #SupportTwoFactorAuth|Hey there! We can see how that’d be useful. We'd suggest adding your ",
+  "response": "{\"helpfulness\": 4, \"groundedness\": 5, \"brand_tone\": 5, \"correctness\": 3, \"critique\": \"The reply is friendly and gives a concrete next step, but unnecessarily escalates a simple feature request to a human, which is a routing misstep.\"}"
+}

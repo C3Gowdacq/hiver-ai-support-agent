@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "0451e42167ec347e009bf3085f331b4a41250915e1e9e1863da4eb4cc849d29f",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "DAMMIT @115888 FIX YOURSELF MF I NEED MUSIC https://t.co/cem4WZyTJ4",
+  "response": "{\"intent\": \"venting_feedback\", \"confidence\": 0.86, \"reasoning\": \"The tweet expresses angry frustration demanding the service be fixed without a specific technical question, matching venting_feedback.\"}"
+}

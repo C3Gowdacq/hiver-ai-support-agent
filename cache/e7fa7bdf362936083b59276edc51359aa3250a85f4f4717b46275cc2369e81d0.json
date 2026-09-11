@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "e7fa7bdf362936083b59276edc51359aa3250a85f4f4717b46275cc2369e81d0",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares why did the app take €15 off me for premium (both regular premium and student premium) when my college is not on the list so I am not eligible for the student one?????? If I’ve paid for ",
+  "response": "{\"intent\": \"billing_subscription\", \"confidence\": 0.96, \"reasoning\": \"The user complains about being charged for premium and student plans and requests a refund, which is a billing/subscription issue.\"}"
+}

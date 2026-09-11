@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "2e9dc63b234e1ef31f5156a55981479a0cc874916686da38086d345ac5d48c89",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|a1f200566ef61707",
+  "prompt_preview": "@SpotifyCares \nPlease tell me how to buy Spotify in CANADA 🇨🇦.\nI don't want to use a credit card, so instructions on that Would help.\nThanks",
+  "response": "{\"reply\": \"@YourHandle Hey! In Canada you can subscribe using prepaid cards, PayPal, or a gift card. For a step\\u2011by\\u2011step guide tailored to your account, please DM us your email or username here: https://t.co/ldFdZRiNAt /CP\", \"grounding_note\": \"Based on Past Cases 2 and 3, when payment method questions require account specifics, we ask the user to DM us with the link.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7009130716323853}"
+}

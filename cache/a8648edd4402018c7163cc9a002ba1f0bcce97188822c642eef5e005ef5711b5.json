@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "a8648edd4402018c7163cc9a002ba1f0bcce97188822c642eef5e005ef5711b5",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@AppleSupport @SpotifyCares the volume buttons on my iPhone/earphones don’t work on Spotify anymore if the phone is locked 😫😫",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.96, \"reasoning\": \"User reports a technical problem with volume button control during playback when the phone is locked, which fits playback/streaming issues.\"}"
+}

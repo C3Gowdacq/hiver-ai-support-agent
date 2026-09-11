@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "a9fd97767c087eb6a974c01f53c90ea6108750a2de0d427e7b2c96a68c9918e8",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 hi, I’m currently having problems downloading albums. I’ve got 3gbs of storage left on my phone but it’s still not downloading? https://t.co/yNsQSWA4sg",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.9, \"reasoning\": \"The user is reporting a technical issue with downloading albums for offline playback, which falls under playback/streaming problems.\"}"
+}

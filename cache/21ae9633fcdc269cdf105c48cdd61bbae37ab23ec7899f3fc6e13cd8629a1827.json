@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "21ae9633fcdc269cdf105c48cdd61bbae37ab23ec7899f3fc6e13cd8629a1827",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Please do SA soon. My best friend has been waiting years to hear my playlists.",
+  "response": "{\"intent\": \"feature_request_howto\", \"confidence\": 0.85, \"reasoning\": \"The user is requesting a feature (likely Spotify in South Africa) to be available soon, which is a feature request.\"}"
+}

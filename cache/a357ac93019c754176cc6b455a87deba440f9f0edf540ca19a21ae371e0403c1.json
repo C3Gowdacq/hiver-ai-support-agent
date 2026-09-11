@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "a357ac93019c754176cc6b455a87deba440f9f0edf540ca19a21ae371e0403c1",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|bd6afc7d19a6a31b",
+  "prompt_preview": "@SpotifyCares Why did I just loose all my songs, playlist, and radio stations and get replaced by all Rap Music?",
+  "response": "{\"reply\": \"@YourHandle Sorry to hear about the missing music! Could you DM us (https://t.co/ldFdZRiNAt) with your account details so we can look into this for you? /DR\", \"grounding_note\": \"Based on Past Case 2 (requesting more info via DM) and Past Case 1 (explaining content changes), the reply asks for a DM to investigate the loss of songs/playlists.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7344299554824829}"
+}

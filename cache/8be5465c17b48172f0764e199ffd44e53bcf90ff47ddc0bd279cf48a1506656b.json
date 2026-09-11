@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "8be5465c17b48172f0764e199ffd44e53bcf90ff47ddc0bd279cf48a1506656b",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 is there any way to stop specific bands/artists from being put onto your discover weekly/daily mix playlists????",
+  "response": "{\"intent\": \"feature_request_howto\", \"confidence\": 0.94, \"reasoning\": \"The user asks how to prevent certain artists from appearing in Discover Weekly/Daily Mix, which is a how\\u2011to/feature request about playlist customization.\"}"
+}

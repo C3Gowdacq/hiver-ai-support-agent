@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "b551b643821249d957c7719a142c560152c34a4da92a25aa29717a7e79606d93",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Turned this computer off for the night and relogged today to the same problem.  Song I click on plays the same wrong song",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.95, \"reasoning\": \"The user reports a playback bug where clicking a song plays a different, incorrect song, which is a technical playback issue.\"}"
+}

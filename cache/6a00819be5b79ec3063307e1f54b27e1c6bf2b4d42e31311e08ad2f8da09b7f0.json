@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "6a00819be5b79ec3063307e1f54b27e1c6bf2b4d42e31311e08ad2f8da09b7f0",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 could you please stop putting Ocean Avenue in all of my daily mixes",
+  "response": "{\"intent\": \"venting_feedback\", \"confidence\": 0.96, \"reasoning\": \"The user is complaining about the algorithm repeatedly including a specific song in daily mixes, which fits the venting_feedback category.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "984f31d89ddf6d57b3c8bded499bfa6b8b52e13a286ea8a9b88bf23d330924d9",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|961c85b0d539beab",
+  "prompt_preview": "@SpotifyCares I’ve had a persistent problem for years with random devices connecting to my account and unknown people playing music on it, changed my password multiple times, and this has happened acr",
+  "response": "{\"reply\": \"@SpotifyCares Sorry to hear this is happening! Could you DM us your account\\u2019s username and email address so we can investigate further? We\\u2019ll take a look backstage /AB https://t.co/ldFdZRiNAt\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6445393562316895}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "6047c14f7be9ce419c7ecaccfcbc4932231f529d519aaf9f40fec6284d2ef04b",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|7e29e9ebbcfe56de",
+  "prompt_preview": "@115888 hi, how can I get help w issues on on getting a password reset email",
+  "response": "{\"reply\": \"@115888 Hey! Help's here. Can you DM us your account's username or email address so we can sort out the password reset issue? /TK https://t.co/ldFdZRiNAt\", \"grounding_note\": \"Based on past cases where users couldn't receive password reset emails, we ask for a DM with their account info.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6831206679344177}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "97f486cac987b329770386067838f72178ca19d042dd3bd399043dff03ed20f3",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares No change. It's this Nexus 5X, it's garbage.",
+  "response": "{\"intent\": \"other\", \"confidence\": 0.7, \"reasoning\": \"The tweet is a mid-conversation fragment with no clear technical issue, specific ask, or identifiable intent beyond a vague device complaint.\"}"
+}

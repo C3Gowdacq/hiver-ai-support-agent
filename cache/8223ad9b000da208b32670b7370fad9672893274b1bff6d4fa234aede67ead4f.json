@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "8223ad9b000da208b32670b7370fad9672893274b1bff6d4fa234aede67ead4f",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|644234860f3a5324",
+  "prompt_preview": "@AppleSupport @SpotifyCares the volume buttons on my iPhone/earphones don’t work on Spotify anymore if the phone is locked 😫😫",
+  "response": "{\"reply\": \"Hey there! Could you let us know which iOS version and Spotify app version you\\u2019re using? We\\u2019ll see what\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.715349555015564}"
+}

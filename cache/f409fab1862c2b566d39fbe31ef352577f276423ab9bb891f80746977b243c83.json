@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "f409fab1862c2b566d39fbe31ef352577f276423ab9bb891f80746977b243c83",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|10b5bdfcec145eb0",
+  "prompt_preview": "@SpotifyCares The 3,333 download limit is not why I subscribed to Spotify premium.",
+  "response": "{\"reply\": \"Hi there! Sorry to hear you're running into issues with your downloads. Can you DM us your account's email address so we can take a closer look? /NY https://t.co/ldFdZRiNAt\", \"grounding_note\": \"Grounded in Past Case 1 (similarity 0.85), which addressed a billing/subscription complaint by apologizing for the frustration and asking the customer to DM their account email for further investigation. The tone, structure, and /NY initials match that pattern.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8494949340820312}"
+}

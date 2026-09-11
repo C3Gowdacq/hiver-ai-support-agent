@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "5437aa040a309d74ce071133b9b936584a22a68fe667261f885b534547c8e6cb",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "Dear @115888 - pls don't tell me about shows that have been sold out for days! Getting my hopes up for #brucespringsteen :( https://t.co/n4v6GqygVK",
+  "response": "{\"intent\": \"other\", \"confidence\": 0.92, \"reasoning\": \"The tweet is directed at a different handle (@115888) and concerns a Bruce Springsteen concert ticket sale, not a Spotify service issue.\"}"
+}

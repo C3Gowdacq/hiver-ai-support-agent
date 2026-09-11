@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "b314f97fec3a02ab5d24a9ff3286889302a1939be3e2b5fb2a12aa7a7ed37812",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|ae9b2edf0f0744ef",
+  "prompt_preview": "@SpotifyCares I already did that. News websites in Romania said spotify will be available in Romania today 28th november, thats why i am asking.",
+  "response": "{\"reply\": \"@YourHandle Hi! Thanks for letting us know. We\\u2019ll DM you to check on the Romania launch details \\ud83d\\ude42 https://t.co/ldFdZRiNAt /AC\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.709874153137207}"
+}

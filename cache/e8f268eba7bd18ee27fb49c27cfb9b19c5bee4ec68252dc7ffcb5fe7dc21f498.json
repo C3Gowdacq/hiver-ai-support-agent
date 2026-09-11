@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "e8f268eba7bd18ee27fb49c27cfb9b19c5bee4ec68252dc7ffcb5fe7dc21f498",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Kicked out of family account for not confirming address on time. Cannot rejoin, cannot log in, cannot contact. What the hell?!",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.85, \"reasoning\": \"The user is locked out of their account (cannot log in) after being removed from a family plan, making this primarily an account access issue.\"}"
+}

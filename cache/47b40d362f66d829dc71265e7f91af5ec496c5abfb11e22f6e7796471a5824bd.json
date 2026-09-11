@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "47b40d362f66d829dc71265e7f91af5ec496c5abfb11e22f6e7796471a5824bd",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "why doesn't spotify have any of garth brooks albums????!?!?)! @115888 😠",
+  "response": "{\"intent\": \"content_availability\", \"confidence\": 0.95, \"reasoning\": \"The customer is asking why specific artist albums (Garth Brooks) are not available on Spotify, which is a content availability/licensing issue.\"}"
+}

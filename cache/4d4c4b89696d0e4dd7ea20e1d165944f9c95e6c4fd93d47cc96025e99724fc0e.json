@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "4d4c4b89696d0e4dd7ea20e1d165944f9c95e6c4fd93d47cc96025e99724fc0e",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|3e3ff1a1d228fe67",
+  "prompt_preview": "Is @118062 ‘s reputation album coming to @115888 soon?",
+  "response": "{\"reply\": \"\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8392835855484009}"
+}

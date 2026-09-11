@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "a5376396f953c78079a162d2bf3c5e7f31cd5215d421dbddcc320300ef4046a2",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@SpotifyCares I've been trying to get in contact with you guys and no one is returning my emails. I would like to change my username. Help.|Hey there! Sorry you've been having trouble reaching us. Can",
+  "response": "{\"helpfulness\": 5, \"groundedness\": 3, \"brand_tone\": 5, \"correctness\": 5, \"critique\": \"The response is friendly, helpful, and routes the user correctly via DM, but the included generic t.co link is not an official Spotify URL, reducing groundedness.\"}"
+}

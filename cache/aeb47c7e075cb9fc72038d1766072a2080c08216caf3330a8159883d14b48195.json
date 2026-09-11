@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "aeb47c7e075cb9fc72038d1766072a2080c08216caf3330a8159883d14b48195",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@405274 please add lyric a every song🙌🏽🤞🏽🙏🏽",
+  "response": "{\"intent\": \"feature_request_howto\", \"confidence\": 0.9, \"reasoning\": \"The user is requesting a new feature (lyrics for every song), which falls under feature suggestions.\"}"
+}

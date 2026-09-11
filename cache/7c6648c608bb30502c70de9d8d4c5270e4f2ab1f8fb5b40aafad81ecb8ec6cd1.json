@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "7c6648c608bb30502c70de9d8d4c5270e4f2ab1f8fb5b40aafad81ecb8ec6cd1",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@118266 mengapa spotify saya tidak bisa masuk ? dan bagaimana cara mereset ulang ? karena pilihan negara di akun tidak ada indonesia. https://t.co/gUcmHJWYhf",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.92, \"reasoning\": \"The user is asking why they can't log in and how to reset their account, specifically mentioning a country setting issue (Indonesia not available), which falls under login and account configuration problems.\"}"
+}

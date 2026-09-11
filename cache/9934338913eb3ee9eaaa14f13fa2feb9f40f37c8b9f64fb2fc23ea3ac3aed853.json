@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "9934338913eb3ee9eaaa14f13fa2feb9f40f37c8b9f64fb2fc23ea3ac3aed853",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 do you not accept NUS student discount anymore?",
+  "response": "{\"intent\": \"billing_subscription\", \"confidence\": 0.9, \"reasoning\": \"The customer is asking about the availability of a student discount, which falls under pricing and student plans within the billing/subscription category.\"}"
+}

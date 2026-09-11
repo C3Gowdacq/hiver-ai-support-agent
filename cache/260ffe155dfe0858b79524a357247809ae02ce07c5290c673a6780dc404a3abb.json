@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "260ffe155dfe0858b79524a357247809ae02ce07c5290c673a6780dc404a3abb",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|05baca047bd92255",
+  "prompt_preview": "@117153 Hi Spotify. I made payment by atm transfer this morning (09:00AM) but I haven't got my premium account. Is there a any problem with Spotify?",
+  "response": "{\"reply\": \"Hey there! We'll help you sort this out. Could you DM us your account's email address or username so we can take a look? /RC https://t.co/ldFdZRiNAt\", \"grounding_note\": \"Grounded in Past Case 2 (payment made but premium not activated) and Past Case 3 (bought premium but still in free mode). Both replies ask for the account email/username via DM with a warm greeting and the DM link. Used /RC initials from Case 2.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6765683889389038}"
+}

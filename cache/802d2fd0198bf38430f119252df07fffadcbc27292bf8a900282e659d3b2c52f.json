@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "802d2fd0198bf38430f119252df07fffadcbc27292bf8a900282e659d3b2c52f",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "Guys wtf why frank ocean's endless is not on spotify? @SpotifyCares",
+  "response": "{\"intent\": \"content_availability\", \"confidence\": 0.95, \"reasoning\": \"The customer is asking why a specific artist's album (Frank Ocean's \\\"Endless\\\") is not available on Spotify, which is a content availability/licensing issue.\"}"
+}

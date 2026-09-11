@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "099c19d53620e3a0aeefaa2c4e254e5b6dd372d923476c422e883c71fec88f63",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares I’m still getting charged for my premium account even though I am signed up through starbucks??",
+  "response": "{\"intent\": \"billing_subscription\", \"confidence\": 0.95, \"reasoning\": \"The user is reporting an unexpected charge on their Premium account linked to a Starbucks subscription, which is a billing/payment issue.\"}"
+}

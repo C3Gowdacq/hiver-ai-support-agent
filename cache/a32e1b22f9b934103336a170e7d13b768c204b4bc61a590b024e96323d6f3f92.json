@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "a32e1b22f9b934103336a170e7d13b768c204b4bc61a590b024e96323d6f3f92",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@115888 I cannot access my account despite paying monthly to subscribe!?! Help please!!|Hi there, we'd love to help! Can you DM us your account's email address so we can check what's going on? https:/",
+  "response": "{\"helpfulness\": 5, \"groundedness\": 3, \"brand_tone\": 5, \"correctness\": 5, \"critique\": \"The reply is friendly and routes the user correctly, but includes an unnecessary short URL that isn\\u2019t a verified Spotify link, reducing groundedness.\"}"
+}

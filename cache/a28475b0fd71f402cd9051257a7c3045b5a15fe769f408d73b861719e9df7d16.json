@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "a28475b0fd71f402cd9051257a7c3045b5a15fe769f408d73b861719e9df7d16",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "What is the thought process behind the spotlight thing on @115888 it confuses me for a half second every time I go back to the window",
+  "response": "{\"intent\": \"feature_request_howto\", \"confidence\": 0.88, \"reasoning\": \"The user asks for an explanation of a UI element ('spotlight thing'), which is a how\\u2011to/feature\\u2011clarification request rather than a technical issue, billing, or content problem.\"}"
+}

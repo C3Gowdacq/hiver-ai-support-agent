@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "f0f4a7332d3035316bab02b53d50d5980e288c4f5b3d0b72549e2640de097f49",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 What is weird, however, is selecting a song on my desktop and then hearing it playing on my laptop. \n\nBecause that makes so much sense? 🎵",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.85, \"reasoning\": \"The user is reporting a technical issue where selecting a song on one device causes it to play on a different device, which is a device connection/sync bug.\"}"
+}

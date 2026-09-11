@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "82187db52c0c4ed5941acc6031c90f8d8e3a221e34ffd1a46c3ead14c2843f57",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|a5facea350643e77",
+  "prompt_preview": "@SpotifyCares Why don't you guys have more of @106316 music on spotify and why ain't he verified?? https://t.co/g7lQW6dQZ7",
+  "response": "{\"reply\": \"@[user] Hey there! Can you let us know which country your account is set to? We'll check things out /CH\", \"grounding_note\": \"Based on Past Case 1, we ask for the account country to investigate content availability.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6661250591278076}"
+}

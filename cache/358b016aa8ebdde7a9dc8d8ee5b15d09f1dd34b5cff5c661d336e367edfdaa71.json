@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "358b016aa8ebdde7a9dc8d8ee5b15d09f1dd34b5cff5c661d336e367edfdaa71",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares i have family premium with one address. however i seemed not to be able to log in with another invitation i sent my additional email addresses so I can have different music playing at wo",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.96, \"reasoning\": \"The user reports being unable to log in with a family invitation and an invalid password reset link, which are clear account access problems.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "651f6adf4a08e3cf2d620c342a37eb424aefa74addd67fb2134131c1753f7b3e",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 how can I get a premium account discount for a high school student?",
+  "response": "{\"intent\": \"billing_subscription\", \"confidence\": 0.92, \"reasoning\": \"The user is asking about a student discount for a Premium account, which falls under pricing and student/family plans.\"}"
+}

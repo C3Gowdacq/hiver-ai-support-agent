@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "f329ca9675cba7838385f731de5a33a1af519b68153678eb0d845167dcf014bd",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Why don't you guys have more of @106316 music on spotify and why ain't he verified?? https://t.co/g7lQW6dQZ7",
+  "response": "{\"intent\": \"content_availability\", \"confidence\": 0.93, \"reasoning\": \"The user asks why more music from a specific artist is not on Spotify, which is a request about missing or unavailable content.\"}"
+}

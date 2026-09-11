@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "73dc1d8e6218041a23982d1bc169c9e0e927a738436e65dfb31bc1ebfa169ebd",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 why are there no Aaliyah songs on Spotify? Fix please",
+  "response": "{\"intent\": \"content_availability\", \"confidence\": 0.96, \"reasoning\": \"The user is asking why songs by Aaliyah are not available on Spotify, which is a content availability issue.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "adf786055d4c68042281d1b8ad116132fef747fedd0190a1a9efc4b75201d8ac",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|9b33c3612c61bc13",
+  "prompt_preview": "@SpotifyCares iPhone 6s 11.0.3 playing Spotify unable to access in lock screen/from headphone play/pause button",
+  "response": "{\"reply\": \"@user Thanks for the details! Can you try logging out > restarting your phone > logging back in? Let us know if that makes a difference /RH\", \"grounding_note\": \"Grounded in Past Case 2, which addressed an iPhone playback issue with the same troubleshooting steps (log out, restart, log back in) and tone.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6976962685585022}"
+}

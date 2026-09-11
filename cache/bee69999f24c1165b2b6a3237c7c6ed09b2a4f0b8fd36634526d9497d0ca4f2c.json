@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "bee69999f24c1165b2b6a3237c7c6ed09b2a4f0b8fd36634526d9497d0ca4f2c",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares \nPlease tell me how to buy Spotify in CANADA 🇨🇦.\nI don't want to use a credit card, so instructions on that Would help.\nThanks",
+  "response": "{\"intent\": \"billing_subscription\", \"confidence\": 0.5, \"reasoning\": \"Fallback parse from raw output: **Intent:** billing_subscription | **Confidence:** 0.92 | **Reasoning:** The user is asking for inst\"}"
+}

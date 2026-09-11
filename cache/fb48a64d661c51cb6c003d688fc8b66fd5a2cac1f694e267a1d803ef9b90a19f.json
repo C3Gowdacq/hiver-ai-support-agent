@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "fb48a64d661c51cb6c003d688fc8b66fd5a2cac1f694e267a1d803ef9b90a19f",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@SpotifyCares Hi - I want to stop logging in with Facebook and login with my email instead but the system won't let me do it. Any thoughts?|@[user] Hey there! We'd love to help you switch from Faceboo",
+  "response": "{\"helpfulness\": 5, \"groundedness\": 5, \"brand_tone\": 5, \"correctness\": 5, \"critique\": \"The reply is friendly, asks for a private DM to verify the account, and follows Spotify's standard support process without any misinformation.\"}"
+}

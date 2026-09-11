@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "ab36c71c3ebc07c840057eff01a29f8979771cfcb36dcbaf2add519c20982e68",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares just got booted off while listening, taken to the login page, but when I try to long in I get the \"Oops! Something went wrong\"",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.9, \"reasoning\": \"The user is experiencing a login failure with an error message after being unexpectedly logged out, which is a classic account access issue.\"}"
+}

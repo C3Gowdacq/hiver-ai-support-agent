@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "edc03f8f91bd2bafbedd009d4774372587cff39f4737bae79b3bfec3b4ca4709",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|405f7c9b567e2579",
+  "prompt_preview": "Dear @115888,\nDon't you only play commercials on the free version of the app? Why are you advertising @1731 on the free app? If I had enough money to own a Cadillac I'd have no problem paying to liste",
+  "response": "{\"reply\": \"@115888 Hey there! The free tier includes occasional ads\\u2014here\\u2019s more info: https://t.co/cNwLw375NM. Hope that helps /KL\", \"grounding_note\": \"Based on Past Case 2 which provided a free\\u2011tier info link for ad\\u2011related questions.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.5299652814865112}"
+}

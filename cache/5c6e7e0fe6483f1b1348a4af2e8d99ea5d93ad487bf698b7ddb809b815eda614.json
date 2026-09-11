@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "5c6e7e0fe6483f1b1348a4af2e8d99ea5d93ad487bf698b7ddb809b815eda614",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|ebaa0aaad85c3dac",
+  "prompt_preview": "Why tf is Garth Brooks not on Spotify. @115888",
+  "response": "{\"reply\": \"@[user] Hey there! Fingers crossed we'll be able to have it soon, but there's info about Spotify content here: https://t.co/0i8GpimuDa /AB\", \"grounding_note\": \"Based on past cases where users requested specific tracks/artists and the reply used a friendly greeting, 'Fingers crossed' phrasing, and the standard content info link.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.9813219904899597}"
+}

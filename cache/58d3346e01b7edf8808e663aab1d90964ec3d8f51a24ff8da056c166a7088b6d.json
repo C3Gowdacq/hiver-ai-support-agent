@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "58d3346e01b7edf8808e663aab1d90964ec3d8f51a24ff8da056c166a7088b6d",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|51aa67fc75c88b36",
+  "prompt_preview": "Allo @SpotifyCares so I have seen @241897 had the same problem with the random letters and numbers for a username? Anyway, you can dm me so I can change my username?",
+  "response": "{\"reply\": \"@YourHandle Hey there! We can\\u2019t change usernames directly, but we can look into it for you in DMs. Please DM us here: https://t.co/ldFdZRiNAt /MT\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.712913990020752}"
+}

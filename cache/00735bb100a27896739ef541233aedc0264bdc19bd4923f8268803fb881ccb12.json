@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "00735bb100a27896739ef541233aedc0264bdc19bd4923f8268803fb881ccb12",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|c7f42ab21536a2e9",
+  "prompt_preview": "@SpotifyCares dear admin.... can you please fix this artist name? -- https://t.co/jY3MCmFeRv the name should \"d'Masiv\" Thx so much!",
+  "response": "{\"reply\": \"@yourhandle Hey there! To change the artist name you\\u2019ll need to contact your distributor \\u2013 they handle those updates. More info here: https://t.co/ldFdZRiNAt /MT\", \"grounding_note\": \"Based on Past Case 3 where artist name issues are directed to the distributor, the reply follows that pattern.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8690153360366821}"
+}

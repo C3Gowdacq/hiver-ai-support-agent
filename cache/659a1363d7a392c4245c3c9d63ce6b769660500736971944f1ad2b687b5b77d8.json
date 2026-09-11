@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "659a1363d7a392c4245c3c9d63ce6b769660500736971944f1ad2b687b5b77d8",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Trying to reset my password and I’m getting a CSRF token is invalid. Can you help?",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.96, \"reasoning\": \"The user is unable to reset their password due to an error, which is a login/account access problem.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "709b69c8243b32466b9cc0d89f815061e0138d0138a2f2c268842ee331f79d9a",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@SpotifyCares Maybe something that could help me figure out how to get more followers|Hey there! We're not able to assist with growing your follower count, but we're happy to help with any Spotify app",
+  "response": "{\"helpfulness\": 2, \"groundedness\": 5, \"brand_tone\": 5, \"correctness\": 5, \"critique\": \"The reply is polite and on\\u2011brand but offers no actionable guidance for the follower\\u2011growth request, limiting its usefulness.\"}"
+}

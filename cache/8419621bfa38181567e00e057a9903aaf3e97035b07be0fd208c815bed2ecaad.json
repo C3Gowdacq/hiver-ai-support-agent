@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "8419621bfa38181567e00e057a9903aaf3e97035b07be0fd208c815bed2ecaad",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|f2bfb1a4ea9b41b2",
+  "prompt_preview": "@SpotifyCares I can play it on my computer only. Using an iPhone 7 Plus with iOS 11, I believe. It’s grayed our on my mobile playlist even after download",
+  "response": "{\"reply\": \"Thanks for the details! Could you try restarting your iPhone by holding Home + Lock for 10 seconds? Also, can you confirm the Spotify version you're using? /KB\", \"grounding_note\": \"Grounded in Past Case 2, which addressed an iPhone 6s with iOS 11 playback issue by suggesting a device restart and asking for the Spotify version. The tone and structure (troubleshooting step + version confirmation) match the current iOS 11 iPhone 7 Plus scenario.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7478891015052795}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "b9d447b8fe1017104f5e83cb43a4486ac339e0770d1b0ce6ea9973bf6432b10c",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "Hey @SpotifyCares how do I make my muisc public",
+  "response": "{\"intent\": \"feature_request_howto\", \"confidence\": 0.9, \"reasoning\": \"The user is asking how to change the privacy setting of their music/profile, which is a how-to question about settings and UI navigation.\"}"
+}

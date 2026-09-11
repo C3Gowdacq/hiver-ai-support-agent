@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "b0d7c8fb6ec29990b15b292e689703ee5f97e4b667dbe37410284e0ffc59abad",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|59574189fdc09a00",
+  "prompt_preview": "May I know why @115888 is playing “suggested tracks” instead of my own playlist ? And it only happens when I’m playing one specific playlist.",
+  "response": "{\"reply\": \"@115888 Hey, help\\u2019s here! If suggested tracks show up only on that playlist,\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.695568323135376}"
+}

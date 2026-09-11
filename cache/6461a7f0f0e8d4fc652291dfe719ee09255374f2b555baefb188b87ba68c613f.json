@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "6461a7f0f0e8d4fc652291dfe719ee09255374f2b555baefb188b87ba68c613f",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|23d172a10d339720",
+  "prompt_preview": "@115888 when you will fix the bug that doesn’t show any of your offline material when you are connected to a Wi-fi network that doesn’t have internet access?! So annoying https://t.co/qSzYkH1m1A",
+  "response": "{\"reply\": \"@115888 Hey! Can you DM us the device, operating system, and Spotify app version you\\u2019re using so we can look into the offline\\u2011only Wi\\u2011\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7983085513114929}"
+}

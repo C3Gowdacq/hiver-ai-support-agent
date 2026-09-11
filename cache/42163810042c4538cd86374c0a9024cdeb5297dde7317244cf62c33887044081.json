@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "42163810042c4538cd86374c0a9024cdeb5297dde7317244cf62c33887044081",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Why do my Discover Weekly no longer update Monday morning? Still on last week’s :(",
+  "response": "{\"intent\": \"venting_feedback\", \"confidence\": 0.85, \"reasoning\": \"The user is expressing frustration about Discover Weekly not updating as expected, which is a complaint about the recommendation algorithm rather than a specific technical issue or how-to question.\"}"
+}

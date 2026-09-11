@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "07e95bd84da4a41e17449b86fe72cd7b948b0b9cbbda931c5665cf8b30aaa06a",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@115888 why can't we use app store cards to pay for premium?|@115888 Hey! App Store cards aren’t supported for Premium – you’ll need a recurring payment method like a|judge_v1",
+  "response": "{\"helpfulness\": 2, \"groundedness\": 4, \"brand_tone\": 4, \"correctness\": 2, \"critique\": \"The reply is friendly but cuts off mid-sentence, fails to give complete payment guidance or direct the user to a private channel, making it only partially correct and unhelpful.\"}"
+}

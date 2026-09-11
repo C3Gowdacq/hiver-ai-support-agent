@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "75ffb039a62902a2382d62750065b42ffa0a4b882811ff8ae09a31d0136b411a",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares #SuperSlimey",
+  "response": "{\"intent\": \"other\", \"confidence\": 0.9, \"reasoning\": \"The tweet contains only a hashtag with no clear question, complaint, or technical issue, making it an ambiguous fragment with no identifiable intent.\"}"
+}

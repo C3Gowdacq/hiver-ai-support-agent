@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "8f6c0ec52104d0684607e89cda947db11bda55fcd7d5cf178f633d6c0fb34d03",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares I used facebook to sign in before and now when I try logging in, it doesn't let me sign in with my facebook password nor my facebook itself.",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.95, \"reasoning\": \"The user is experiencing a login issue specifically related to Facebook authentication, which falls under account access problems.\"}"
+}

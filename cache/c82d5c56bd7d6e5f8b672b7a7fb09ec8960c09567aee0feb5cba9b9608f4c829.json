@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "c82d5c56bd7d6e5f8b672b7a7fb09ec8960c09567aee0feb5cba9b9608f4c829",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|11fe776d52603d37",
+  "prompt_preview": "@SpotifyCares USA! that really sucks I need to get to the bottom of this",
+  "response": "{\"reply\": \"@[user] Hey, we\\u2019re sorry you\\u2019re experiencing this. Could you DM us your account email or username so we can investigate? https://t.co/ldFdZRiNAt /JE\", \"grounding_note\": \"Based on Past Case 1 where a venting user was asked to DM account info for further help.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.795733630657196}"
+}

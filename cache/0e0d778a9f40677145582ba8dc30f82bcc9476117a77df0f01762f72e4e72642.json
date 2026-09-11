@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "0e0d778a9f40677145582ba8dc30f82bcc9476117a77df0f01762f72e4e72642",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|c3920a37522bdae4",
+  "prompt_preview": "@115888 you should really consider offering the student discount for high school kids. i’m trynna graduate and bump beats at the same time.",
+  "response": "{\"reply\": \"\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8530958294868469}"
+}

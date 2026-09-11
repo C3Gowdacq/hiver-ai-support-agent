@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "0522c7a3d2775a81113517312cb2a94a3538aab521f149a80c0ec6d024d01239",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|d74dc60179b43c1d",
+  "prompt_preview": "@SpotifyCares I don't have account with you but money is going out my bank? Who can help?",
+  "response": "{\"reply\": \"Hey! Help's here. Could you send us a DM with your account's email address or username? We'll take a look under the hood /AY https://t.co/ldFdZRiNAt\", \"grounding_note\": \"Grounded in Past Case 2 (similarity 0.63), which handled an account-related issue by asking the customer to DM their account email or username with the DM link. The billing/subscription intent also aligns with Past Case 3 (similarity 0.58), which directed the customer to DM for private account details.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6778062582015991}"
+}

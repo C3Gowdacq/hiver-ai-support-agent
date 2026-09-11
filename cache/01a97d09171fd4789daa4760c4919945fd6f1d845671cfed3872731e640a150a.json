@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "01a97d09171fd4789daa4760c4919945fd6f1d845671cfed3872731e640a150a",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 why can't we use app store cards to pay for premium?",
+  "response": "{\"intent\": \"billing_subscription\", \"confidence\": 0.96, \"reasoning\": \"The user asks why app store cards cannot be used to pay for Premium, which is a question about payment methods and subscription billing.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "afcb628b560ed76a733471599c9378806802e6366da89c595852148e5e99cd4e",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|7103d19c150e043e",
+  "prompt_preview": "@115888 Hey, how come your version of the Beatles White Album has demo versions of Piggies and Revolution 1?",
+  "response": "{\"reply\": \"@115888 Hey there! Could you share the album link (tap the three dots\\u202f>\\u202fShare\\u202f>\\u202fCopy Link) so we can look into it? /NG\", \"grounding_note\": \"Based on Past Case 1, we ask for the album link to investigate content issues.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6646779775619507}"
+}

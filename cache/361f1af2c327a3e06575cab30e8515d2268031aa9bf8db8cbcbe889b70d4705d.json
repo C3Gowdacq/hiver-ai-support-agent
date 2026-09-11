@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "361f1af2c327a3e06575cab30e8515d2268031aa9bf8db8cbcbe889b70d4705d",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@118266 mengapa spotify saya tidak bisa masuk ? dan bagaimana cara mereset ulang ? karena pilihan negara di akun tidak ada indonesia. https://t.co/gUcmHJWYhf|Hey! We can help out in English via Twitte",
+  "response": "{\"helpfulness\": 3, \"groundedness\": 3, \"brand_tone\": 4, \"correctness\": 5, \"critique\": \"The reply is friendly and correctly routes the user to a private channel for account issues, but it doesn't provide concrete steps to resolve the login problem and the email link may be unverified.\"}"
+}

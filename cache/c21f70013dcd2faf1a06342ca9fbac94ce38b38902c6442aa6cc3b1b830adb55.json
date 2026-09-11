@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "c21f70013dcd2faf1a06342ca9fbac94ce38b38902c6442aa6cc3b1b830adb55",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|c0d735961ac2be0a",
+  "prompt_preview": "@SpotifyCares hey i’m trying to cancel my account but it won’t let me. please help",
+  "response": "{\"reply\": \"@YourHandle Hey! Sorry you\\u2019re having trouble canceling. Could you DM us your account\\u2019s email or username? We\\u2019ll sort it out for you https://t.co/ldFdZRiNAt /JL\", \"grounding_note\": \"Based on Past Cases 2 and 3 where account access issues required a DM for account details.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7306901216506958}"
+}

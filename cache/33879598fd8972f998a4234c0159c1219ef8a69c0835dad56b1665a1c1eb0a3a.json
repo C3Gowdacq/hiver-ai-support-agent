@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "33879598fd8972f998a4234c0159c1219ef8a69c0835dad56b1665a1c1eb0a3a",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 trying to change my payment method because I moved from the UK to Canada and when entering my new card info = card from a non-spotify country. How can it be done?",
+  "response": "{\"intent\": \"billing_subscription\", \"confidence\": 0.96, \"reasoning\": \"The user is asking how to change their payment method after moving countries, which relates to billing and subscription management.\"}"
+}

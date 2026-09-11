@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "62b949846492c19f68a6e2c65854eb6347927f24ef0b4342e19f8145976c06e0",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|4d9a2f09ce334dbe",
+  "prompt_preview": "@115888 PC app starts right up no problems. Mac app sucks all my power and still doesn't work.",
+  "response": "{\"reply\": \"@115888 Hi there. Help's here. Can you tell us exactly what's happening with the Mac app? We'll see what we can suggest /JU\", \"grounding_note\": \"Grounded in Past Case 1 (similarity 0.85), which used the same \\\"Hi there. Help's here. Can you tell us exactly what's happening? We'll see what we can suggest /JU\\\" pattern for a general app issue. The reply adapts this to specifically ask about the Mac app issue since the customer mentioned both PC and Mac.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8466068506240845}"
+}

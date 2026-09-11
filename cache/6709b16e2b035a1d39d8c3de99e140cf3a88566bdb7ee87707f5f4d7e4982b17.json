@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "6709b16e2b035a1d39d8c3de99e140cf3a88566bdb7ee87707f5f4d7e4982b17",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|56fb4efeb5273445",
+  "prompt_preview": "@SpotifyCares Ios 11.1.2 and the latest spotify whatever that is",
+  "response": "{\"reply\": \"@YourHandle Thanks for the info. Could you try logging out\\u202f\\u2192\\u202frestarting your device\\u202f\\u2192\\u202flogging back in to see if it helps? Keep us posted /LO\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.9653732776641846}"
+}

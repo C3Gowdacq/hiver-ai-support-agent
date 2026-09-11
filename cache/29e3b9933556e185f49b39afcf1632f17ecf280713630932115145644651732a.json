@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "29e3b9933556e185f49b39afcf1632f17ecf280713630932115145644651732a",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@spotifycares can't play any music in album page on Windows 7 64-bit version 1.0.68.407.g6864aaaf. all other music plays fine. attached image to show what it looks like when i try to play a song from ",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.97, \"reasoning\": \"User reports a specific technical problem where songs from an album page won't play on a particular device/OS, fitting playback/streaming issues.\"}"
+}

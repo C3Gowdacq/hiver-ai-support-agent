@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "c360ffd599185e7552eb84f60eb2e722ba300b04da31875e5bc4963082c182fd",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares It’s a real shame because it’s making think real hard about joining @115948",
+  "response": "{\"intent\": \"other\", \"confidence\": 0.75, \"reasoning\": \"The tweet is a vague, mid-conversation fragment expressing general dissatisfaction without specifying a technical issue, billing problem, or any concrete request, making it ambiguous.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "ba5c0665dc24c618f8ff9d333a97def95f8c8b60697f992175635d690f8a4879",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|f7a3924b2ccc636e",
+  "prompt_preview": "Why am I still paying for @115888 I thought i cancelled 😥😥😣",
+  "response": "{\"reply\": \"@YourHandle Hi there! Can you DM us the email address or username linked to your account? We\\u2019ll check what\\u2019s going on with the cancellation and get this sorted for you. /AB https://t.co/ldFdZRiNAt\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7567800283432007}"
+}

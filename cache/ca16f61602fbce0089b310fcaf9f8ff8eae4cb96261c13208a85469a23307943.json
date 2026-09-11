@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "ca16f61602fbce0089b310fcaf9f8ff8eae4cb96261c13208a85469a23307943",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|19b7e572fecf5b8d",
+  "prompt_preview": "I cant play my songs offline even though I have premium",
+  "response": "{\"reply\": \"Hey there! Sorry you're having trouble with offline playback. Could you DM us at https://t.co/ldFdZRiNAt with your device, OS, and Spotify version so we can take a closer look? /MA\", \"grounding_note\": \"Grounded in Past Case 3 (playback issue) which asks for device/OS/version details to help troubleshoot, and Past Case 1's warm, concise tone. Since offline playback issues may require account-specific info, I'm asking for DM with the link per the rules.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7153884768486023}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "2b2b542f72019222f02862eea86cbcac63d5fd7ebc3884d902c7353bc35a7e4f",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 Hey friends, did you change something with the app? I used to be able to play on my Apple TV from the app. Now all the options prompt me to download the app to an external device (TV/Computer/",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.96, \"reasoning\": \"User reports a change in app behavior preventing playback on Apple TV, indicating a technical playback/device compatibility issue.\"}"
+}

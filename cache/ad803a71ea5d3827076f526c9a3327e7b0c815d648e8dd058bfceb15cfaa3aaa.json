@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "ad803a71ea5d3827076f526c9a3327e7b0c815d648e8dd058bfceb15cfaa3aaa",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Did you remove the 1986 The Fly soundtrack? =(",
+  "response": "{\"intent\": \"content_availability\", \"confidence\": 0.96, \"reasoning\": \"The user asks whether a specific soundtrack was removed, indicating a missing or unavailable track.\"}"
+}

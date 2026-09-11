@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "941f96e27b3da60d826de1f51a7dc5b96321689c5f142778effbc2575ce98784",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|b9aded4789e5290a",
+  "prompt_preview": "Security is important, @spotifycares. We'd like it if you supported two factor auth. https://t.co/dFe7f0NAmS #SupportTwoFactorAuth",
+  "response": "{\"reply\": \"Hey there! We can see how that\\u2019d be useful. We'd suggest adding your vote to the idea at https://t.co/YbSHEKRk7m /AR\", \"grounding_note\": \"Directly mirrors Past Case 1 (similarity 1.00), which is the identical two-factor auth feature request. Same tone, structure, and resolution (pointing to the feature request page).\", \"grounding_cases_used\": 3, \"top_similarity\": 1.0}"
+}

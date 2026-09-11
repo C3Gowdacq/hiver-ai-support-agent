@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "4312a351bb18ef40542a44020fa7ae368d42752db846c9bc692a2a288dae07b0",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 does it cost money?",
+  "response": "{\"intent\": \"other\", \"confidence\": 0.75, \"reasoning\": \"The tweet is a mid-conversation fragment with no context about what service or feature is being asked about, making the intent ambiguous.\"}"
+}

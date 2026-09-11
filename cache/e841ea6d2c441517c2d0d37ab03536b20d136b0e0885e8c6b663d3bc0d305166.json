@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "e841ea6d2c441517c2d0d37ab03536b20d136b0e0885e8c6b663d3bc0d305166",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@SpotifyCares Found a bug where a song in an album is saved in my library but the notification shows that it's not. https://t.co/68OlXBUMAg|@SpotifyCares Thanks for flagging this. We'll get this repor",
+  "response": "{\"helpfulness\": 3, \"groundedness\": 5, \"brand_tone\": 3, \"correctness\": 5, \"critique\": \"The reply acknowledges the issue but offers no concrete guidance, making it only vaguely helpful and lacking the warm, friendly tone typical of Spotify support.\"}"
+}

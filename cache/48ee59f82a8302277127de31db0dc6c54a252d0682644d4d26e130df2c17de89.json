@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "48ee59f82a8302277127de31db0dc6c54a252d0682644d4d26e130df2c17de89",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares I'm getting an extended delay (~30 secs) when auth'ing my third-party app. Known issue?",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.7, \"reasoning\": \"The user is reporting a technical issue with third-party app authentication (OAuth) causing a significant delay, which falls under device connection/technical problems.\"}"
+}

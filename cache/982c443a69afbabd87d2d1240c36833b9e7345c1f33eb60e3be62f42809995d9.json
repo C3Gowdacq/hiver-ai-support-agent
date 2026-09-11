@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "982c443a69afbabd87d2d1240c36833b9e7345c1f33eb60e3be62f42809995d9",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|c1423d3313c33d62",
+  "prompt_preview": "@116130 Why is 20% of my discover weekly French?",
+  "response": "{\"reply\": \"@116130 Sorry to hear your Discover Weekly is heavy on French this week! Keep adding your favorite tracks to Your Library or playlists and the mix should improve over time. /CH\", \"grounding_note\": \"Based on past cases where users complained about Discover Weekly content, we apologize, suggest adding favorite tracks to improve the mix, and keep tone friendly and concise.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8736327886581421}"
+}

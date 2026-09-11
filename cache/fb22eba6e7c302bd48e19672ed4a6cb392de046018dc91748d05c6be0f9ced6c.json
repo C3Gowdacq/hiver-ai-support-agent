@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "fb22eba6e7c302bd48e19672ed4a6cb392de046018dc91748d05c6be0f9ced6c",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@125633 our related artists on Spotify are death metal bands. Say whaaaa?",
+  "response": "{\"intent\": \"venting_feedback\", \"confidence\": 0.94, \"reasoning\": \"The user is expressing frustration about the algorithm's related artists suggestions, which fits the venting_feedback category.\"}"
+}

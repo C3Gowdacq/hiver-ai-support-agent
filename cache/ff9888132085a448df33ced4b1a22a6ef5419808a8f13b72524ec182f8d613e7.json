@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "ff9888132085a448df33ced4b1a22a6ef5419808a8f13b72524ec182f8d613e7",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "@SpotifyCares hi, i paid with doku and the payment is succes but i still have free account, help|Hey there, we'd be happy to help! Could you DM us your account's username and email address so we can t",
+  "response": "{\"helpfulness\": 5, \"groundedness\": 5, \"brand_tone\": 5, \"correctness\": 5, \"critique\": \"The reply is friendly, asks for private info via DM, and follows proper routing without hallucinations.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "f67af7a0ab85787a6ba9849c7573e2eb51df871d0e3575fe375eac449e2ebe07",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|7c660dac4b43b523",
+  "prompt_preview": "@SpotifyCares Trying to reset my password and I’m getting a CSRF token is invalid. Can you help?",
+  "response": "{\"reply\": \"\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.9029460549354553}"
+}

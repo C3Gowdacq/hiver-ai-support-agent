@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "3d13c78e96d5740ee3cf2bcffd75b17abd94863afaa541219ed78b8341e0d130",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|22294abe35779e79",
+  "prompt_preview": "@115888 why do you hate me ? https://t.co/AVAgzgcb5b",
+  "response": "{\"reply\": \"Hey! We've just sent you a DM. Check your inbox /RH\", \"grounding_note\": \"Grounded in Past Case 1 (similarity 0.99), where a frustrated customer's tweet was met with a brief, warm acknowledgment and a DM prompt. The venting_feedback intent aligns with the need to move the conversation to a private channel for personalized support.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.9899893999099731}"
+}

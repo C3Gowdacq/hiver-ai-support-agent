@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "cdb9f854ee850559584d58d7bcd72cf5511dea6bff2e9368c97b3c1f12e3a274",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "Spotify has a Follow button, but where is the Never Play This Trash Again button? @115888 @33326",
+  "response": "{\"intent\": \"feature_request_howto\", \"confidence\": 0.85, \"reasoning\": \"The user is requesting a new feature (a \\\"Never Play\\\" button) to control what music they hear, which falls under feature suggestions.\"}"
+}

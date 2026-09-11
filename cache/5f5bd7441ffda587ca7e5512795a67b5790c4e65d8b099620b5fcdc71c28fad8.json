@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "5f5bd7441ffda587ca7e5512795a67b5790c4e65d8b099620b5fcdc71c28fad8",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "I love how I just tried to import a 1020-song playlist from iTunes into @115888 and it gave me one with 8 tracks. Good use of my time!",
+  "response": "{\"intent\": \"venting_feedback\", \"confidence\": 0.85, \"reasoning\": \"The user is expressing frustration and sarcasm about a failed playlist import (1020 songs reduced to 8), which is a complaint/venting about a feature malfunction rather than a specific technical troubleshooting request.\"}"
+}

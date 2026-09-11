@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "bdd127b6f270493143133a3932994f1b5ca26dec68e9d64d0f743af6e5a748b3",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "Usual @115888 view when trying to choose music in the metro (with bad signal). Annoying since music is downloaded https://t.co/5yjfzbtndW",
+  "response": "{\"intent\": \"playback_streaming\", \"confidence\": 0.9, \"reasoning\": \"The user is reporting a technical issue where downloaded music fails to play offline in a low-signal environment, which is a playback/streaming problem.\"}"
+}

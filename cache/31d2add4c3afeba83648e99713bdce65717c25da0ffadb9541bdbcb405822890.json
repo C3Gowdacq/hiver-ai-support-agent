@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "31d2add4c3afeba83648e99713bdce65717c25da0ffadb9541bdbcb405822890",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|a5a51a3b4d4006e2",
+  "prompt_preview": "Hey @SpotifyCares, I'm trying to login to the web player and I'm getting this error message: \"Oops! Something went wrong, please try again or check out our help area.\" Any idea what's up? Thanks!",
+  "response": "{\"reply\": \"@[your_handle] Hey! Could you DM us your account's email address or username so we can investigate? https://t.co/ldFdZRiNAt /JP\", \"grounding_note\": \"Based on Past Cases 1 and 2 where users reported 'Oops! Something went wrong' login errors and were asked to DM account info.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7165387868881226}"
+}

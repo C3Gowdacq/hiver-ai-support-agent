@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "470802975075d4c371b50507f3c4694a27541e311f6071cf5d67eda9330465aa",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|a064ed5cd02b4f9d",
+  "prompt_preview": "@115888 I cannot access music through my app!!",
+  "response": "{\"reply\": \"@115888 Hi! Sorry you\\u2019re having trouble accessing music. Could you share what device/OS and Spotify version you\\u2019re using, and when this started? Feel free to DM us for more help https://t.co/ldFdZRiNAt /SV\", \"grounding_note\": \"Based on Past Case 3, we ask for device/OS, app version, and timing to troubleshoot playback issues.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8078794479370117}"
+}

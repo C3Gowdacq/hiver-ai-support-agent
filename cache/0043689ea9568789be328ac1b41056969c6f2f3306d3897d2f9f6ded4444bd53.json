@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "0043689ea9568789be328ac1b41056969c6f2f3306d3897d2f9f6ded4444bd53",
+  "model": "judge",
+  "extra": "rubric",
+  "prompt_preview": "Disappointed in @115888 today. Changed a playlist name, and I had to download my entire playlist b/c of just a name change. I discovered this 30 seconds before airplane mode for my six hour flight was",
+  "response": "{\"helpfulness\": 3, \"groundedness\": 5, \"brand_tone\": 5, \"correctness\": 5, \"critique\": \"The reply politely asks for more details via DM, which is appropriate, but it doesn\\u2019t offer any immediate troubleshooting steps or explain why the download was needed.\"}"
+}

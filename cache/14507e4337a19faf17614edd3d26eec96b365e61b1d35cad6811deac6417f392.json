@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "14507e4337a19faf17614edd3d26eec96b365e61b1d35cad6811deac6417f392",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 I cannot access my account despite paying monthly to subscribe!?! Help please!!",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.9, \"reasoning\": \"The user explicitly states they \\\"cannot access my account,\\\" which is a clear account access issue, even though they mention their paid subscription.\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "32d627e38ed8ec9bd208b30a6fafaf272e924c23b68e0704688c7d613fcf52f4",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|e7e90719f302e276",
+  "prompt_preview": "@115888 🚨🚨SEND HELP🚨🚨 my friends songs wont play not all but an exceptional few and they’re absolute bops we tweet this to you with high concerns but with high hopes of an answer 😁👍🏽",
+  "response": "{\"reply\": \"@115888 Hey there! Sorry those bops aren\\u2019t playing\\u2014could you let us know the device, operating system, and Spotify version you\\u2019re using? If you see any error message, a screenshot would help too /RH\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6845858693122864}"
+}

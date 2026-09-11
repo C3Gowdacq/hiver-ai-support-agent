@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "4316dff9968d5bd12b5381bc0c4caa0dc2467c94263551b63651f05e1b13e35c",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|de39edbb42afd73c",
+  "prompt_preview": "@SpotifyCares hey my friend emailed 7 hours ago about his hijacked account. How can he expedite this a bit?",
+  "response": "{\"reply\": \"@[user] Hey there! Please have your friend DM us with the account email so we can prioritize the review. https://t.co/ldFdZRiNAt /AB\", \"grounding_note\": \"Based on Past Case 2 (account hijack) and Past Case 3 (requesting DM for account details).\", \"grounding_cases_used\": 3, \"top_similarity\": 0.7729480266571045}"
+}

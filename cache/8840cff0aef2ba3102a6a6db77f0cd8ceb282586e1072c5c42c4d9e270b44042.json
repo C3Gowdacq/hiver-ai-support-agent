@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "8840cff0aef2ba3102a6a6db77f0cd8ceb282586e1072c5c42c4d9e270b44042",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|60ade6ec25576857",
+  "prompt_preview": "@SpotifyCares  okay, so my ex had is account linked to my bank. And we broke up and I couldn’t cancel it and it charged my card... I’m help",
+  "response": "{\"reply\": \"@[user] I'm sorry to hear about the charge. Please DM us at https://t.co/ldFdZRiNAt so we can sort this out for you. /RH\", \"grounding_note\": \"Inspired by Past Case 1 (billing question about credit card) and the general pattern of asking the user to DM for private info.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6971460580825806}"
+}

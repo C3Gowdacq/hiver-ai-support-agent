@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "c6f20e93d69ee186c8498581c2d87305f1796f72357984b86329d92732c45072",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 you guys need to add a setting to shut off all edited versions of song! Mood killer! #BitchDontKillMyVibe #DeadlyVenoms",
+  "response": "{\"intent\": \"feature_request_howto\", \"confidence\": 0.94, \"reasoning\": \"The user is requesting a new setting to disable edited versions of songs, which is a feature request.\"}"
+}

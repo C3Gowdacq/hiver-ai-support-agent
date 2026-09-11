@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "03e93776ad0a0e1a6ec95082f5f2d2e8516f3bb4807afed90977fb5170afccf3",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|a0be4584a4aa6e13",
+  "prompt_preview": "@SpotifyCares i have been down graded from premium to free despite paying @121122 but they have only confirmed payment made!!!",
+  "response": "{\"reply\": \"@121122 Hey! Could you send us a DM with the email address or username linked to your account? We\\u2019ll check why your Premium was downgraded right away. https://t.co/ldFdZRiNAt /AY\", \"grounding_note\": \"Generated via fallback (unstructured output)\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8036381006240845}"
+}

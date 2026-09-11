@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "a15ecf1573fa57581e5d835767a19e262bc864f9ad7bd30b7fb0e101f900dc72",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|31309d3943a1a17f",
+  "prompt_preview": "@SpotifyCares why do my playlists say \"by Spotify\" all of a sudden? I can't add/edit anymore. Don't want to re-make them. #spotify #help",
+  "response": "{\"reply\": \"Hey! That's not normal for your own playlists \\u2014 could you DM us your account details so we can take a closer look? https://t.co/ldFdZRiNAt /MC\", \"grounding_note\": \"Grounded in Past Case 2's tone (direct, helpful, /MC initials) and the pattern of asking for private account info via DM when the issue is account-specific (playlists showing \\\"by Spotify\\\" and losing edit access). The reply avoids inventing a solution and instead escalates to a private DM, consistent with Rule 4.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6302796602249146}"
+}

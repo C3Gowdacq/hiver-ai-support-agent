@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "1589bacf0ec256f6c6e509d449e276453d7cf9d728ede2353c494a57bff493fe",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@115888 I hate when a suggested song that's nothing related to what I'm listening to plays https://t.co/Rl9GlwNjaj",
+  "response": "{\"intent\": \"venting_feedback\", \"confidence\": 0.85, \"reasoning\": \"The user is expressing frustration about irrelevant song suggestions (algorithm quality) without asking a specific technical question or requesting a feature change.\"}"
+}

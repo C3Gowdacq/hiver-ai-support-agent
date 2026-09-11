@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "3341b39e0173234c9841c40cf5b3fd9672d15bd7c2aeb6f5c6b0c677dd378c6d",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares Maybe something that could help me figure out how to get more followers",
+  "response": "{\"intent\": \"feature_request_howto\", \"confidence\": 0.8, \"reasoning\": \"The user is asking for guidance on how to grow their follower count, which is a how-to question about platform features.\"}"
+}

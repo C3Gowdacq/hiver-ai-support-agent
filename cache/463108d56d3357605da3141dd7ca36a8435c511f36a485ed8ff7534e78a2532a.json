@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "463108d56d3357605da3141dd7ca36a8435c511f36a485ed8ff7534e78a2532a",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares i have been down graded from premium to free despite paying @121122 but they have only confirmed payment made!!!",
+  "response": "{\"intent\": \"billing_subscription\", \"confidence\": 0.96, \"reasoning\": \"User reports being downgraded after payment, indicating a subscription/billing problem.\"}"
+}

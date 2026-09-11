@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "47dbcfd2f24fb163968414534092080b912dbb7893db82993cba47f99e08f171",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares  okay, so my ex had is account linked to my bank. And we broke up and I couldn’t cancel it and it charged my card... I’m help",
+  "response": "{\"intent\": \"billing_subscription\", \"confidence\": 0.96, \"reasoning\": \"The user reports being charged after a breakup and being unable to cancel the linked account, which is a billing and subscription issue.\"}"
+}

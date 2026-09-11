@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "f0f467a24bf48d65332f3a58bdd7173343292a6256143c41c9872f76061490d7",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "reply_v1|a2bf4c8181e346a8",
+  "prompt_preview": "@SpotifyCares Ok sorry. The question was if you plan to release \"A triumph for Man\" with Mew. Best regards, Per",
+  "response": "{\"reply\": \"@Per Thanks for the clarification! We'll let the team know it's something you'd like to see. In the meantime, if you need help with anything else, you know where to find us /QI\", \"grounding_note\": \"Grounded in Past Case 3, which handled a similar content availability question by thanking the customer, passing the request to the team, and offering future help.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.8178314566612244}"
+}

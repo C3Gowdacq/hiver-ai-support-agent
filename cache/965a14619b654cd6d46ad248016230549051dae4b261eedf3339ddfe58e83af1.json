@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "965a14619b654cd6d46ad248016230549051dae4b261eedf3339ddfe58e83af1",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "Allo @SpotifyCares so I have seen @241897 had the same problem with the random letters and numbers for a username? Anyway, you can dm me so I can change my username?",
+  "response": "{\"intent\": \"account_access\", \"confidence\": 0.94, \"reasoning\": \"The user is asking about a problem with random letters/numbers in their username and wants to change it, which falls under login/account access issues.\"}"
+}

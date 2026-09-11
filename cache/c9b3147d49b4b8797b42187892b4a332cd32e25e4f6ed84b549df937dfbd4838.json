@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "c9b3147d49b4b8797b42187892b4a332cd32e25e4f6ed84b549df937dfbd4838",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares I won't be able to to get a uni days account as my course provider is not listed. Is there any other way to retain my discount?",
+  "response": "{\"intent\": \"billing_subscription\", \"confidence\": 0.9, \"reasoning\": \"The user is asking about eligibility for a student discount plan and alternative ways to retain a pricing discount, which falls under subscription plans and pricing.\"}"
+}

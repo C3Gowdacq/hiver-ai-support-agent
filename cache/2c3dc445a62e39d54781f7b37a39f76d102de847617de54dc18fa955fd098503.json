@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "2c3dc445a62e39d54781f7b37a39f76d102de847617de54dc18fa955fd098503",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "Security is important, @spotifycares. We'd like it if you supported two factor auth. https://t.co/dFe7f0NAmS #SupportTwoFactorAuth",
+  "response": "{\"intent\": \"feature_request_howto\", \"confidence\": 0.9, \"reasoning\": \"The user is requesting a new feature (two-factor authentication) for their account, which falls under feature suggestions.\"}"
+}

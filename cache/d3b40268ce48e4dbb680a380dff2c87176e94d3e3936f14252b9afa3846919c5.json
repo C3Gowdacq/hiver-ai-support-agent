@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "d3b40268ce48e4dbb680a380dff2c87176e94d3e3936f14252b9afa3846919c5",
+  "model": "qwen/qwen3.8-27b",
+  "extra": "intent_v1",
+  "prompt_preview": "@SpotifyCares The 3,333 download limit is not why I subscribed to Spotify premium.",
+  "response": "{\"intent\": \"billing_subscription\", \"confidence\": 0.75, \"reasoning\": \"The user is expressing dissatisfaction with a Premium plan limitation (download cap) in the context of their subscription, which falls under billing/subscription concerns.\"}"
+}

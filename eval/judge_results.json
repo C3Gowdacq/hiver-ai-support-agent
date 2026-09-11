@@ -1,0 +1,263 @@
+{
+  "sample_size": 40,
+  "overall_judge_average_score": 3.73,
+  "overall_exact_agreement": 83.8,
+  "overall_adjacent_agreement": 94.4,
+  "overall_cohen_kappa": 0.914,
+  "criteria_summary": {
+    "helpfulness": {
+      "judge_mean": 3.12,
+      "judge_std": 1.29,
+      "human_mean": 3.12
+    },
+    "groundedness": {
+      "judge_mean": 3.77,
+      "judge_std": 1.57,
+      "human_mean": 3.7
+    },
+    "brand_tone": {
+      "judge_mean": 3.98,
+      "judge_std": 1.44,
+      "human_mean": 3.8
+    },
+    "correctness": {
+      "judge_mean": 4.05,
+      "judge_std": 1.52,
+      "human_mean": 3.83
+    }
+  },
+  "inter_rater_agreement": {
+    "helpfulness": {
+      "exact_agreement_pct": 82.5,
+      "adjacent_agreement_pct": 97.5,
+      "cohens_quadratic_kappa": 0.926
+    },
+    "groundedness": {
+      "exact_agreement_pct": 90.0,
+      "adjacent_agreement_pct": 92.5,
+      "cohens_quadratic_kappa": 0.932
+    },
+    "brand_tone": {
+      "exact_agreement_pct": 80.0,
+      "adjacent_agreement_pct": 92.5,
+      "cohens_quadratic_kappa": 0.868
+    },
+    "correctness": {
+      "exact_agreement_pct": 82.5,
+      "adjacent_agreement_pct": 95.0,
+      "cohens_quadratic_kappa": 0.931
+    }
+  },
+  "detailed_evaluations": [
+    {
+      "tweet_id": "1098081",
+      "intent": "feature_request_howto",
+      "tweet_text": "Security is important, @spotifycares. We'd like it if you supported two factor auth. https://t.co/dFe7f0NAmS #SupportTwoFactorAuth",
+      "drafted_reply": "Hey there! We can see how that\u2019d be useful. We'd suggest adding your vote to the idea at https://t.co/YbSHEKRk7m /AR",
+      "escalated": true,
+      "escalation_reason": "Security/financial keywords detected: security.",
+      "judge_scores": {
+        "helpfulness": 4,
+        "groundedness": 5,
+        "brand_tone": 5,
+        "correctness": 3,
+        "critique": "The reply is friendly and gives a concrete next step, but unnecessarily escalates a simple feature request to a human, which is a routing misstep."
+      },
+      "human_scores": {
+        "helpfulness": 5,
+        "groundedness": 5,
+        "brand_tone": 3,
+        "correctness": 3
+      }
+    },
+    {
+      "tweet_id": "2950170",
+      "intent": "account_access",
+      "tweet_text": "@SpotifyCares Trying to reset my password and I\u2019m getting a CSRF token is invalid. Can you help?",
+      "drafted_reply": "nan",
+      "escalated": true,
+      "escalation_reason": "Intent 'account_access' requires private account/billing verification via DM.",
+      "judge_scores": {
+        "helpfulness": 1,
+        "groundedness": 1,
+        "brand_tone": 1,
+        "correctness": 1,
+        "critique": "The reply is just 'nan', offering no assistance, guidance, or appropriate tone, and fails to address the user's password reset issue."
+      },
+      "human_scores": {
+        "helpfulness": 1,
+        "groundedness": 1,
+        "brand_tone": 1,
+        "correctness": 1
+      }
+    },
+    {
+      "tweet_id": "1892781",
+      "intent": "account_access",
+      "tweet_text": "@SpotifyCares I've been trying to get in contact with you guys and no one is returning my emails. I would like to change my username. Help.",
+      "drafted_reply": "Hey there! Sorry you've been having trouble reaching us. Can you DM us your account's email address or username? We'll check backstage and help you with that username change /AR https://t.co/ldFdZRiNAt",
+      "escalated": true,
+      "escalation_reason": "Intent 'account_access' requires private account/billing verification via DM.",
+      "judge_scores": {
+        "helpfulness": 5,
+        "groundedness": 3,
+        "brand_tone": 5,
+        "correctness": 5,
+        "critique": "The response is friendly, helpful, and routes the user correctly via DM, but the included generic t.co link is not an official Spotify URL, reducing groundedness."
+      },
+      "human_scores": {
+        "helpfulness": 5,
+        "groundedness": 3,
+        "brand_tone": 4,
+        "correctness": 5
+      }
+    },
+    {
+      "tweet_id": "116645",
+      "intent": "account_access",
+      "tweet_text": "@SpotifyCares Hi - I want to stop logging in with Facebook and login with my email instead but the system won't let me do it. Any thoughts?",
+      "drafted_reply": "@[user] Hey there! We'd love to help you switch from Facebook to email login. Could you DM us your account email address so we can look into it? https://t.co/ldFdZRiNAt /GN",
+      "escalated": true,
+      "escalation_reason": "Intent 'account_access' requires private account/billing verification via DM.",
+      "judge_scores": {
+        "helpfulness": 5,
+        "groundedness": 5,
+        "brand_tone": 5,
+        "correctness": 5,
+        "critique": "The reply is friendly, asks for a private DM to verify the account, and follows Spotify's standard support process without any misinformation."
+      },
+      "human_scores": {
+        "helpfulness": 5,
+        "groundedness": 5,
+        "brand_tone": 4,
+        "correctness": 5
+      }
+    },
+    {
+      "tweet_id": "231002",
+      "intent": "playback_streaming",
+      "tweet_text": "@SpotifyCares I\u2019ll try that next time it cuts out. It\u2019s working at the moment after I logged out and reset the phone earlier. Thanks",
+      "drafted_reply": "Glad to hear it's working again! Just give us a shout if it cuts out again \u2014 we're just a tweet away /JS",
+      "escalated": false,
+      "escalation_reason": "Intent 'playback_streaming' (confidence: 0.85) with strong retrieval match (sim: 0.79). Safe to auto-handle.",
+      "judge_scores": {
+        "helpfulness": 5,
+        "groundedness": 5,
+        "brand_tone": 5,
+        "correctness": 5,
+        "critique": "The reply is friendly, acknowledges the fix, offers future help without requesting private info, and contains no inaccurate claims."
+      },
+      "human_scores": {
+        "helpfulness": 5,
+        "groundedness": 5,
+        "brand_tone": 5,
+        "correctness": 4
+      }
+    },
+    {
+      "tweet_id": "2623509",
+      "intent": "account_access",
+      "tweet_text": "@SpotifyCares My account has been hacked and I'm locked out of both resetting my password and changing my email address. Any help you can offer?",
+      "drafted_reply": "Hey there, help's arrived! We're sorry to hear that. Check out https://t.co/QHn3ok8y2n for what to do next /JQ",
+      "escalated": true,
+      "escalation_reason": "Intent 'account_access' requires private account/billing verification via DM.",
+      "judge_scores": {
+        "helpfulness": 2,
+        "groundedness": 2,
+        "brand_tone": 4,
+        "correctness": 5,
+        "critique": "The reply is friendly but only points to an ambiguous link and lacks concrete steps or private assistance, and the link appears non\u2011official."
+      },
+      "human_scores": {
+        "helpfulness": 3,
+        "groundedness": 2,
+        "brand_tone": 4,
+        "correctness": 5
+      }
+    },
+    {
+      "tweet_id": "1087962",
+      "intent": "billing_subscription",
+      "tweet_text": "@SpotifyCares Now let's talk about lowering my payments \ud83d\udc40",
+      "drafted_reply": "@user We'd be happy to help with your billing! Please DM us your account details so we can take a closer look: https://t.co/ldFdZRiNAt /JM",
+      "escalated": true,
+      "escalation_reason": "Intent 'billing_subscription' requires private account/billing verification via DM.",
+      "judge_scores": {
+        "helpfulness": 5,
+        "groundedness": 4,
+        "brand_tone": 5,
+        "correctness": 5,
+        "critique": "The response is friendly and correctly directs the user to a private DM for billing help, but the generic short link is unnecessary and not an official Spotify URL."
+      },
+      "human_scores": {
+        "helpfulness": 5,
+        "groundedness": 4,
+        "brand_tone": 5,
+        "correctness": 5
+      }
+    },
+    {
+      "tweet_id": "669844",
+      "intent": "billing_subscription",
+      "tweet_text": "@115888 why can't we use app store cards to pay for premium?",
+      "drafted_reply": "@115888 Hey! App Store cards aren\u2019t supported for Premium \u2013 you\u2019ll need a recurring payment method like a",
+      "escalated": true,
+      "escalation_reason": "Intent 'billing_subscription' requires private account/billing verification via DM.",
+      "judge_scores": {
+        "helpfulness": 2,
+        "groundedness": 4,
+        "brand_tone": 4,
+        "correctness": 2,
+        "critique": "The reply is friendly but cuts off mid-sentence, fails to give complete payment guidance or direct the user to a private channel, making it only partially correct and unhelpful."
+      },
+      "human_scores": {
+        "helpfulness": 2,
+        "groundedness": 4,
+        "brand_tone": 4,
+        "correctness": 2
+      }
+    },
+    {
+      "tweet_id": "982151",
+      "intent": "billing_subscription",
+      "tweet_text": "@115888 do you not accept NUS student discount anymore?",
+      "drafted_reply": "Hi there, help's here! Can you DM us your account's username and email address so we can look into your NUS student discount? /TR https://t.co/ldFdZRiNAt",
+      "escalated": true,
+      "escalation_reason": "Intent 'billing_subscription' requires private account/billing verification via DM.",
+      "judge_scores": {
+        "helpfulness": 5,
+        "groundedness": 5,
+        "brand_tone": 5,
+        "correctness": 5,
+        "critique": "The reply is friendly, asks for private info via DM which is appropriate for billing issues, and makes no inaccurate claims."
+      },
+      "human_scores": {
+        "helpfulness": 3,
+        "groundedness": 5,
+        "brand_tone": 4,
+        "correctness": 5
+      }
+    },
+    {
+      "tweet_id": "2653080",
+      "intent": "content_availability",
+      "tweet_text": "@115888 plz tell me why Velvet by Stoney LaRue suddenly got deleted. Guess I\u2019m ending my subscription. Bye.",
+      "drafted_reply": "nan",
+      "escalated": false,
+      "escalation_reason": "Intent 'content_availability' (confidence: 0.94) with strong retrieval match (sim: 0.68). Safe to auto-handle.",
+      "judge_scores": {
+        "helpfulness": 1,
+        "groundedness": 1,
+        "brand_tone": 1,
+        "correctness": 1,
+        "critique": "The reply is just 'nan', which provides no answer, guidance, or empathy, fails to address the content removal issue, and does not follow any Spotify support policies."
+      },
+      "human_scores": {
+        "helpfulness": 1,
+        "groundedness": 1,
+        "brand_tone": 1,
+        "correctness": 1
+      }
+    }
+  ]
+}

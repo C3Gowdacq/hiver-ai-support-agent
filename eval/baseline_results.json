@@ -1,0 +1,72 @@
+{
+  "trivial_baseline": {
+    "intent_accuracy": 0.15,
+    "intent_macro_f1": 0.037267080745341616,
+    "intent_weighted_f1": 0.0391304347826087,
+    "escalate_precision": 0.285,
+    "escalate_recall": 1.0,
+    "escalate_f1": 0.44357976653696496
+  },
+  "simple_baseline": {
+    "intent_accuracy": 0.8,
+    "intent_macro_f1": 0.8070374232200076,
+    "intent_weighted_f1": 0.80509275318698,
+    "escalate_precision": 0.9107142857142857,
+    "escalate_recall": 0.8947368421052632,
+    "escalate_f1": 0.9026548672566371,
+    "retrieval_intent_accuracy": 0.42,
+    "mean_top1_cosine_sim": 0.47448772083328256
+  },
+  "sample_predictions": [
+    {
+      "tweet_id": "187568",
+      "customer_text": "hey @115888 fix your app",
+      "gold_intent": "other",
+      "gold_escalate": 0,
+      "simple_pred_intent": "other",
+      "simple_pred_escalate": 0,
+      "nn_copy_paste_reply": "@169364 Hey there! Everything should be running smoothly now. Let us know if you're still getting issues /GS",
+      "retrieval_cosine_sim": 0.7094215193013865
+    },
+    {
+      "tweet_id": "2043225",
+      "customer_text": "@115888 I cannot access my account despite paying monthly to subscribe!?! Help please!!",
+      "gold_intent": "billing_subscription",
+      "gold_escalate": 1,
+      "simple_pred_intent": "billing_subscription",
+      "simple_pred_escalate": 1,
+      "nn_copy_paste_reply": "@711571 We'd be happy to get this sorted out for you. Can you send us a DM? We'd like to speak on this matter privately. We'll be right here /TF https://t.co/ldFdZRiNAt",
+      "retrieval_cosine_sim": 0.36451598302273763
+    },
+    {
+      "tweet_id": "186494",
+      "customer_text": "@SpotifyCares Turned this computer off for the night and relogged today to the same problem.  Song I click on plays the same wrong song",
+      "gold_intent": "playback_streaming",
+      "gold_escalate": 0,
+      "simple_pred_intent": "playback_streaming",
+      "simple_pred_escalate": 0,
+      "nn_copy_paste_reply": "@238736 We understand, but we're just making sure that we cover all bases. You can just edit a single letter of the track name if you don't want to fully change it. Keep us posted /SJ",
+      "retrieval_cosine_sim": 0.3115861943987149
+    },
+    {
+      "tweet_id": "301913",
+      "customer_text": "@115888 If I already pay for both how can I get it for the student price?",
+      "gold_intent": "billing_subscription",
+      "gold_escalate": 1,
+      "simple_pred_intent": "billing_subscription",
+      "simple_pred_escalate": 1,
+      "nn_copy_paste_reply": "@380222 2: it available in the future! If you need anything else, let us know /WW",
+      "retrieval_cosine_sim": 0.5260131961775464
+    },
+    {
+      "tweet_id": "643419",
+      "customer_text": "@115888 wtf you doing to me? \ud83d\ude30 https://t.co/BbCSzQsC0H",
+      "gold_intent": "venting_feedback",
+      "gold_escalate": 0,
+      "simple_pred_intent": "venting_feedback",
+      "simple_pred_escalate": 0,
+      "nn_copy_paste_reply": "@413940 2: info on this at https://t.co/NakiNgZcST. Hope this clears things up /AR",
+      "retrieval_cosine_sim": 0.857267605364674
+    }
+  ]
+}

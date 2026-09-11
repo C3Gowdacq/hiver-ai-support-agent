@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "dbe338527f081904c5c60244d11f32fc9e6f0d80f4c18fddc4920a8aa78029af",
+  "model": "openai/gpt-oss-120b",
+  "extra": "reply_v1|61d0655b147ba6a3",
+  "prompt_preview": "just discovered that your daily mixes repeat if you listen for more than like... 40 minutes. fix it @115888 @SpotifyCares",
+  "response": "{\"reply\": \"@[user] Hey! Sorry you\\u2019re seeing repeats. Can you let us know the device, OS, and Spotify version you\\u2019re using? We'll see what we can suggest /AP\", \"grounding_note\": \"Based on past cases where users reported issues and we asked for device/OS/version details (e.g., Past Case 2 & 3), we ask for more info to investigate the daily mix repeat problem.\", \"grounding_cases_used\": 3, \"top_similarity\": 0.6631144285202026}"
+}

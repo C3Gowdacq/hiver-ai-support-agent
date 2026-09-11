@@ -1,0 +1,7 @@
+{
+  "prompt_hash": "ae56fa9f9a4cb5036c6e9d9c6f8d014d3723bc985c0f6eb1fdfeebed9355e18c",
+  "model": "openai/gpt-oss-120b",
+  "extra": "intent_v1",
+  "prompt_preview": "Why tf is Garth Brooks not on Spotify. @115888",
+  "response": "{\"intent\": \"content_availability\", \"confidence\": 0.96, \"reasoning\": \"The user is asking why a specific artist's music is not available on Spotify, which matches the content availability intent.\"}"
+}

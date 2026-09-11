@@ -1,6 +1,12 @@
 # SpotifyCares AI Support Agent — Engineering & Evaluation Report
 
-**Candidate Project**: SpotifyCares AI Support Pipeline (Hiver SDE Intern Take-Home)  
+**Candidate**: **Chetan C Chikkegowda**  
+**Email**: [chetanccgowda@gmail.com](mailto:chetanccgowda@gmail.com) | **Phone**: +91 9611225645  
+**GitHub**: [https://github.com/C3Gowdacq](https://github.com/C3Gowdacq)  
+**Portfolio**: [https://c3-gowdacq-github-io.vercel.app/](https://c3-gowdacq-github-io.vercel.app/)  
+**LinkedIn**: [https://www.linkedin.com/in/chetan-c-chikkegowda-724b7b37b](https://www.linkedin.com/in/chetan-c-chikkegowda-724b7b37b)  
+
+**Project**: SpotifyCares AI Support Pipeline (Hiver SDE Intern Take-Home)  
 **Target Brand**: `@SpotifyCares` (Customer Support on Twitter / X)  
 **Tech Stack**: Python 3.12, LangChain LCEL, Groq LPUs (`openai/gpt-oss-120b` / `qwen/qwen3.8-27b`), FAISS (`IndexFlatIP`), scikit-learn, Pydantic v2  
 **Dataset**: Kaggle Customer Support on Twitter (`twcs.csv`, ~2.81M rows filtered to 6,500 SpotifyCares pairs)  
